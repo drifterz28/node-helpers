@@ -1,0 +1,2271 @@
+/**
+ * $Id: theme.css,v 1.1.2.19 2010/03/23 03:29:25 jmburnz Exp $
+ * adaptivethemes.com
+ *
+ * @file theme.css
+ * theme.css is the file to use when building your theme.
+ * Make a copy first as a backup.
+ */
+* {
+    -moz-outline-style: none;
+    -webkit-text-size-adjust: none;
+}
+/**********************************************************
+ * Eric Meyer Reset - altered to maintain some main theme elements
+ **********************************************************/
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+*/
+/* html, body, h1, h2, h3, h4, h5, h6, p, strong, b, u, i,  */
+div, span, applet, object, iframe,
+blockquote, pre, a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/**********************************************************
+ *                    HTML & Body
+ **********************************************************/
+html {
+    font-size: .9375em;
+ /* 16 x .9375 = 15px */
+}
+/* Admin menu */
+#admin-menu {
+    font: 0.75em Arial,Helvetica,sans-serif;
+}
+/**********************************************************
+ *                 HTML Elements
+ **********************************************************/
+em, dfn {
+    font-style: italic;
+}
+/**********************************************************
+ *                       Images
+ **********************************************************/
+.spot-img, .feat-img img, #article-image-callout img, #channel-wide-content.mini .block-copy img {
+    border: 1px solid #d0efea;
+}
+
+.carousel-slide img {
+    border: 1px solid #55cccc;
+}
+
+.nav-spot img {
+    border: 1px solid #ffffff;
+}
+/**********************************************************
+ *                      List Styles
+ **********************************************************/
+.block ul, .block .item-list ul,
+ #article-body ul,
+ article#blog ul,
+ #article-spotlight .spot-copy ul,
+ #channel-wide-content ul {
+    padding: 0;
+    margin: 10px 0;
+    margin-left: 0;
+}
+
+.block ul li,
+  #article-body ul li,
+  article#blog ul li,
+  #article-spotlight .spot-copy ul li,
+  #channel-wide-content ul li {
+    list-style: none;
+    margin: 0.75em 0;
+    font-size: 0.8em;
+    padding: 0 0 0 18px;
+    line-height: 1.3em;
+    background: url(http://gfx.tarot.com/images/numerology-site/images/vert-sprite.png) 0 -464px no-repeat;
+}
+
+ul.pager li, #article-body ul.pager li {
+    background-image: none;
+    padding: 0.5em;
+}
+/**********************************************************
+ *                 Global Link Styles
+ **********************************************************/
+#columns .addthis_toolbox a, #columns .addthis_toolbox a:link,
+#columns .addthis_toolbox a:visited, #columns .addthis_toolbox a:hover,
+#columns .addthis_toolbox a:active, #columns .addthis_toolbox a.active {
+    border-bottom: 0;
+}
+
+.draggable a.tabledrag-handle {
+    border-bottom: 0 !important;
+}
+/* Set global a:active and a:focus styles. */
+a:active,
+/**********************************************************
+ *                    Body Classes
+ **********************************************************/
+ /* NOTE: these are not active by default; you need to
+    enable them in the Advanced theme settings. */
+/* Front or not front. */
+/* Is the user logged in. */
+/* Content type body classes. */
+.clear {
+    clear: both;
+}
+
+div#admin-toolbar.vertical {
+    top: 21px;
+}
+/**********************************************************
+ *                  General Classes
+ **********************************************************/
+.hide {
+    position: absolute;
+    left: -9999px;
+}
+
+.clear {
+    clear: both;
+}
+/**********************************************************
+ *                  The wrapper divs
+ **********************************************************/
+#container {
+    background: url(http://gfx.tarot.com/images/numerology-site/images/numero-transparency-sprite.png) no-repeat center -250px;
+    width: 100% !important;
+    z-index: 1;
+    position: relative;
+}
+
+#container-wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    background: url(http://gfx.tarot.com/images/numerology-site/images/numero-continuous-sprite.jpg) no-repeat center -346px;
+    position: relative;
+    z-index: 1;
+}
+
+#container-inner {
+    width: 940px;
+    padding: 0 30px;
+}
+/* Column wrappers */
+#columns {
+ /* margin:20px 0; */
+}
+/* Content wrappers */
+.page-admin-build-block-list-numeromain .content-inner {
+    font-size: 0.8em;
+}
+/* Main content wrappers*/
+#content {
+    padding: 0;
+}
+/**********************************************************
+ *                       Regions
+ **********************************************************/
+/* Leaderboard is a full width region at the very top of the page. */
+#leaderboard,
+#leaderboard-close {
+    clear: both;
+    position: relative;
+    overflow: visible;
+    margin: 0 0 10px;
+}
+
+#leaderboard {
+    margin: 0 -30px 20px;
+    padding: 22px 25px 27px 25px;
+    background: url(http://gfx.tarot.com/images/numerology-site/images/numero-continuous-sprite.jpg) no-repeat left bottom;
+}
+
+.article-type-mini-channel #leaderboard-close {
+    margin-top: 25px;
+}
+
+.leaderboard-inner {
+    background-image: -moz-linear-gradient(left, #d9f2ee, #55cccc);
+ /* FF3.6 */
+    background-image: -o-linear-gradient(left, #d9f2ee, #55cccc);
+ /* Opera 11.10+ */
+    background-image: -webkit-gradient(linear, top left, top right, from(#d9f2ee), to(#55cccc));
+ /* Saf4+, Chrome */
+    background-image: -webkit-linear-gradient(left, #d9f2ee, #55cccc);
+ /* Chrome 10+, Saf5.1+ */
+    background-image: linear-gradient(left, #d9f2ee, #55cccc);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#d9f2ee', EndColorStr='#55cccc', GradientType=1);
+ /* IE6–IE9 */
+    min-height: 90px;
+    text-align: center;
+    padding: 5px;
+}
+/* Header region is embedded in the header, floated between the logo/site_name
+   and the search box. */
+/* Menu Bar sits below the header and is ideal for dynamic menus
+   such as http://drupal.org/project/superfish. */
+/* Secondary content is a full width region between the header and the
+   main columns. */
+/* Tertiary content is a full width region above the footer, below the
+   main content. */
+/* Content top and bottom are above and below the main content, within the main
+   content column. Content aside floats to the right within the main central
+   column, but below content top. */
+#content-column aside {
+    margin-top: 20px;
+}
+/* Article aside appears only in articles (nodes). By default its placed at
+   the bottom of the node.tpl.php template. */
+/**********************************************************
+ *                      Sidebars
+ **********************************************************/
+/* Target both sidebars with this low specifity selector. */
+/* Target a specific sidebar. */
+.sidebar-last .content-inner {
+    margin-right: 315px !important;
+}
+
+#numero-sidead-column {
+    background: #f0f7f5;
+    width: 300px;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+}
+
+#numero-sidead-top {
+    margin-bottom: 15px;
+}
+/**********************************************************
+ *                   Skip navigation
+ **********************************************************/
+/**
+ * DO NOT USE display:none as this hides it from screen readers!
+ */
+/* Override default pseudo class styles */
+/**********************************************************
+ *                 Header Elements
+ **********************************************************/
+#numero-topad {
+    position: relative;
+    z-index: 99;
+}
+ /* #header wraps #branding, #search-box-top and #header-blocks. */
+#site-header {
+    width: 100%;
+    background: url(http://gfx.tarot.com/images/numerology-site/images/numero-continuous-sprite.jpg) no-repeat center -198px;
+    border-bottom: 1px solid #ee9933;
+}
+
+#site-header-inner {
+    width: 1000px;
+    margin: 0 auto;
+    height: 148px;
+    background: url(http://gfx.tarot.com/images/numerology-site/images/numero-continuous-sprite.jpg) no-repeat center -198px;
+    position: relative;
+    zoom: 1;
+}
+/* #branding wraps #logo, #site-name and #site-slogan. */
+#branding {
+    height: 148px;
+}
+/* Logo and Site Name wrapper. */
+/* Logo and Site Name wrapper h1 - normally applies only the homepage. */
+h1.logo-site-name {
+    position: absolute;
+}
+/* Logo and Site Name wrapper DIV - normally applies to all internal pages,
+   or where no title is set. */
+div.logo-site-name {
+    position: absolute;
+}
+/* DIV/strong combo when when title is set. */
+/* By default the span is set to display:block, you can display:inline
+   or float the elements to get them all on one line. */
+/* Logo and Site Name SPAN wrappers. */
+span#logo {
+    display: block;
+    position: absolute;
+    top: 24px;
+    left: 3px;
+}
+
+span#logo a, span#logo img {
+    float: left;
+}
+
+span#site-name {
+    text-indent: -9999px;
+}
+/* Override default pseudo class styles. */
+/* Site slogan. */
+/* Number Nav */
+#nod-hdr-nav {
+    bottom: 0;
+    height: 80px;
+    overflow: hidden;
+    padding: 0 30px 0 100px;
+    position: absolute;
+    right: -20px;
+    width: 410px;
+}
+
+#nod-hdr-nav ul {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    zoom: 1;
+}
+
+#nod-hdr-nav li {
+    display: block;
+    float: left;
+    height: 70px;
+    margin: 47px 0 0;
+    width: 30px;
+}
+
+#nod-hdr-nav li.tab11 {
+    background-position: -185px -845px;
+    width: 35px;
+}
+
+#nod-hdr-nav li.tab22 {
+    background-position: -245px -845px;
+    width: 40px;
+}
+
+#nod-hdr-nav li.tab33 {
+    background-position: -310px -845px;
+    width: 45px;
+}
+
+#nod-hdr-nav li.active {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-position: -130px -845px;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 90px;
+    margin: 28px 0 0;
+    position: relative;
+    right: -5px;
+    width: 40px;
+}
+
+#nod-hdr-nav li:hover {
+    margin: 44px 0 0;
+}
+
+#nod-hdr-nav li.active a {
+    margin: 17px 0 0;
+}
+
+#nod-hdr-nav li.active:hover {
+    margin: 5px 0 0;
+}
+
+#nod-hdr-nav li a div.pin {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -130px -665px;
+    height: 25px;
+    left: 18px;
+    position: absolute;
+    top: -20px;
+    width: 30px;
+}
+
+#nod-hdr-nav li a.nod1 div.pin {
+    background-position: -130px -665px;
+}
+
+#nod-hdr-nav li a.nod2 div.pin {
+    background-position: -130px -695px;
+}
+
+#nod-hdr-nav li a.nod3 div.pin {
+    background-position: -130px -725px;
+}
+
+#nod-hdr-nav li a.nod4 div.pin {
+    background-position: -130px -755px;
+}
+
+#nod-hdr-nav li a.nod5 div.pin {
+    background-position: -130px -785px;
+}
+
+#nod-hdr-nav li a.nod6 div.pin {
+    background-position: -130px -815px;
+}
+
+#nod-hdr-nav li a.nod7 div.pin {
+    background-position: -160px -665px;
+}
+
+#nod-hdr-nav li a.nod8 div.pin {
+    background-position: -160px -695px;
+}
+
+#nod-hdr-nav li a.nod9 div.pin {
+    background-position: -160px -725px;
+}
+
+#nod-hdr-nav li a.nod11 div.pin {
+    background-position: -160px -755px;
+}
+
+#nod-hdr-nav li a.nod22 div.pin {
+    background-position: -160px -785px;
+}
+
+#nod-hdr-nav li a.nod33 div.pin {
+    background-position: -160px -815px;
+}
+
+#nod-hdr-nav li a {
+    display: block;
+    height: 60px;
+    position: relative;
+    width: 35px;
+    zoom: 1;
+}
+
+#nod-hdr-nav li a div.number {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -190px -690px;
+    cursor: pointer;
+    display: block;
+    height: 30px;
+    position: relative;
+    width: 35px;
+    zoom: 1;
+}
+
+#nod-hdr-nav li a div.today-is {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -200px -670px;
+    display: none;
+    height: 15px;
+    left: -95px;
+    position: absolute;
+    width: 95px;
+    top: 10px;
+}
+
+#nod-hdr-nav li a div.day {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -305px -670px;
+    display: none;
+    height: 15px;
+    position: absolute;
+    right: -40px;
+    width: 35px;
+    top: 10px;
+}
+
+#nod-hdr-nav li.active:hover a div.today-is,
+#nod-hdr-nav li.active:hover a div.day {
+    display: block;
+}
+
+#nod-hdr-nav li a.nod1 div.number {
+    background-position: -188px -695px;
+}
+
+#nod-hdr-nav li a.nod2 div.number {
+    background-position: -218px -695px;
+}
+
+#nod-hdr-nav li a.nod3 div.number {
+    background-position: -248px -695px;
+}
+
+#nod-hdr-nav li a.nod4 div.number {
+    background-position: -278px -695px;
+}
+
+#nod-hdr-nav li a.nod5 div.number {
+    background-position: -305px -695px;
+}
+
+#nod-hdr-nav li a.nod6 div.number {
+    background-position: -334px -695px;
+}
+
+#nod-hdr-nav li a.nod7 div.number {
+    background-position: -365px -695px;
+}
+
+#nod-hdr-nav li a.nod8 div.number {
+    background-position: -191px -727px;
+}
+
+#nod-hdr-nav li a.nod9 div.number {
+    background-position: -222px -727px;
+}
+
+#nod-hdr-nav li a.nod11 div.number {
+    background-position: -254px -727px;
+    width: 40px;
+}
+
+#nod-hdr-nav li a.nod22 div.number {
+    background-position: -294px -727px;
+    width: 45px;
+}
+
+#nod-hdr-nav li a.nod33 div.number {
+    background-position: -338px -727px;
+    width: 50px;
+}
+
+#nod-hdr-nav li:hover a.nod1 div.number, #nod-hdr-nav li.active a.nod1 div.number {
+    background-position: -188px -767px;
+}
+
+#nod-hdr-nav li:hover a.nod2 div.number, #nod-hdr-nav li.active a.nod2 div.number {
+    background-position: -218px -767px;
+}
+
+#nod-hdr-nav li:hover a.nod3 div.number, #nod-hdr-nav li.active a.nod3 div.number {
+    background-position: -248px -767px;
+}
+
+#nod-hdr-nav li:hover a.nod4 div.number, #nod-hdr-nav li.active a.nod4 div.number {
+    background-position: -278px -767px;
+}
+
+#nod-hdr-nav li:hover a.nod5 div.number, #nod-hdr-nav li.active a.nod5 div.number {
+    background-position: -305px -767px;
+}
+
+#nod-hdr-nav li:hover a.nod6 div.number, #nod-hdr-nav li.active a.nod6 div.number {
+    background-position: -334px -767px;
+}
+
+#nod-hdr-nav li:hover a.nod7 div.number, #nod-hdr-nav li.active a.nod7 div.number {
+    background-position: -365px -767px;
+}
+
+#nod-hdr-nav li:hover a.nod8 div.number, #nod-hdr-nav li.active a.nod8 div.number {
+    background-position: -191px -799px;
+}
+
+#nod-hdr-nav li:hover a.nod9 div.number, #nod-hdr-nav li.active a.nod9 div.number {
+    background-position: -222px -799px;
+}
+
+#nod-hdr-nav li:hover a.nod11 div.number, #nod-hdr-nav li.active a.nod11 div.number {
+    background-position: -254px -799px;
+}
+
+#nod-hdr-nav li:hover a.nod22 div.number, #nod-hdr-nav li.active a.nod22 div.number {
+    background-position: -294px -799px;
+}
+
+#nod-hdr-nav li:hover a.nod33 div.number, #nod-hdr-nav li.active a.nod33 div.number {
+    background-position: -338px -799px;
+}
+/* User Login Box */
+#hdr-user-block {
+    float: right;
+    margin: 10px 30px 0 0;
+    width: 300px;
+}
+
+#hdr-user-block div.login-box {
+    margin: 0 0 10px;
+    float: left;
+}
+
+#hdr-user-block div.login-box a.button.login {
+    background: #067979;
+}
+
+#hdr-user-block div.login-box a.button.create {
+    background: #e05522;
+}
+
+#hdr-user-block div.login-box a.button:hover {
+    background: #e93;
+}
+
+#hdr-user-block #login-form {
+    position: absolute;
+    left: -9999px;
+}
+
+#hdr-user-block div.user-console img.user-img {
+    border: 2px solid #fff;
+    float: left;
+    margin: 0 5px 0 0;
+}
+
+#hdr-user-block div.user-console p {
+    font-size: 0.8em;
+    line-height: 2em;
+    margin: 0;
+}
+
+#hdr-user-block div.user-console a {
+    color: #00698b;
+}
+
+#hdr-user-block div.social-links {
+    float: right;
+}
+
+#hdr-user-block div.user-console  a.logout {
+    color: #00698b;
+    font-size: 0.75em;
+}
+
+#hdr-user-block div.social-links a.social-btn {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-position: -120px -425px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+}
+
+#hdr-user-block div.social-links a.facebook {
+    background-position: -120px -425px;
+}
+
+#hdr-user-block div.social-links a.twitter {
+    background-position: -120px -455px;
+}
+
+#hdr-user-block #search-box {
+    background: #57d5d4;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    clear: both;
+    opacity: 0.8;
+    padding: 0 5px;
+    width: 290px;
+}
+
+#hdr-user-block #search-theme-form {
+    float: none;
+    margin: 5px 0 0;
+    width: 300px;
+}
+
+#hdr-user-block #search-theme-form label {
+    left: -9999px;
+    position: absolute;
+}
+
+#hdr-user-block #search-theme-form span.button input.form-submit {
+    background: #88e7e6;
+    font-size: 0.8em;
+    height: 24px;
+    line-height: 100%;
+    padding: 0;
+    width: 70px;
+}
+
+#hdr-user-block #search-theme-form span.button input.form-submit:hover {
+    background: #e93;
+}
+
+#hdr-user-block #search-theme-form input.form-text {
+    width: 210px;
+}
+/* Welcome Message Area */
+#welcome-msg-block {
+    height: 75px;
+    margin: 0 0 20px;
+    width: 624px;
+}
+
+#welcome-msg-block div.user-pic {
+    float: left;
+    height: 75px;
+    position: relative;
+    width: 90px;
+}
+
+#welcome-msg-block div.user-pic img {
+    border: 1px solid #c1e2e2;
+    padding: 3px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-position: -120px -485px;
+    background-repeat: no-repeat;
+    bottom: 0;
+    height: 26px;
+    position: absolute;
+    right: 10px;
+    width: 22px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n1 {
+    background-position: -120px -485px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n2 {
+    background-position: -120px -515px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n3 {
+    background-position: -120px -545px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n4 {
+    background-position: -120px -575px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n5 {
+    background-position: -120px -605px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n6 {
+    background-position: -145px -485px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n7 {
+    background-position: -145px -515px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n8 {
+    background-position: -145px -545px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod.n9 {
+    background-position: -145px -575px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod a {
+    border: none !important;
+    display: block;
+    height: 26px;
+    width: 22px;
+}
+
+#welcome-msg-block div.user-pic div.welcome-nod a:hover {
+    background: transparent;
+}
+
+#welcome-msg-block div.subhead1 {
+    color: #078b8b;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    line-height: 100%;
+    margin: 0 0 10px;
+}
+
+#welcome-msg-block p {
+    font-size: 0.8em;
+    line-height: 1.5em;
+}
+/**********************************************************
+ *    ColorBox Login
+ **********************************************************/
+#colorbox {
+    background-color: #d5f7f6;
+    background-image: -moz-linear-gradient(top, #d5f7f6, #70e1de);
+ /* FF3.6 */
+    background-image: -o-linear-gradient(top, #d5f7f6, #70e1de);
+ /* Opera 11.10+ */
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#d5f7f6), to(#70e1de));
+ /* Saf4+, Chrome */
+    background-image: -webkit-linear-gradient(top, #d5f7f6, #70e1de);
+ /* Chrome 10+, Saf5.1+ */
+    background-image: linear-gradient(top, #d5f7f6, #70e1de);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#d5f7f6', EndColorStr='#70e1de');
+ /* IE6–IE9 */
+    border: 2px solid #fff;
+    -moz-border-radius: 20px;
+ /* FF1+ */
+    -webkit-border-radius: 20px;
+ /* Saf3-4, iOS 1+, Android 1.5+ */
+    border-radius: 20px;
+ /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+}
+
+#cboxWrapper, #cboxContent,
+#cboxLoadedContent {
+    background: none;
+}
+
+#cboxLoadedContent {
+    margin: 0;
+}
+
+#cboxLoadedContent h2 {
+    color: #078b8b;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 100%;
+    margin: 0 0 15px;
+    text-transform: uppercase;
+}
+
+#cboxLoadedContent #edit-name-wrapper,
+#cboxLoadedContent #edit-pass-wrapper,
+#cboxLoadedContent #edit-name1-wrapper,
+#cboxLoadedContent #edit-pass1-wrapper {
+    margin: 5px 0;
+}
+
+#cboxLoadedContent label {
+    color: #333;
+}
+
+#cboxLoadedContent input {
+    width: 300px;
+}
+
+#cboxLoadedContent span.button input {
+    background: #e05522;
+    font-size: 1.2em;
+    margin: 10px 110px 0;
+    width: auto;
+}
+
+#cboxLoadedContent span.button input:hover {
+    background: #ee9933;
+}
+
+#cboxClose {
+    background: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png) -145px -605px no-repeat;
+    top: 0;
+}
+
+#cboxClose:hover {
+    background: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png) -145px -635px no-repeat;
+}
+
+#cboxLoadedContent h4 {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: normal;
+}
+
+#cboxLoadedContent h4 a,
+#cboxLoadedContent h4 a:link,
+#cboxLoadedContent h4 a:active {
+    color: #00698b;
+    border-bottom: #ccf5f4 1px solid !important;
+    text-decoration: none;
+}
+
+#cboxLoadedContent h4 a:hover {
+    background-color: #a1edeb !important;
+}
+/**********************************************************
+ *    Search box, Advanced search form, Search results
+ *          For the search block see blocks.css
+ **********************************************************/
+/**
+ * Search box
+ */
+/* Float the serch box right. */
+/* Reset form element margins. */
+/* Wrapper DIVs */
+/**
+ * Advanced search form
+ */
+/* Advanced search-form id. */
+/* Use the child selector because the inner div has no class. */
+/* Textfield styles. */
+#search-form #edit-keys-wrapper input:hover,
+/* Advanced search fieldset. */
+/**
+ * Search results
+ */
+/* Box styles for the results page. */
+.section-search .box {
+    margin-bottom: 30px;
+}
+
+.section-search .title {
+    margin-bottom: 5px;
+}
+/* Style the no results messages. */
+/* Search results document list. */
+/* Interactive Elements */
+#channel-topcap .interactive div.err-msg {
+    color: #e93;
+    font-size: 0.7em;
+    padding: 0 0 5px;
+}
+
+#channel-topcap .interactive input.submit,
+.front-nod input.submit {
+    background: #e05522;
+    color: #fff;
+    border-bottom: 0;
+    width: auto;
+}
+
+#channel-topcap .interactive.compat-meter input.submit,
+#channel-topcap .interactive.lucky-numbers input.submit {
+    float: none;
+}
+
+.front-nod input.submit {
+    float: left;
+}
+
+#channel-topcap .interactive input.submit:hover {
+    cursor: pointer;
+    color: #fff;
+    background: #e93;
+}
+
+#channel-topcap .interactive fieldset {
+    margin: 0 0 10px;
+}
+
+#channel-topcap .interactive label {
+    display: block;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    color: #067979;
+    font-size: 1em;
+    margin: 0 0 5px;
+}
+
+#channel-topcap .interactive #lucky-fname-block input {
+    width: 185px;
+}
+
+#channel-topcap .interactive #lucky-mname-block input {
+    width: 100px;
+}
+
+#channel-topcap .interactive #lucky-fname-block {
+    float: left;
+    margin: 0 5px 5px 0;
+    width: 187px;
+}
+
+#channel-topcap .interactive #lucky-mname-block {
+    float: left;
+    margin: 0 0 5px;
+    width: 102px;
+}
+
+#channel-topcap .interactive #lucky-lname-block {
+    clear: both;
+}
+
+#channel-topcap .lucky-output {
+    margin: 0 0 5px;
+}
+
+#channel-topcap .lucky-output .num-results {
+    color: #e05522;
+    float: left;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    line-height: 50px;
+    width: 100px;
+    text-align: center;
+}
+
+#channel-wide-content div.block-copy .lucky-output h3 {
+    clear: both;
+    color: #067979;
+    font-size: 1.6em;
+    margin: 0;
+}
+
+#channel-wide-content div.block-copy .lucky-output h4 {
+    clear: both;
+    color: #067979;
+    font-size: 1em;
+    margin: 0 0 10px;
+}
+
+#channel-wide-content div.block-copy .interactive h3 {
+    clear: both;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 1.6em;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+#channel-wide-content .analysis-img {
+    float: left;
+    width: 220px;
+}
+
+#channel-wide-content .analysis-img.lost-object {
+    background: url(http://gfx.tarot.com/images/numerology/circle-background.png) 0 0 no-repeat;
+    clear: both;
+    color: #f2b266;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 6em;
+    font-weight: 700;
+    height: 185px;
+    line-height: 175px;
+    width: 220px;
+    text-align: center;
+}
+
+#channel-wide-content .analysis-copy {
+    float: right;
+    width: 340px;
+}
+
+#channel-wide-content .lucky-output {
+    float: right;
+    width: 340px;
+}
+
+.form-box {
+    background-color: #f0f7f5;
+    margin: 10px 0 0;
+    padding: 10px;
+}
+
+#channel-wide-content div.block-copy .form-box fieldset {
+    margin: 0;
+    padding: 0;
+}
+
+#channel-wide-content div.block-copy .compat-results {
+    float: right;
+    width: 340px;
+}
+
+#channel-wide-content div.block-copy .compat-results h3 {
+    clear: both;
+    color: #d0efea;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 2.5em;
+    font-weight: 700;
+    line-height: 1em;
+}
+
+#channel-wide-content div.block-copy .compat-results h3 strong {
+    color: #f2b266;
+}
+
+#channel-wide-content div.block-copy .compat-results h4 {
+    font-size: 1.5em;
+}
+
+.form-box input, .form-box select {
+    background: #ffffff;
+    border: 1px solid #067979;
+    color: #067979;
+    font-size: 1.3em;
+    margin: 0 0 5px;
+    width: 300px;
+}
+
+.form-box select {
+    margin: 0 5px 0 0;
+    width: 94px;
+}
+
+.form-box #logged-out-nod select {
+    width: 85px;
+}
+
+#logged-out-nod {
+    width: 270px;
+    float: left;
+}
+
+#front-nod-box .form-box {
+    height: 55px;
+}
+
+.form-box.interactive hr {
+    background: #fff;
+    border: 0;
+    height: 2px;
+    margin: 15px 0;
+    width: 290px;
+}
+
+.form-box.interactive input {
+    width: 290px;
+}
+
+.form-box.interactive .button {
+    display: block;
+    margin: 10px 0 0 215px;
+}
+/**********************************************************
+ *               Primary & Secondary Links
+ **********************************************************/
+/* Primary-links div wrapper */
+#primary {
+    display: block;
+    float: left;
+    padding: 0;
+    margin-left: -70px;
+    width: 1060px;
+    position: relative;
+    z-index: 100;
+}
+
+#primary .block {
+    padding: 0;
+}
+/* Class on the ul */
+/* Modify the margin to set tab spacings. */
+/* Set pseudo class styles. */
+/* Primary first and last classes. */
+/* Active trail classes. */
+/* Secondary-links div wrapper */
+/* Class on the ul */
+/* Modify the margin to set tab spacings. */
+/* Set pseudo class styles. */
+/* Secondary first and last classes. */
+/* Active trail classes. */
+/**********************************************************
+ *                   Main Nav Styles
+ **********************************************************/
+/**********************************************************
+ *                      Breadcrumb
+ **********************************************************/
+#breadcrumb {
+    clear: both;
+    padding: 20px 0;
+    font-style: italic;
+    color: #959595;
+    font-size: 0.867em;
+ /* 15 x 0.867 = 13px */
+}
+
+#breadcrumb a,
+#breadcrumb a:link,
+#breadcrumb a:visited {
+    color: #00698b;
+    border-bottom: #bdd7df 1px solid;
+    text-decoration: none;
+}
+
+#breadcrumb a:hover {
+    background-color: #eaf4f7;
+    border-bottom: #bdd7df 1px solid;
+}
+
+#breadcrumb a:active {
+    color: #ffffff;
+    background-color: #4798b0;
+    border-bottom: #00698b 1px solid;
+}
+/**********************************************************
+ *                       Mission
+ **********************************************************/
+/**********************************************************
+ *                    H1 Page Title
+ **********************************************************/
+/**********************************************************
+ *                     Pager
+ **********************************************************/
+/* The first 2 classes provide the base pager styles. */
+ul.pager li {
+    font-size: 0.85em;
+    text-transform: uppercase;
+}
+/* Theme the various states of pager links. */
+/* Note: .pager-current is for the current page. */
+/**********************************************************
+ *                     Related Articles
+ **********************************************************/
+/**********************************************************
+ *               Footer, Footer Message
+ **********************************************************/
+#footer-wrap {
+    background: url(http://gfx.tarot.com/images/numerology-site/images/numero-main-sprite.gif) no-repeat center -211px;
+    bottom: 0;
+    left: 0;
+    padding-bottom: 210px;
+    margin-top: -230px;
+    position: relative;
+    right: 0;
+    z-index: 0;
+}
+/*A section for Javascript popups in the footer. This element is inside #footer-wrap.*/
+#footer-close {
+    background: #0a5050;
+    bottom: 0;
+    position: absolute;
+    z-index: 1000;
+}
+
+#page-footer {
+    margin: 0 auto;
+    padding-top: 315px;
+    position: relative;
+    width: 1000px;
+    z-index: 0;
+}
+
+#footer-menus .footer-menu-block {
+    float: left;
+    clear: none;
+    padding: 0 10px;
+    height: 190px;
+    border-right: 1px dotted #d0efea;
+}
+
+#footer-menus .footer-menu-block ul li {
+    background-image: none;
+    padding: 0;
+}
+
+#footer-menus .fmenu-1 {
+    width: 170px;
+    padding: 0 10px 0 0;
+}
+
+#footer-menus .fmenu-2 {
+    width: 200px;
+}
+
+#footer-menus .fmenu-3 {
+    width: 135px;
+}
+
+#footer-menus .fmenu-4 {
+    width: 200px;
+}
+
+#footer-menus .fmenu-5 {
+    width: 210px;
+    padding: 0 0 0 10px;
+    border-right: 0;
+}
+
+#dig-network h2 {
+    border-bottom: 1px dotted #d0efea;
+    color: #55cccc;
+    font-size: 20px;
+    line-height: 25px;
+    margin: 0 0 5px;
+}
+
+#dig-network #othersites {
+    padding-top: 10px;
+    width: 750px;
+    margin: 0 auto 30px;
+}
+
+#dig-network div.copyright {
+    color: #55cccc;
+    float: right;
+    line-height: 25px;
+    text-align: right;
+    width: 400px;
+    font-size: 12px;
+}
+
+#dig-network #othersites ul {
+    height: 54px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#dig-network #othersites ul li {
+    display: block;
+    float: left;
+    height: 50px;
+    margin-right: 5px;
+    text-align: center;
+    width: 120px;
+    background-image: none;
+}
+
+#dig-network #othersites ul li {
+    margin: 0;
+    padding: 0;
+}
+
+#dig-network #othersites ul li a {
+    color: #f0f7f5;
+    font-size: 13px;
+    height: 25px;
+    text-decoration: none;
+}
+
+#dig-network #othersites ul li {
+    text-align: center;
+}
+
+#dig-network #othersites ul {
+    list-style: none;
+}
+
+#dig-network .follow-us {
+    font-size: 12px;
+}
+
+#dig-network div.social-btns {
+    float: right;
+    vertical-align: middle;
+    width: 40px;
+}
+
+#dig-network div.social-btns a {
+    background: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png) no-repeat;
+    display: block;
+    float: left;
+    height: 20px;
+    margin: 0 0 0 6px;
+    width: 14px;
+    text-decoration: none;
+}
+
+#dig-network div.social-btns a.twitter {
+    background-position: -153px -464px;
+}
+
+#dig-network div.social-btns a.facebook {
+    background-position: -153px -434px;
+}
+
+#dig-network div.follow-us p {
+    color: #55cccc;
+    line-height: 15px;
+    padding: 0 40px 0 0;
+    text-align: right;
+}
+
+#othersites .dailyhoroscope {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -305px -606px;
+    height: 30px;
+    width: 27px;
+    margin: 2px auto;
+}
+
+#othersites .tarot {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -278px -605px;
+    height: 31px;
+    width: 22px;
+    margin: 0 auto 3px;
+}
+
+#othersites .numerology {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -280px -584px;
+    height: 20px;
+    width: 54px;
+    margin: 8px auto 7px;
+}
+
+#othersites .decoz {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -280px -530px;
+    height: 21px;
+    width: 28px;
+    margin: 7px auto 8px;
+}
+
+#othersites .twittascope {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -280px -553px;
+    height: 30px;
+    width: 39px;
+    margin: 4px auto 3px;
+}
+
+#othersites .freehoroscope {
+    background-image: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png);
+    background-repeat: no-repeat;
+    background-position: -280px -500px;
+    height: 28px;
+    width: 28px;
+    margin: 6px auto 4px;
+}
+
+.footer-menu h2 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    color: #f0f7f5;
+    line-height: 15px;
+    margin: 0 0 5px;
+}
+
+.footer-menu ul {
+    padding: 0
+}
+
+.footer-menu ul li {
+    list-style: none;
+    margin: 0;
+}
+
+.footer-menu a,
+.footer-menu li a.active {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    color: #d0efea;
+    text-decoration: none;
+}
+/**********************************************************
+ *                 RSS Feed Icon
+ **********************************************************/
+/**********************************************************
+ *                  Generic Content Classes
+ **********************************************************/
+.share-links.top {
+    margin-bottom: 10px;
+}
+
+.article-type-blog .share-links.top {
+    border-top: 2px solid #d0efea;
+    display: block;
+    clear: both;
+    width: 100%;
+    margin-top: 0;
+    padding-top: 10px;
+}
+
+.share-links.bottom {
+    margin: 30px 0;
+}
+
+.share-links .print-email {
+    font-size: 0.8em;
+    margin-bottom: 7px;
+    padding-bottom: 5px;
+}
+
+.share-links.bottom .print-email, .article-type-article .share-links .print-email {
+    border-bottom: 2px solid #d0efea;
+}
+
+.share-links .print-email.top {
+    display: block;
+    float: left;
+    width: 310px;
+}
+
+.share-links .print_html {
+    padding-right: 1.2em;
+    border-right: 1px solid #333;
+}
+
+ul.links, #content ul.links {
+    margin-left: 0;
+}
+
+ul.links li {
+    padding: 0;
+}
+
+#columns #main-content ul.links li a,
+#columns #main-content .addthis_toolbox a {
+    border-bottom: 0;
+}
+
+.print_html {
+    margin-left: 0;
+}
+
+.print_mail {
+    margin-left: 1em;
+}
+
+.addthis_counter.addthis_pill_style a.addthis_button_expanded {
+    height: 17px;
+}
+
+.social-icons {
+    float: right;
+}
+
+.social-follow {
+    color: #999;
+    font-size: 0.8em;
+    float: left;
+    line-height: 24px;
+}
+
+.social-icons img {
+    padding-left: 5px;
+}
+
+#columns .social-icons a, #columns .social-icons a:link, #columns .social-icons a:active {
+    border-bottom: 0 !important;
+}
+
+#columns .social-icons a:hover {
+    background-color: transparent;
+}
+/**********************************************************
+ *                      Articles (nodes)
+ **********************************************************/
+/* Teaser title (H2). */
+.article-title a:link,
+.article-title a:hover,
+.article-title a:focus,
+/* User Picture. */
+/* Submitted */
+/* Common links classes. */
+/* Taxonomy terms. */
+/* Term list */
+/* With vocab headers */
+/* Style module links. */
+article#blog ul.links li {
+    background-image: none;
+    padding: 0;
+}
+
+article#blog ul.links li.print_html {
+    padding-right: 10px;
+}
+
+article#blog ul.links li.print_mail {
+    padding-left: 7px;
+}
+/* UL link first and last classes. */
+/* Workflow states. */
+/* Status. */
+/* Theme the teaser seperatly. */
+/**********************************************************
+ *                     Content types
+ *              Style article types by type.
+ **********************************************************/
+ /**
+  * Custom Content Types
+  * Replace CONTENT_TYPE with the content type
+  * machine-readable name.
+  */
+/**********************************************************
+ *                    CCK Fields
+ **********************************************************/
+/* Wrapper for any CCK field. */
+/* Use "datetime" when creating new CCK date fields. */
+/* Filefield field. */
+/* Node reference field. */
+/* User reference field. */
+/* Number fields. */
+/* Text field. */
+/**
+ * Specific field names.
+ */
+/* Underscores in field name are replaced with dashes. */
+/**********************************************************
+ *                     Buttons
+ **********************************************************/
+a.button {
+    background: #222;
+    border: none;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -moz-box-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    -webkit-box-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    box-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 0.8em;
+    font-weight: 700;
+    line-height: 24px;
+    padding: 0 5px;
+    text-decoration: none;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    text-transform: uppercase;
+}
+
+.button input, .button a.go, input.form-submit {
+    background: #222;
+    border: none;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -moz-box-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    -webkit-box-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    box-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    color: #fff;
+    cursor: pointer;
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 25px;
+    padding: 0 5px;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    text-transform: uppercase;
+}
+
+.button a.go {
+    color: #fff !important;
+    border-bottom: 0 !important;
+    padding: 8px 10px 5px;
+}
+
+.button:active {
+    top: 1px;
+    border-bottom: 0;
+    margin-bottom: 1px;
+    -moz-box-shadow: 0;
+    -webkit-box-shadow: 0;
+}
+
+.small.button, .small.button:visited {
+    font-size: 11px;
+    padding: 7px 12px 4px;
+}
+
+.large.button, .large.button:visited, .box input.form-submit {
+    font-size: 15px;
+    padding: 14px 14px 10px;
+}
+/* ORANGE SPECIFICS */
+.orange.button, .orange.button:visited,
+#comment-box .form-submit {
+    background-color: #ee9933;
+    -moz-box-shadow: 0 1px 0 #cc7722;
+    -webkit-box-shadow: 0 1px 0 #cc7722;
+}
+
+.orange.button:hover {
+    background-color: #e79027;
+}
+/* RED SPECIFICS */
+.red.button input, .red.button:visited,
+.red.button a.go, .red.button a.go:visited {
+    background-color: #df5522;
+    -moz-box-shadow: 0 1px 0 #b94000;
+    -webkit-box-shadow: 0 1px 0 #b94000;
+}
+
+.red.button input:hover,
+.red.button a.go:hover {
+    background-color: #d54f1d !important;
+}
+/* AQUA SPECIFICS */
+.aqua.button input, .aqua.button:visited,
+.aqua.button a.go, .aqua.button a.go:visited,
+input.form-submit {
+    background-color: #55cccc;
+    -moz-box-shadow: 0 1px 0 #209595;
+    -webkit-box-shadow: 0 1px 0 #209595;
+}
+
+.aqua.button input:hover,
+.aqua.button a.go:hover,
+input.form-submit:hover {
+    background-color: #4cc7c7 !important;
+}
+/* TEAL SPECIFICS */
+.teal.button input, .teal.button:visited,
+.teal.button a.go, .teal.button a.go:visited {
+    background-color: #0a5050;
+    -moz-box-shadow: 0 1px 0 #034141;
+    -webkit-box-shadow: 0 1px 0 #034141;
+}
+
+.teal.button input:hover,
+.teal.button a.go:hover {
+    background-color: #084242 !important;
+}
+/* "FOLLOW" SPECIFICS (AQUA) */
+.follow.button, .follow.button:visited {
+    background-color: #55cccc;
+    -moz-box-shadow: 0 1px 0 #209595;
+    -webkit-box-shadow: 0 1px 0 #209595;
+}
+
+.follow.button:hover {
+    background-color: #4cc7c7;
+}
+/* "FORM" SPECIFICS (GREEN) */
+.form.button, .form.button:visited {
+    background-color: #79d59e;
+    -moz-box-shadow: 0 1px 0 #33975b;
+    -webkit-box-shadow: 0 1px 0 #33975b;
+}
+
+.form.button:hover {
+    background-color: #6dc691;
+}
+/* FORM & FOLLOW */
+.form.button, .form.button:visited,
+.follow.button, .follow.button:visited {
+    font-size: 14px;
+    padding: 13px 0 11px;
+    width: 180px;
+    text-align: center;
+}
+/* READ MORE VERSION */
+.button.readmore {
+    background-image: url(arrow-icon-button.png);
+    background-repeat: no-repeat;
+    background-position: right 6px;
+    padding-right: 20px;
+}
+/**********************************************************
+ *                     Comments
+ **********************************************************/
+/* Comment wrapper: wraps all comments and the comment form. */
+#comment-box {
+    background-color: #d0efea;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+#comment-counter {
+    margin-bottom: 10px;
+}
+
+#content #comment-box h3, #comment-box h3 {
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 2em;
+ /* 15 x 2 = 30px; */
+    text-transform: uppercase;
+}
+
+#comment-box #dsq-content h3 {
+    color: #078b8b;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0 0 0.5em;
+}
+
+#comment-box textarea {
+    width: 99%;
+    height: 100px;
+}
+
+#comment-box .form-submit {
+    padding: 14px 14px 10px;
+}
+/* Wrapper class for each individual comment. */
+.comment {
+    border: 1px solid #d0efea;
+    -moz-border-radius: 5px;
+ /* FF1+ */
+    -webkit-border-radius: 5px;
+ /* Saf3-4, iOS 1+, Android 1.5+ */
+    border-radius: 5px;
+ /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+    margin: 0 0 10px;
+    padding: 10px 10px 0;
+}
+
+.comment p {
+    font-size: 0.8em;
+    line-height: 1.5em;
+    margin: 0 0 10px;
+}
+
+.comment .author {
+    color: #067979;
+    font-size: 0.8em;
+    line-height: 1.5em;
+}
+
+.comment .date {
+    color: #959595;
+    font-size: 0.8em;
+    line-height: 1.5em;
+    margin: 0 0 10px;
+}
+
+.comment .picture {
+    float: left;
+    width: 50px;
+}
+
+.comment .content {
+    float: left;
+    margin: 0 0 0 10px;
+    width: 475px;
+}
+/* Indentation */
+/* Comment Title (H3) */
+.comment-title a:link,
+.comment-title a:hover,
+.comment-title a:focus,
+/* Comment id (count with pound sign, see line 28 comment.tpl.php)
+   and comment "new" notification. */
+/* User Picture */
+/* Submitted */
+/* Links */
+/* Core comment link classes. */
+/* UL link first and last classes. */
+/* Author */
+/* New */
+/* Zebra */
+/* Status */
+/* Themes the "Unpublished" text. */
+/* Comment box wrapper on a seperate page. */
+/* Comment box wrapper below content. */
+/* Sytle comments by article type. */
+/**********************************************************
+ *                       Blocks
+ **********************************************************/
+/**
+ * Styles set for .block, .block-inner, block-title and
+ * .block-content will be inherited by all blocks.
+ */
+.block {
+    padding: 0;
+}
+ /* Block inner div */
+ /* h2 block title */
+#sidebar-last .block {
+    margin-bottom: 15px;
+}
+
+.block-views,
+#right .block,
+#right-bottom .block {
+    border: 1px solid #55cccc;
+}
+
+.block-views .block-inner,
+#right .block-inner,
+#right-bottom .block-inner {
+    padding: 15px 15px 10px;
+}
+
+.block .block-container {
+    padding: 15px;
+}
+
+#block-block-36 .block-inner {
+    padding: 0;
+}
+/* "Join the Pattern" Block */
+.block #join-pattern {
+    background-color: #ee9933;
+    -moz-border-radius-topleft: 6px;
+    -moz-border-radius-topright: 0px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 6px;
+    -webkit-border-radius-topleft: 6px;
+    -webkit-border-radius-topright: 0px;
+    -webkit-border-radius-bottomright: 0px;
+    -webkit-border-radius-bottomleft: 6px;
+    margin-bottom: 20px;
+}
+
+.block #join-pattern p {
+    font-size: 0.8em;
+    color: #504d4d;
+    margin: 5px 0 0;
+}
+
+.block #join-pattern .join a.go {
+    display: block;
+    width: 135px;
+    margin-right: 15px;
+    text-align: center;
+    float: left;
+    font-size: 13px;
+}
+
+.block #join-pattern .login a.go {
+    display: block;
+    width: 65px;
+    text-align: center;
+    float: left;
+    font-size: 12px;
+}
+
+.block .enter-contest a.go,
+.block .contest a.go {
+    font-size: 0.8em;
+    display: block;
+    text-align: center;
+    float: left;
+    font-size: 12px;
+}
+
+.block .enter-contest a.go {
+    margin-right: 15px;
+    width: 95px;
+}
+
+.block .contest a.go {
+    width: 115px;
+}
+
+#sidebar-last #karma-rewards.interactive-block {
+    position: relative;
+    margin-top: 15px;
+}
+
+#sidebar-last #karma-rewards.interactive-block h3 {
+    font-size: 1.9em;
+    margin-right: 120px;
+}
+
+#sidebar-last #karma-rewards.interactive-block h4 {
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    color: #df5522;
+    text-align: left;
+    font-size: 1.4em;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.get-karma-coins a.go {
+    font-size: 1.3em;
+}
+
+.karma-coins-bag {
+    width: 115px;
+    height: 105px;
+    background: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png) no-repeat 0 -790px;
+    position: absolute;
+    right: 25px;
+    top: -15px;
+}
+
+#sidebar-last #user-confirm-next.interactive-block {
+    margin-top: 20px;
+}
+
+#sidebar-last #user-confirm-next.interactive-block h4 {
+    font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    color: #df5522;
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+#sidebar-last #user-confirm-next.interactive-block ul li a {
+    border-bottom: 0;
+    font-size: 1.1em;
+}
+
+#sidebar-last #user-confirm-next.interactive-block ul li a:hover {
+    background-color: transparent;
+}
+
+#sidebar-last #why-join.interactive-block h4 {
+    text-align: left;
+    font-weight: bold;
+    color: #504d4d;
+}
+
+#sidebar-last #why-join.interactive-block ul li {
+    color: #067979;
+}
+
+#sidebar-last #why-join.interactive-block p.emphasis {
+    font-weight: bold;
+}
+
+#sidebar-last #why-join.interactive-block p.emphasis strong {
+    font-size: 1.6em;
+}
+
+#sidebar-last #why-join.interactive-block h4.message {
+    font-size: 1.6em;
+    color: #0a5050;
+    font-weight: normal;
+}
+
+#sidebar-last #why-join.interactive-block .social-icon-footer {
+    width: 106px;
+    margin: 0 auto;
+}
+
+#sidebar-last #why-join.interactive-block a.social-icon-block {
+    display: block;
+    width: 48px;
+    height: 48px;
+    border-bottom: 0;
+    float: left;
+}
+
+#sidebar-last #why-join.interactive-block a.social-icon-block:hover {
+    background-color: transparent;
+}
+
+#sidebar-last #why-join.interactive-block a.facebook-icon {
+    background: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png) no-repeat -68px -905px;
+    margin-right: 10px;
+}
+
+#sidebar-last #why-join.interactive-block a.twitter-icon {
+    background: url(http://gfx.tarot.com/images/numerology-site/images/block-sprite.png) no-repeat -68px -960px;
+}
+/**********************************************************
+ *                   Sidebar blocks
+ **********************************************************/
+/**
+ * You can target blocks in one or more regions and
+ * style them differently.
+ */
+/* Low specifity selector to style blocks in all regions. */
+/* Low specifity selector to style blocks in both sidebars. */
+/* High specifity selectors to style blocks in one sidebar - be careful,
+   these are powerful selectors! */
+/**********************************************************
+ *                  Region blocks
+ **********************************************************/
+/* High specifity selectors to style blocks in one region. */
+/**********************************************************
+ *                   Module blocks
+ **********************************************************/
+/**
+ * Module Block ID's
+ * For contributed module blocks the pattern is the same,
+ * i.e. #block-[module]-[delta]
+ */
+ /* Book navigation block   */
+ /* Recent Blog posts       */
+ /* Recent Comments block   */
+ /* Active Forum topics     */
+ /* New Forum topics        */
+ /* Language Switcher block */
+ /* Syndicate block         */
+ /* Most recent poll        */
+ /* Author information      */
+ /* Search form block       */
+ /* Popular content         */
+ /* Powered by Drupal       */
+ /* Login block             */
+ /* Navigation Menu block   */
+ /* Who's New block         */
+ /* Who's Online block      */
+/* Primary and Secondary links blocks */
+/* The class selector applies to all blocks of these types. */
+/**********************************************************
+ *                 Search block form
+ **********************************************************/
+/* Wrapper DIVs. */
+/* Override forms.css focus style */
+#edit-search-block-form-1:hover,
+/**********************************************************
+ *                   Menu blocks
+ **********************************************************/
+/**
+ * Prefix these with the block id to style one menu only.
+ */
+ul.menu,
+ul.menu ul,
+ul.menu ul ul,
+/* Menu li styles */
+ul.menu li a:link,
+ul.menu li a:hover,
+ul.menu li a:focus,
+/**********************************************************
+ *                   Block item-list
+ **********************************************************/
+/**********************************************************
+ *                  Gpanel blocks
+ **********************************************************/
+/* Examples to get started. Add col specific selectors to style
+   blocks in different Gpanel columns, or element selectors to
+   style specific elements */
+/**********************************************************
+ *                  Gpanel Regions
+ **********************************************************/
+/**
+ * NOTE: If you are adding borders, padding or margin (anything
+ * that adds width) you should apply these to the INNER div or
+ * the contained element, such as a block or mini-panel.
+ */
+/* 2 column */
+/* 3 column */
+/* 4 column */
+/* 5 column */
+/* 6 column */
+/**********************************************************
+                      AT Panels
+    Classes for styling the built in Panels Layouts
+    You need the Panels 3 module installed to use the
+    built in panels and the Adaptivetheme base theme
+    must be enabled.
+ **********************************************************/
+/**********************************************************
+ *                 AT Button Wrappers
+ **********************************************************/
+/**
+ * Adaptivetheme wraps input buttons with SPANs for
+ * easy theming.
+ */
+ /* Outer wrapper */
+ /* Inner wrapper */
+/**********************************************************
+ *                       Tables
+ **********************************************************/
+/**
+ * The selector groupings are from Garland which offers a
+ * sensible starting point for styling Drupal tables.
+ */
+td.region,
+td.module,
+tr:first-child td.region,
+tr:first-child td.module,
+/**********************************************************
+ *                   Forum Tables
+ **********************************************************/
+/**********************************************************
+ *                   Home Page
+ **********************************************************/
+/* Article Teeup */
+img.article-teeup_img-teaser { border: 1px solid #517e78; }
+div.view-article-teeup div.home-teaser { margin: 0 0 10px; }
+div.view-article-teeup div.views-row { border-bottom: 1px dotted #816a56; margin: 0 0 40px;}
+/**********************************************************
+ *                   Article Page
+ **********************************************************/
+.article-type-article #columns {margin: 20px 0;}
+.article-type-article #channel-header {margin-top: 30px;}
+#article-image-callout {padding: 0 0 15px 0;}
+article.content #byline {color: #55cccc; font-size: 0.933em ; /* 15 x 0.933 = 14px */
+                                                 line-height: 1em; margin: 1em 0; }
+.article-info-top {float:right;width:307px;min-height: 257px;margin-bottom: 5px;padding-left: 10px;}
+body.article-type-article #welcome-msg-block {margin: 0;}
+body.article-type-article #columns {margin-top: 0;}
+/**********************************************************
+ *                   Teasers
+ **********************************************************/
+div.archive-entry-body { margin: 0 0 0 105px; }
+#article-topic-menu {float: left; width: 140px;margin-right: 20px;}
+#content #article-topic-menu ul {margin-left: 0;}
+#article-topic-menu li {padding: 0 0 5px;}
+#article-topic-menu li a {  background: #d0efea;
+    color: #00698b;
+    display: block;
+    font-family:  Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    padding: 10px 5px;
+    text-align: center;
+    text-transform: uppercase;
+    -moz-border-radius: 5px; /* FF1+ */
+    -webkit-border-radius: 5px; /* Saf3-4, iOS 1+, Android 1.5+ */
+    border-radius: 5px; /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+    text-decoration: none;
+}
+#article-topic-menu li a.active {
+    background: #067979;
+    color: #fff;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 0;
+    -moz-border-radius-bottomright: 0;
+    -moz-border-radius-bottomleft: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 5px;
+}
+#article-list { margin: 0 0 40px 140px; padding: 0 10px 0 15px; border-left: 2px solid #067979; }
+.archive-entry { margin: 0 0 20px 0;padding: 0 0 20px 0; border-bottom: 1px solid #f3f3f3; min-height: 90px; }
+.archive-entry .promo-img { padding: 0; border: 1px solid #d0efea; margin-right: 0; width: 80px; height: auto; }
+.archive-topic { margin-right: 5px; }
+.archive-topic.active { margin-right: 0; }
+/**********************************************************
+ *                   Blogs
+ **********************************************************/
+.article-type-blog .author-pic {float: left; padding: 2px; margin: 0 20px 15px 0; border: 1px solid #e4f4f1; }
+.blog-pic {float: left; padding: 2px; margin: -2px 15px 10px 0; border: 1px solid #e4f4f1; }
+.article-type-blog article footer {font-size: 0.85em; margin-top: 5px;}
+.blogger-menu {border-bottom: 2px solid #088c8b;width: 100%;margin: 20px 0 10px;}
+.page-blog .blogger-menu h1,
+.article-type-blog .blogger-menu h1 {font-family:  Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+                         font-weight: 600; color: #f1a943;text-transform: uppercase;
+                         font-size: 1.25em; line-height: 1.1em; padding: 8px 0 0;
+                         text-rendering: optimizeLegibility; float: left;}
+.blog-menu-link {display: block; float: left;font-family:  Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif; font-weight: 600; font-size: 0.9em; background-color: #d9f2ee; color: #0063a2; width: 140px; height: 16px; padding: 10px 0 5px;text-align: center; text-decoration: none;margin: 0 0 5px 5px;text-transform: uppercase;
+    -moz-border-radius: 5px; /* FF1+ */
+    -webkit-border-radius: 5px; /* Saf3-4, iOS 1+, Android 1.5+ */
+    border-radius: 5px; /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+}
+.blog-menu-link.active {background-color: #088c8b;color: #fff !important;height: 25px;border-bottom: 0 !important;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 0;
+    -moz-border-radius-bottomleft: 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-bottom: 0;}
+.blog-teeup .blog-teeup-content { padding-left:75px; margin-top: 20px;}
+.blog-teeup .blog-teeup-content p { font-size: .85em;}
+.blog-teeup {padding: 0;border-bottom: 1px solid #f3f3f3;}
+.blog-teeup .blog-teeup-content .blog-byline {font-size: 0.8em;margin-top: 0.5em; margin-bottom: 1em;}
+#content h3.blog-title, #content h3.blog-title a {font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
+                         font-weight: 400; color: #e05522;line-height: 0.909em;
+                         font-size: 1.4em; text-rendering: optimizeLegibility; }
+.page-blog #content .item-list {margin: 10px 0 20px;}
+.blog-teeup-content .blog-info p a {border-bottom: 0 !important;}
+.blog-teeup-content .blog-info p a img {margin-bottom: -5px; margin-right: 5px;}
+/**********************************************************
+ *                   Page
+ **********************************************************/
+ body.page #breadcrumb {border-top: 1px solid #f3f3f3;border-bottom: 1px solid #f3f3f3;padding: 10px 0; margin-bottom: 20px;}
+ body.page #welcome-msg-block {margin: 0 0 10px 0;}
+#in-the-news-ad {
+    float: left;
+    margin-left: 300px;
+    margin-top: -45px;
+    width: 242px;
+}
