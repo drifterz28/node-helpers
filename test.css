@@ -28,7 +28,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-    margin: 0;
+    margin: 0px;
     padding: 0;
     border: 0;
     font-size: 100%;
@@ -2168,27 +2168,40 @@ tr:first-child td.module,
  *                   Home Page
  **********************************************************/
 /* Article Teeup */
-img.article-teeup_img-teaser { border: 1px solid #517e78; }
-div.view-article-teeup div.home-teaser { margin: 0 0 10px; }
-div.view-article-teeup div.views-row { border-bottom: 1px dotted #816a56; margin: 0 0 40px;}
+img.article-teeup_img-teaser {
+ border: 1px solid #517e78;}
+div.view-article-teeup div.home-teaser {
+ margin: 0 0 10;}
+div.view-article-teeup div.views-row {
+ border-bottom: 1px dotted #816a56;margin: 0 0 40;}
 /**********************************************************
  *                   Article Page
  **********************************************************/
-.article-type-article #columns {margin: 20px 0;}
-.article-type-article #channel-header {margin-top: 30px;}
-#article-image-callout {padding: 0 0 15px 0;}
+.article-type-article #columns {
+margin: 20 0;}
+.article-type-article #channel-header {
+margin-top: 30;}
+#article-image-callout {
+padding: 0 0 15px 0;}
 article.content #byline {color: #55cccc; font-size: 0.933em ; /* 15 x 0.933 = 14px */
                                                  line-height: 1em; margin: 1em 0; }
-.article-info-top {float:right;width:307px;min-height: 257px;margin-bottom: 5px;padding-left: 10px;}
-body.article-type-article #welcome-msg-block {margin: 0;}
-body.article-type-article #columns {margin-top: 0;}
+.article-info-top {
+float:right;width:307px;min-height: 257px;margin-bottom: 5px;padding-left: 10;}
+body.article-type-article #welcome-msg-block {
+margin: 0;}
+body.article-type-article #columns {
+margin-top: 0;}
 /**********************************************************
  *                   Teasers
  **********************************************************/
-div.archive-entry-body { margin: 0 0 0 105px; }
-#article-topic-menu {float: left; width: 140px;margin-right: 20px;}
-#content #article-topic-menu ul {margin-left: 0;}
-#article-topic-menu li {padding: 0 0 5px;}
+div.archive-entry-body {
+ margin: 0 0 0 105px;}
+#article-topic-menu {
+float: left;width: 140;margin-right: 20px;}
+#content #article-topic-menu ul {
+margin-left: 0;}
+#article-topic-menu li {
+padding: 0 0 5px;}
 #article-topic-menu li a {  background: #d0efea;
     color: #00698b;
     display: block;
@@ -2216,18 +2229,27 @@ div.archive-entry-body { margin: 0 0 0 105px; }
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 5px;
 }
-#article-list { margin: 0 0 40px 140px; padding: 0 10px 0 15px; border-left: 2px solid #067979; }
-.archive-entry { margin: 0 0 20px 0;padding: 0 0 20px 0; border-bottom: 1px solid #f3f3f3; min-height: 90px; }
-.archive-entry .promo-img { padding: 0; border: 1px solid #d0efea; margin-right: 0; width: 80px; height: auto; }
-.archive-topic { margin-right: 5px; }
-.archive-topic.active { margin-right: 0; }
+#article-list {
+ margin: 0 0 40 140px;padding: 0 10px 0 15px;border-left: 2px solid #067979;}
+.archive-entry {
+ margin: 0 0 20 0;padding: 0 0 20px 0;border-bottom: 1px solid #f3f3f3;min-height: 90px;}
+.archive-entry .promo-img {
+ padding: 0;border: 1px solid #d0efea;margin-right: 0;width: 80;height: auto;}
+.archive-topic {
+ margin-right: 5px;}
+.archive-topic.active {
+ margin-right: 0;}
 /**********************************************************
  *                   Blogs
  **********************************************************/
-.article-type-blog .author-pic {float: left; padding: 2px; margin: 0 20px 15px 0; border: 1px solid #e4f4f1; }
-.blog-pic {float: left; padding: 2px; margin: -2px 15px 10px 0; border: 1px solid #e4f4f1; }
-.article-type-blog article footer {font-size: 0.85em; margin-top: 5px;}
-.blogger-menu {border-bottom: 2px solid #088c8b;width: 100%;margin: 20px 0 10px;}
+.article-type-blog .author-pic {
+float: left;padding: 2px;margin: 0 20 15px 0;border: 1px solid #e4f4f1;}
+.blog-pic {
+float: left;padding: 2px;margin: -2px 15px 10 0;border: 1px solid #e4f4f1;}
+.article-type-blog article footer {
+font-size: 0.85em;margin-top: 5px;}
+.blogger-menu {
+border-bottom: 2px solid #088c8b;width: 100%;margin: 20 0 10px;}
 .page-blog .blogger-menu h1,
 .article-type-blog .blogger-menu h1 {font-family:  Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
                          font-weight: 600; color: #f1a943;text-transform: uppercase;
@@ -2248,21 +2270,30 @@ div.archive-entry-body { margin: 0 0 0 105px; }
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
     margin-bottom: 0;}
-.blog-teeup .blog-teeup-content { padding-left:75px; margin-top: 20px;}
-.blog-teeup .blog-teeup-content p { font-size: .85em;}
-.blog-teeup {padding: 0;border-bottom: 1px solid #f3f3f3;}
-.blog-teeup .blog-teeup-content .blog-byline {font-size: 0.8em;margin-top: 0.5em; margin-bottom: 1em;}
+.blog-teeup .blog-teeup-content {
+ padding-left:75px;margin-top: 20;}
+.blog-teeup .blog-teeup-content p {
+ font-size: .85em;}
+.blog-teeup {
+padding: 0;border-bottom: 1px solid #f3f3f3;}
+.blog-teeup .blog-teeup-content .blog-byline {
+font-size: 0.8em;margin-top: 0.5em;margin-bottom: 1em;}
 #content h3.blog-title, #content h3.blog-title a {font-family: Josefin Sans, Gill Sans, Century Gothic, Helvetica, sans-serif;
                          font-weight: 400; color: #e05522;line-height: 0.909em;
                          font-size: 1.4em; text-rendering: optimizeLegibility; }
-.page-blog #content .item-list {margin: 10px 0 20px;}
-.blog-teeup-content .blog-info p a {border-bottom: 0 !important;}
-.blog-teeup-content .blog-info p a img {margin-bottom: -5px; margin-right: 5px;}
+.page-blog #content .item-list {
+margin: 10 0 20px;}
+.blog-teeup-content .blog-info p a {
+border-bottom: 0 !important;}
+.blog-teeup-content .blog-info p a img {
+margin-bottom: -5px;margin-right: 5px;}
 /**********************************************************
  *                   Page
  **********************************************************/
- body.page #breadcrumb {border-top: 1px solid #f3f3f3;border-bottom: 1px solid #f3f3f3;padding: 10px 0; margin-bottom: 20px;}
- body.page #welcome-msg-block {margin: 0 0 10px 0;}
+ body.page #breadcrumb {
+border-top: 1px solid #f3f3f3;border-bottom: 1px solid #f3f3f3;padding: 10 0;margin-bottom: 20px;}
+ body.page #welcome-msg-block {
+margin: 0 0 10 0;}
 #in-the-news-ad {
     float: left;
     margin-left: 300px;
