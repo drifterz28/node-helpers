@@ -37,9 +37,8 @@ function getPageContent(page_url, callback) {
 function getProductDetails(product_url) {
     getPageContent(scrape_site + product_url, function (data) {
         $ = cheerio.load(data);
-        if ($('.desciption').html().length) {
-            fs.appendFileSync('product.txt', $('.desciption').html() + '\n\n');
-        }
+
+        fs.appendFileSync('product.txt', $('.productnamedefault').text() + ', ' + $('.desciption').html() + '\n\n');
     });
 }
 
