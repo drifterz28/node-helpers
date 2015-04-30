@@ -55,12 +55,14 @@ function buildReviewList(review_data, group) {
 
 var main_group = 0; // test group
 var sec_group = 0;
-var max-main_group = 10;
+var maxMain_group = 10;
+
+// max seen 10-13
 setInterval(function() {
     if(sec_group > 99) {
         sec_group = 0;
         main_group++;
-        if(main_group > max-main_group) {
+        if(main_group > maxMain_group) {
             process.exit(1);
         }
     }
