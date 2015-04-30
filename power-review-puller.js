@@ -53,13 +53,14 @@ function buildReviewList(review_data, group) {
     }
 }
 
-var main_group = 10; // test group
-var sec_group = 25;
+var main_group = 0; // test group
+var sec_group = 0;
+var max-main_group = 10;
 setInterval(function() {
     if(sec_group > 99) {
         sec_group = 0;
         main_group++;
-        if(main_group > 12) {
+        if(main_group > max-main_group) {
             process.exit(1);
         }
     }
