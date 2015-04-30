@@ -38,8 +38,8 @@ function getProductDetails(product_url) {
     getPageContent(scrape_site + product_url, function (data) {
         $ = cheerio.load(data);
         var item_number = $('.desciption').next().text().replace(/[^0-9]/gi, '');
-
-        fs.appendFileSync('product.txt', item_number + ': ' + $('.desciption').html() + '\n\n');
+        var item_name = $('.productnamedefault').text().replace(/(Glass|Plastic|375|1 Liter|Bottle|750|700|mL)/g, '').trim();
+        fs.appendFileSync('product.txt', item_name + ', ' + item_number + ', "' + $('.desciption').html() + '"\n');
     });
 }
 

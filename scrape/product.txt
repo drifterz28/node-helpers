@@ -1,248 +1,124 @@
-2073738400069: English Toffee Flavored Syrup from DaVinci Gourmet has a smooth, buttery flavor that is reminiscent of the classic candy.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400169: English Toffee Flavored Syrup from DaVinci Gourmet has a smooth, buttery flavor that is reminiscent of the classic candy.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738400058: French Vanilla Flavored Syrup from DaVinci Gourmet has a creamy, rich, custard-like essence of the ice cream and is perfect way to give your favorite drink that perfect, vanilla-y flavor.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400158: French Vanilla Flavored Syrup from DaVinci Gourmet has a creamy, rich, custard-like essence of the ice cream and is perfect way to give your favorite drink that perfect, vanilla-y flavor.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738499000: German Chocolate Cake Flavored Syrup from DaVinci Gourmet combines the flavors of moist chocolate cake, caramel frosting and toasted coconut.&#xA0; Made with pure cane sugar. This product is packageed in a 750 mL glass bottle.
-
-2073738400035: Grape Flavored Syrup form DaVinci Gourmet tastes just like sweet, juicy grapes straight off the vine.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400077: Gingerbread Flavored Syrup from DaVinci Gourmet has the edelicious flavor of fresh baked gingerbread cookies with hints of cinnamon and molasses.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400055: Guava Flavored Syrup from DaVinci Gourmet is sweetened with the flavor of sweet, juicy, tropical guava fruit.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400003: Hazelnut (Original) Flavored Syrup has the delicious flavor of raw, unroasted hazelnut that is common in many popular liqueurs.&#xA0;This product is packaged in a 750 mL glass bottle.
-
-6073738400103: Hazelnut (Original) Flavored Syrup has the delicious flavor of raw, unroasted hazelnut that is common in many popular liqueurs.&#xA0;This product is packaged in a 750 mL plastic bottle.
-
-2073738400087: Hazelnut (Toasted) Flavored Syrup has the delicious flavor of raw, unroasted hazelnut that is common in many popular liqueurs.&#xA0;This product is packaged in a 750 mL glass bottle.
-
-2073738400009: Irish Cream Flavored Syrup by DaVinci Gourmet features the indulgent combination of vanilla, chocolate, cream and whiskey flavors. This product is packaged in a 750 mL glass bottle.
-
-2073738400093: Huckleberry Flavored Syrup from DaVinci Gourmet features the tart flavor of the wild huckleberry known to the Pacific Northwest.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738499002: Kahlua Flavored Syrup from DaVinci Gourmet classic flavor of the coffee liquer, Kahlua.  Made with pure cane sugar. This non-alcoholic product is packaged in a 750 mL glass bottle.
-
-6073738499102: Kahlua Flavored Syrup from DaVinci Gourmet classic flavor of the coffee liquer, Kahlua.  Made with pure cane sugar. This non-alcoholic product is packaged in a 750 mL plastic bottle.
-
-2073738400014: Lime Flavored Syrup from DaVinci Gourmet features the juicy, tart flavor of fresh sliced limes.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400109: Irish Cream Flavored Syrup by DaVinci Gourmet features the indulgent combination of vanilla, chocolate, cream and whiskey flavors. This product is packaged in a 750 mL plastic bottle.
-
-2073738400023: Kiwi Flavored Syrup from DaVinci Gourmet features the fresh tart flavor of juicy, ripe kiwis.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400007: Lemon Flavored Syrup from DaVinci Gourmet Refreshing bright flavor of fresh sliced lemons.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400033: Macadamia Nut Flavored Syrup from DaVinci Gourmet is brimming with the delicate buttery taste of decadent macademia nuts.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL bottle.
-
-2073738400008: Orange Flavored Syrup from DaVinci Gourmet will take you away to the sweet-smelling, Floridian orange groves with the tangy, sweet flavors of juicy oranges.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400027: Passion Fruit Flavored Syrup by DaVinci Gourmet combines the delightful tart and sweet flavors known to tropical passion fruit.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738499010: Maple Sweetener Syrup from DaVinci Gourmet will perfectly sweeten any beverage. This product is packaged in a 750 mL glass bottle.
-
-2073738400011: Peach Flavored Syrup from DaVinci Gourmet contains the juicy, mouth-watering flavor of fresh picked peaches.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400056: Mango Flavored Syrup from DaVinci Gourmet will make you think of summer time and warm weather with the exotic flavor of ripe, juicy mangoes.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400084: Peanut Butter Flavored Syrup by DaVinci Gourmet has the deliciously creamy flavor of nutty peanut butter.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400050: Peppermint Flavored Syrup by DaVinci Gourmet packs an icy, cool blast of aromatic peppermint. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400048: Pina Coalda Flavored Syrup from DaVinci Gourmet combines sweet pineapple with exotic coconut to create a non-alcoholic flavor that tastes just like the famously tropical drink it&apos;s named for.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400040: Praline Flavored Syrup by DaVinci Gourmet is named for the original confection, pralines; this syrup tastes like mild pecans lightly toasted in butter with sugar and vanilla.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400086: Peppermint Paddy Flavored Syrup from DaVinci Gourmet is reminiscent of the famous, premium chocolate mint candies. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400053: Pumpkin Pie Flavored Syrup from DaVinci Gourmet blends together pumpkin, cinnamon, nutmeg, allspice and ginger and is reminiscent of the popular holiday dessert.&#xA0; Made with pure cane sugar. This product is packaged in a a 750 mL glass bottle.
-
-2073738400032: Pineapple Flavored Syrup by DaVinci Gourmet is sweet and juicy, just like the delicious, tropical fruit.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400150: Peppermint Flavored Syrup by DaVinci Gourmet packs an icy, cool blast of aromatic peppermint. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738400004: Raspberry Flavored Syrup by DaVinci Gourmet features the swweet, juicy flavor of fresh picked raspberries.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400127: Red Velvet Cake Flavored Syrup from DaVinci Gourmet allows you to turn any menu item into an indulgent experience with this timeless dessert syrup. Rich, decadent flavor of red velvet cake. This product is packaged in a 750 mL plastic bottle.
-
-2073738400037: Root Beer Flavored Syrup from DaVinci Gourmet features the delicious flavor of this classic fountain soda.  Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400127: Red Velvet Cake Flavored Syrup from DaVinci Gourmet allows you to turn any menu item into an indulgent experience with this timeless dessert syrup. Rich, decadent flavor of red velvet cake. This product is packaged in a 750 mL plastic bottle.
-
-6073738400104: Raspberry Flavored Syrup by DaVinci Gourmet features the swweet, juicy flavor of fresh picked raspberries.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-6073738400105: Strawberry Flavored Syrup from DaVinci Gourmet contains the sweet, delectable flavor of fresh picked strawberrries. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738400047: Tiramisu Flavored Syrup from DaVinci Gourmet tastes just like the yellow sponge cake soaked in chocolate and coffee liqueur and layered with cream that makes up this traditional Italian dessert.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400054: Toasted Marshmallow Flavored Syrup from DaVinci Gourmet is perfect to drink in your favorite beverage around a camp fire on a warm summer night. This product is packaged in a 750 mL glass bottle.
-
-2073738400002: Almond Syrup is one of the most popular DaVinci Gourmet Classic flavoring syrups made from all natural almonds enhancing the natural flavor of brewed coffee and polishing espresso coffee drinks. This product is packaged in a 750 mL glass bottle.
-
-2073738400059: Almond Mocha Syrup is one of the most popular DaVinci Gourmet Classic flavoring syrups made from all natural almonds and deliciously rich cocoa. This product is packaged in a 750 mL glass bottle.
-
-2073738400005: Strawberry Flavored Syrup from DaVinci Gourmet contains the sweet, delectable flavor of fresh picked strawberrries. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400102: Almond Syrup is one of the most popular DaVinci Gourmet Classic flavoring syrups made from all natural almonds enhancing the natural flavor of brewed coffee and polishing espresso coffee drinks. Comes in a 750 mL plastic bottle.
-
-2073738400036: Amaretto Syrup from DaVinci Gourmet offers this Classic non-alcoholic version of the sweet almond liqueur that hails from Saronno, Italy with a slight hint of apricots and a brownish color. This product is packaged in a 750 mL glass bottle.
-
-2073738400028: Apple Syrup from DaVinci Gourmet will flavor your favorite beverage with the taste of crisp, freshly picked, juicy apples. This product is packaged in a 750 mL glass bottle.
-
-2073738400045: B-52 Flavored Syrup from DaVinci Gourmet is named for the famous bar drink made from Kahlua liqueur, Irish Cream, and Grand Marnier. This non-alcoholic syrup is a combination of coffee, Irish Cream, and a hint of orange flavor. This product is packaged in a 750 mL glass bottle.
-
-2073738400044: Black Cherry Flavored Syrup from DaVinci Gourmet contains the sweetly tartness of fresh-off-the-tree black cherries which is the perfect way to add a succulent addition to any beverage! This product is packaged in a 750 mL glass bottle.
-
-2073738400015: Banana Flavored Syrup from DaVinci Gourmet is a great way to add the delicious taste of freshly ripened bananas to your favorite beverage or culinary creation. This product is packaged in a 750 mL glass bottle.
-
-6073738400244: Black Cherry Flavored Syrup from DaVinci Gourmet contains the sweetly tartness of fresh-off-the-tree black cherries which is the perfect way to add a succulent addition to any beverage! This product is packaged in a 750 mL plastic bottle.
-
-6073738400136: Amaretto Syrup from DaVinci Gourmet offers this Classic non-alcoholic version of the sweet almond liqueur that hails from Saronno, Italy with a slight hint of apricots and a brownish color. This product is packged in a 750 mL plastic bottle.
-
-2073738400060: Blue Curacao Flavored Syrup from DaVinci Gourmet is modeled after the orange-flavored liqueur. This non-alcoholic syrup has a sweet, tart, citrus flavor. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400022: Blueberry Flavored Syrup from DaVinci Gourmet contrains the subtly, sweet flavosr of deliciously ripe blueberries. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400042: Butter Pecan Flavored Syrup from DaVinci Gourmet is the perfect way to add bold, nutty, pecan flavor to your favorite specialty beverage.&#xA0;&#xA0;Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400041: Butter Rum Flavored Syrup has a smooth, buttery flavor combined with touch of exotic rum. This non-alcoholic syrup is made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400039: Butterscotch Flavored Syrup from DaVinci Gourmet is named for the yummy hard candy made from butter and brown sugar.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400012: Blackberry Flavored Syrup from DaVinci Gourmet is made with the juicy, tart flavor of fresh picked blackberries. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400621: 
-
-6073738400128: Cake Batter Flavored Syrup from DaVinci Gourmet will turn any menu item into an indulgent experience with its sweet, buttery cake batter flavor. This product is packaged in a 750 mL plastic bottle.
-
-6073738400603: 
-
-2073738400061: Classic Cane Sugar syrup provides Liquid sugar in an easy to dispense bottle. No more cooking down raw sugar and water in a pot. This product comes in a glass bottle.
-
-6073738470114: Blackberry Blood Orange Fruit Innovation Syrup by DaVinci Gourmet is a seductive blend of sweet blackberries and tart blood orange juice. Packaged in a 750 mL plastic bottle.
-
-6073738410061: Classic Cane Sugar syrup provides Liquid sugar in an easy to dispense bottle. No more cooking down raw sugar and water in a pot. This product comes in a plastic bottle.
-
-6073738470111: Frutti di Bosco Fruit Innovation Syrup from DaVinci Gourmet is a rich, mixed berry syrup bursting with flavor from strawberries, blueberries, raspberries, blackberries and black currants. Packaged in a 750 mL plastic bottle.
-
-6073738470102: Fruit Innovations&#x2122; Mandarin Orange Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle.
-
-6073738470101: Fruit Innovations&#x2122; Mango Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle.
-
-6073738470100: Fruit Innovations&#x2122; Peach Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle.
-
-6073738470109: Fruit Innovations&#x2122; Kiwi Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle.
-
-6073738470105: Fruit Innovations&#x2122; Pomegranate Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle.
-
-6073738470104: Strawberry Fruit Innovations Syrup by DaVinci Gourmet bursts with vine-ripened strawberry taste. Made with pure cane sugar. Applications include strawberry flavored iced teas, lemonades, sodas, cocktails, mocktails, and ciders.
-
-6073738470106: Fruit Innovations&#x2122; Raspberry Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle.
-
-6073738470116: Fruit Innovations&#x2122; Watermelon Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle.
-
-1573738409995: This Syrup Pump dispenses 1/4 oz of product. Specially created for DaVinci Gourmet syrup products.
-
-2073738408205: Green Tea Concentrate with Yerba Mate from DaVinci Gourmet is what  baristas use to add delicious green tea flavor to specialty beverages. This product is packaged in a 750 mL glass bottle.
-
-4073738490101: Kiwi Lime Invigorators combine naturally sweet kiwi flavor balanced with a crisp lime tartness for a tempting, tangy blend. Invigorator green coffee extract concentrates by DaVinci Gourmet provide a refreshing finished beverage with an energizing splash of flavor. Invigorators give you an enticing new drink option in a 5:1 concentrate that tastes great any time of day. Only 70 calories per 16 oz. serving. With its green coffee extract and antioxidants, get a natural boost of energy with no coffee taste.Combine with water or sparkling water to create fun drink options.
-
-6073738400400: Lemonade Concentrate Fruit Innovation Syrup by DaVinci Gourmet is specially crafted for the ultimate in premium lemonades using only authentic flavors for the ideal balance of sweet and tart. Packaged in a 750 mL plastic bottle.
-
-2073738408201: Chai Tea concentrate by DaVinci Gourmet. Just mix with water. Serve hot, iced or blended. This product is packaged in a 750 mL glass bottle.
-
-19408: This pump was specially created for DaVinci Gourmet Invigorator concentrate products and dispenses 1/2 oz of product.
-
-4073738490100: Raspberry Pomegranate Invigorators have the unmistakable tang of raspberry blended with sweet-tart pomegranate for a well-rounded flavor. Invigorator green coffee extract concentrates by DaVinci Gourmet provide a refreshing finished beverage with an energizing splash of flavor. Invigorators give you an enticing new drink option in a 5:1 concentrate that tastes great any time of day. Only 70 calories per 16 oz. serving. With its green coffee extract and antioxidants, get a natural boost of energy with no coffee taste.Combine with water or sparkling water to create fun drink options.
-
-2073738400902: All Natural Almond Flavored Syrup from DaVinci Gourmet has a deliciously nutty aroma, sweet, sugary flavor, and offers a true almond flavoring that is great for coffee, drinks desserts and more. This product is packaged in a 700 mL glass bottle.
-
-2073738408202: Sugar Free Spiced Chai Tea Concentrate from DaVinci Gourmet is a soothing combination of black tea, honey and rich spices including cinnamon, vanilla, ginger, cloves and cardamom. A perfect blend of flavors that isn&apos;t too sweet or too spicy. Sweetened with SPLENDA&#xAE; Brand Sweetener. This product is packaged in a 750 mL glass bottle.
-
-4073738490102: Orange Melon Invigorators offer full-bodied orange zestiness combined with mellow melon flavor for a smooth, tropical taste. Invigorator green coffee extract concentrates by DaVinci Gourmet provide a refreshing finished beverage with an energizing splash of flavor. Invigorators give you an enticing new drink option in a 5:1 concentrate that tastes great any time of day. Only 70 calories per 16 oz. serving. With its green coffee extract and antioxidants, get a natural boost of energy with no coffee taste. Combine with water or sparkling water to create fun drink options.
-
-2073738400915: All Natural Banana Flavored Syrup from DaVinci Gourmet contains deliciously sweet flavors that are reminiscent of freshly-picked bananas and are perfect as flavorings for coffee, tropical beverages and culinary creations. This product is packaged in a 700 mL glass bottle.
-
-2073738400919: All Natural Coconut Flavored Syrup by DaVinci Gourmet will take your drinks and culinary creations on a delicious tropical journey. This product is packaged in a 700 mL glass bottle.
-
-2073738400921: All Natural Caramel flavored syrup  by DaVinci Gourmet contains the buttery, sugary sweetness of warm caramel, which makes it the perfect addition to any coffee, iced drink and more. This product is packaged in a 700 mL glass bottle.
-
-2073738400963: All Natural Marionberry flavoring syrup from DaVinci Gourmet captures the essence of the marionberry, with just the right combination of sweet and pungent flavors. This product is packaged in a 700 mL glass bottle.
-
-2073738400967: All Natural Single Origina Hawaiian Salted Caramel syrup contaisnSavory salted caramel syrup and flavoring by DaVinci Gourmet. Our natural caramel flavor is created with single origin ingredients for mouthwatering beverages. This product is packaged in a 700 mL glass bottle.
-
-2073738400910: A minty Creme de Menthe flavor perfect for non-alcoholic cocktails by DaVinci Gourmet. All Natural syrup and flavoring makes an ideal Creme de Menthe alternative. This product is packaged in a 700 mL glass bottle.
-
-2073738400909: Indulgent combination of vanilla, chocolate, cream and whiskey flavors.  Made with pure cane sugar. Comes in a 700 mL glass bottle.
-
-2073738400965: All Natural Single Origin Madagascar Vanilla Syrup from DaVinci Gourmet features authentically grown vanilla beans from the fertile, tropical climate where vanilla plants flourish and their beans are known for high-quality, sweet flavor picked at their peak of ripeness. This product is packaged in a 700 mL glass bottle.
-
-2073738400966: All Natural Single Origin Turkish Hazelnut Syrup delivers the intense toasty quality and deep nutty flavor of hazelnuts from the coast of the Black Sea, picked at their peak of ripeness. This product is packaged in a 700 mL glass bottle.
-
-1573738409995: This Syrup Pump dispenses 1/4 oz of product. Specially created for DaVinci Gourmet syrup products.
-
-2073738400905: All Natural Strawberry syrup from DaVinci Gourmet delivers the sweet, delectable flavor of fresh picked strawberries with no artificial flavors, colors or preservatives. This product is packaged in a 700 mL glass bottle.
-
-2073738400901: All Natural Vanilla flavored syrup from DaVinci Gourmet with pure flavoring extracted from vanilla beans is perfect for coffee, lattes, desserts and more. This product is packaged in a 700 mL glass bottle.
-
-2073738400968: All Natural Single Origin Pacific Northwest Raspberry flavoring syrup by DaVinci Gourmet is made with radiant red, slightly tart raspberries from Oregon and Washington. This product is packaged in a 700 mL glass bottle.
-
-6073738400154: Toasted Marshmallow Flavored Syrup from DaVinci Gourmet is perfect to drink in your favorite beverage around a camp fire on a warm summer night. This product is packaged in a 750 mL plastic bottle.
-
-2073738400001: Vanilla Flavored Syrup from DaVinci Gourmet contains the pure flavor of extracted vanilla beans. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400051: White Chocolate Flavored Syrup from DaVinci Gourmet contains the taste of vanilla beans that are lightly toasted and blended with cream and sugar.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738403001: Skinny margaritas are in high demand with more people demanding lower calorie delicious cocktails and mocktails. SkinniLicious Margarita Mix by DaVinci Gourmet gives you all the flavor you crave without all the calories, fat or carbs and is made with organic agave nectar and real sugar. This mix has only 10 calories per serving! Combine 4 fl oz. of mix with 11/4 fl oz. of Tequila and pour over a full glass of ice and serve. To create signature flavored margaritas, simply add 3/4 fl oz. of DaVinci Gourmet Fruit Innovation syrups.
-
-1573738409995: This Syrup Pump dispenses 1/4 oz of product. Specially created for DaVinci Gourmet syrup products.
-
-6073738400101: Vanilla Flavored Syrup from DaVinci Gourmet contains the pure flavor of extracted vanilla beans. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738400034: Watermelon Flavored Syrup from DaVinci Gourmet tastes just likethe juicy, sweet flavor of a summer-ripe watermelon, without the seeds!&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400401: 
-
-2073738400021: Caramel Flavored Syrup from DaVinci Gourmet tastes just like caramel: buttery toasted sugar with a touch of vanilla.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400121: Caramel Flavored Syrup from DaVinci Gourmet tastes just like the classic flavor of buttery toasted sugar, with a touch of vanilla.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-6073738400129: Cheesecake Flavored Syrup from DaVinci Gourmet will turn any menu item into an indulgent experience with its Ideal balance of rich, cream cheese flavor and graham crackers. This product is packaged in a 750 mL plastic bottle.
-
-2073738400006: Cherry Flavored Syrup from DaVinci Gourmet contains the flavor of ripe cherries and has a perfect balance of sweet and tart.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400106: Cherry Flavored Syrup from DaVinci Gourmet contains the flavor of ripe cherries and has a perfect balance of sweet and tart.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-6073738400126: Chocolate Mint Flavored Syrup from DaVinci Gourmet has the taste of a peppermint patty -- rich, dark chocolate with a cool blast of peppermint.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738400026: Chocolate Mint Flavored Syrup form DaVinci Gourmet tastes just like a peppermint patty -- rich, dark chocolate with a cool blast of peppermint.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400029: Chocolate Peanut Butter Flavored Syrup from DaVinci Gourmet is the perfect balance of sweet, indulgent milk chocolate and creamy, nutty peanut butter. This product is packaged in a 750 mL glass bottle.
-
-2073738400016: Chocolate Flavored Syrup from DaVinci Gourmet has the pure and simple taste of semisweet chocolate.&#xA0; Made with pure cane sugar. This product is packiaged in a 750 mL glass bottle.
-
-6073738400116: Chocolate Flavored Syrup from DaVinci Gourmet has the pure and simple taste of semisweet chocolate.&#xA0; Made with pure cane sugar. This product is packiaged in a 750 mL plastic bottle.
-
-2073738400017: Cinnamon Flavored Syrup from DaVinci Gourmet perfectly captures the warm, sweet flavor of cinnamon spice. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400217: Cinnamon Flavored Syrup from DaVinci Gourmet perfectly captures the warm, sweet flavor of cinnamon spice. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738400019: Coconut Flavored Syrup from DaVinci Gourmet will whisk you away to a tropical paradise with its exotic  coconut flavors.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400119: Coconut Flavored Syrup from DaVinci Gourmet will whisk you away to a tropical paradise with its exotic  coconut flavors.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle.
-
-2073738400078: Cookie Dough Flavored Syrup from DaVinci Gourmet is brimming with the flavor of fresh baked cookies, just like grandma used to make.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-2073738400018: Coffee Flavored Syrup from DaVinci Gourmet is made with the sweetened flavor of brewed coffee.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle.
-
-6073738400130: Cookies &apos;n Cream Flavored Syrup from DaVinci Gourmet will bring you back to your childhood and your favorite after-school snack: milk and cookies. This product is packaged in a 750 mL plastic bottle.
-
-2073738499003: Cr&#xE8;me de Cacao Flavored Syrup from DaVinci Gourmet brings a non-alcoholic version of the creamy and chocolatey liqueur. This product is packaged in a 750 mL glass bottle.
-
-2073738400010: Cr&#xE8;me de Menthe Flavored Syrup from DaVinci Gourmet brings a non-alcoholic version of the creamy and minty liqueur. This product is packaged in a 750 mL glass bottle.
-
-2073738400043: Egg Nog Flavored Syrup from DaVinci Gourmet tastes just like the indulgent holiday treat with with sweet, milky flavors. Made with pure cane sugar. This product comes in a 750 mL glass bottle.
-
+Classic Almond Mocha Syrup, 2073738400059, "Almond Mocha Syrup is one of the most popular DaVinci Gourmet Classic flavoring syrups made from all natural almonds and deliciously rich cocoa. This product is packaged in a 750 mL glass bottle."
+Classic Almond Syrup, 2073738400002, "Almond Syrup is one of the most popular DaVinci Gourmet Classic flavoring syrups made from all natural almonds enhancing the natural flavor of brewed coffee and polishing espresso coffee drinks. This product is packaged in a 750 mL glass bottle."
+Classic Almond Syrup, 6073738400102, "Almond Syrup is one of the most popular DaVinci Gourmet Classic flavoring syrups made from all natural almonds enhancing the natural flavor of brewed coffee and polishing espresso coffee drinks. Comes in a 750 mL plastic bottle."
+Classic Amaretto Syrup, 2073738400036, "Amaretto Syrup from DaVinci Gourmet offers this Classic non-alcoholic version of the sweet almond liqueur that hails from Saronno, Italy with a slight hint of apricots and a brownish color. This product is packaged in a 750 mL glass bottle."
+Classic Amaretto Syrup, 6073738400136, "Amaretto Syrup from DaVinci Gourmet offers this Classic non-alcoholic version of the sweet almond liqueur that hails from Saronno, Italy with a slight hint of apricots and a brownish color. This product is packged in a 750 mL plastic bottle."
+Classic Apple Syrup, 2073738400028, "Apple Syrup from DaVinci Gourmet will flavor your favorite beverage with the taste of crisp, freshly picked, juicy apples. This product is packaged in a 750 mL glass bottle."
+Classic B-52 Syrup, 2073738400045, "B-52 Flavored Syrup from DaVinci Gourmet is named for the famous bar drink made from Kahlua liqueur, Irish Cream, and Grand Marnier. This non-alcoholic syrup is a combination of coffee, Irish Cream, and a hint of orange flavor. This product is packaged in a 750 mL glass bottle."
+Classic Banana Syrup, 2073738400015, "Banana Flavored Syrup from DaVinci Gourmet is a great way to add the delicious taste of freshly ripened bananas to your favorite beverage or culinary creation. This product is packaged in a 750 mL glass bottle."
+Classic Black Cherry Syrup, 2073738400044, "Black Cherry Flavored Syrup from DaVinci Gourmet contains the sweetly tartness of fresh-off-the-tree black cherries which is the perfect way to add a succulent addition to any beverage! This product is packaged in a 750 mL glass bottle."
+Classic Black Cherry Syrup, 6073738400244, "Black Cherry Flavored Syrup from DaVinci Gourmet contains the sweetly tartness of fresh-off-the-tree black cherries which is the perfect way to add a succulent addition to any beverage! This product is packaged in a 750 mL plastic bottle."
+Classic Blackberry Syrup, 2073738400012, "Blackberry Flavored Syrup from DaVinci Gourmet is made with the juicy, tart flavor of fresh picked blackberries. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Blue Curacao Syrup, 2073738400060, "Blue Curacao Flavored Syrup from DaVinci Gourmet is modeled after the orange-flavored liqueur. This non-alcoholic syrup has a sweet, tart, citrus flavor. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Blueberry Syrup, 2073738400022, "Blueberry Flavored Syrup from DaVinci Gourmet contrains the subtly, sweet flavosr of deliciously ripe blueberries. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Butter Pecan Syrup, 2073738400042, "Butter Pecan Flavored Syrup from DaVinci Gourmet is the perfect way to add bold, nutty, pecan flavor to your favorite specialty beverage.&#xA0;&#xA0;Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Butter Rum Syrup, 2073738400041, "Butter Rum Flavored Syrup has a smooth, buttery flavor combined with touch of exotic rum. This non-alcoholic syrup is made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Butterscotch Syrup, 2073738400039, "Butterscotch Flavored Syrup from DaVinci Gourmet is named for the yummy hard candy made from butter and brown sugar.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Cake Batter Syrup, 6073738400128, "Cake Batter Flavored Syrup from DaVinci Gourmet will turn any menu item into an indulgent experience with its sweet, buttery cake batter flavor. This product is packaged in a 750 mL plastic bottle."
+Classic Cane Sugar Caramel Syrup, 6073738400621, ""
+Classic Cane Sugar Hazelnut Syrup, 6073738400603, ""
+Classic Cane Sugar Syrup, 2073738400061, "Classic Cane Sugar syrup provides Liquid sugar in an easy to dispense bottle. No more cooking down raw sugar and water in a pot. This product comes in a glass bottle."
+Classic Cane Sugar Syrup, 6073738410061, "Classic Cane Sugar syrup provides Liquid sugar in an easy to dispense bottle. No more cooking down raw sugar and water in a pot. This product comes in a plastic bottle."
+Classic English Toffee Syrup, 2073738400069, "English Toffee Flavored Syrup from DaVinci Gourmet has a smooth, buttery flavor that is reminiscent of the classic candy.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic English Toffee Syrup, 6073738400169, "English Toffee Flavored Syrup from DaVinci Gourmet has a smooth, buttery flavor that is reminiscent of the classic candy.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic French Vanilla Syrup, 2073738400058, "French Vanilla Flavored Syrup from DaVinci Gourmet has a creamy, rich, custard-like essence of the ice cream and is perfect way to give your favorite drink that perfect, vanilla-y flavor.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic French Vanilla Syrup, 6073738400158, "French Vanilla Flavored Syrup from DaVinci Gourmet has a creamy, rich, custard-like essence of the ice cream and is perfect way to give your favorite drink that perfect, vanilla-y flavor.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic German Chocolate Cake Syrup, 2073738499000, "German Chocolate Cake Flavored Syrup from DaVinci Gourmet combines the flavors of moist chocolate cake, caramel frosting and toasted coconut.&#xA0; Made with pure cane sugar. This product is packageed in a 750 mL glass bottle."
+Classic Gingerbread Syrup, 2073738400077, "Gingerbread Flavored Syrup from DaVinci Gourmet has the edelicious flavor of fresh baked gingerbread cookies with hints of cinnamon and molasses.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Grape Syrup, 2073738400035, "Grape Flavored Syrup form DaVinci Gourmet tastes just like sweet, juicy grapes straight off the vine.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Guava Syrup, 2073738400055, "Guava Flavored Syrup from DaVinci Gourmet is sweetened with the flavor of sweet, juicy, tropical guava fruit.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Hazelnut (Original) Syrup, 2073738400003, "Hazelnut (Original) Flavored Syrup has the delicious flavor of raw, unroasted hazelnut that is common in many popular liqueurs.&#xA0;This product is packaged in a 750 mL glass bottle."
+Classic Hazelnut (Original) Syrup, 6073738400103, "Hazelnut (Original) Flavored Syrup has the delicious flavor of raw, unroasted hazelnut that is common in many popular liqueurs.&#xA0;This product is packaged in a 750 mL plastic bottle."
+Classic Hazelnut (Toasted) Syrup, 2073738400087, "Hazelnut (Toasted) Flavored Syrup has the delicious flavor of raw, unroasted hazelnut that is common in many popular liqueurs.&#xA0;This product is packaged in a 750 mL glass bottle."
+Classic Huckleberry Syrup, 2073738400093, "Huckleberry Flavored Syrup from DaVinci Gourmet features the tart flavor of the wild huckleberry known to the Pacific Northwest.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Irish Cream Syrup, 2073738400009, "Irish Cream Flavored Syrup by DaVinci Gourmet features the indulgent combination of vanilla, chocolate, cream and whiskey flavors. This product is packaged in a 750 mL glass bottle."
+Classic Irish Cream Syrup, 6073738400109, "Irish Cream Flavored Syrup by DaVinci Gourmet features the indulgent combination of vanilla, chocolate, cream and whiskey flavors. This product is packaged in a 750 mL plastic bottle."
+Classic Kahlua Syrup, 2073738499002, "Kahlua Flavored Syrup from DaVinci Gourmet classic flavor of the coffee liquer, Kahlua.  Made with pure cane sugar. This non-alcoholic product is packaged in a 750 mL glass bottle."
+Classic Kahlua Syrup, 6073738499102, "Kahlua Flavored Syrup from DaVinci Gourmet classic flavor of the coffee liquer, Kahlua.  Made with pure cane sugar. This non-alcoholic product is packaged in a 750 mL plastic bottle."
+Classic Kiwi Syrup, 2073738400023, "Kiwi Flavored Syrup from DaVinci Gourmet features the fresh tart flavor of juicy, ripe kiwis.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Lemon Syrup, 2073738400007, "Lemon Flavored Syrup from DaVinci Gourmet Refreshing bright flavor of fresh sliced lemons.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Lime Syrup, 2073738400014, "Lime Flavored Syrup from DaVinci Gourmet features the juicy, tart flavor of fresh sliced limes.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Macadamia Nut Syrup, 2073738400033, "Macadamia Nut Flavored Syrup from DaVinci Gourmet is brimming with the delicate buttery taste of decadent macademia nuts.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL bottle."
+Classic Mango Syrup, 2073738400056, "Mango Flavored Syrup from DaVinci Gourmet will make you think of summer time and warm weather with the exotic flavor of ripe, juicy mangoes.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Toasted Marshmallow Syrup, 6073738400154, "Toasted Marshmallow Flavored Syrup from DaVinci Gourmet is perfect to drink in your favorite beverage around a camp fire on a warm summer night. This product is packaged in a 750 mL plastic bottle."
+Classic Vanilla Syrup, 2073738400001, "Vanilla Flavored Syrup from DaVinci Gourmet contains the pure flavor of extracted vanilla beans. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Vanilla Syrup, 6073738400101, "Vanilla Flavored Syrup from DaVinci Gourmet contains the pure flavor of extracted vanilla beans. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Watermelon Syrup, 2073738400034, "Watermelon Flavored Syrup from DaVinci Gourmet tastes just likethe juicy, sweet flavor of a summer-ripe watermelon, without the seeds!&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic White Chocolate Syrup, 2073738400051, "White Chocolate Flavored Syrup from DaVinci Gourmet contains the taste of vanilla beans that are lightly toasted and blended with cream and sugar.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Skinnilicious Margarita Mix, 2073738403001, "Skinny margaritas are in high demand with more people demanding lower calorie delicious cocktails and mocktails. SkinniLicious Margarita Mix by DaVinci Gourmet gives you all the flavor you crave without all the calories, fat or carbs and is made with organic agave nectar and real sugar. This mix has only 10 calories per serving! Combine 4 fl oz. of mix with 11/4 fl oz. of Tequila and pour over a full glass of ice and serve. To create signature flavored margaritas, simply add 3/4 fl oz. of DaVinci Gourmet Fruit Innovation syrups."
+DaVinci Gourmet Syrup Pump 1/4 oz, 1573738409995, "This Syrup Pump dispenses 1/4 oz of product. Specially created for DaVinci Gourmet syrup products."
+Classic Cane Sugar Vanilla Syrup, 6073738400401, ""
+Classic Caramel Syrup, 2073738400021, "Caramel Flavored Syrup from DaVinci Gourmet tastes just like caramel: buttery toasted sugar with a touch of vanilla.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Caramel Syrup, 6073738400121, "Caramel Flavored Syrup from DaVinci Gourmet tastes just like the classic flavor of buttery toasted sugar, with a touch of vanilla.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Cheesecake Syrup, 6073738400129, "Cheesecake Flavored Syrup from DaVinci Gourmet will turn any menu item into an indulgent experience with its Ideal balance of rich, cream cheese flavor and graham crackers. This product is packaged in a 750 mL plastic bottle."
+Classic Cherry Syrup, 2073738400006, "Cherry Flavored Syrup from DaVinci Gourmet contains the flavor of ripe cherries and has a perfect balance of sweet and tart.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Cherry Syrup, 6073738400106, "Cherry Flavored Syrup from DaVinci Gourmet contains the flavor of ripe cherries and has a perfect balance of sweet and tart.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Chocolate Mint Syrup, 2073738400026, "Chocolate Mint Flavored Syrup form DaVinci Gourmet tastes just like a peppermint patty -- rich, dark chocolate with a cool blast of peppermint.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Chocolate Mint Syrup, 6073738400126, "Chocolate Mint Flavored Syrup from DaVinci Gourmet has the taste of a peppermint patty -- rich, dark chocolate with a cool blast of peppermint.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Chocolate Peanut Butter Syrup, 2073738400029, "Chocolate Peanut Butter Flavored Syrup from DaVinci Gourmet is the perfect balance of sweet, indulgent milk chocolate and creamy, nutty peanut butter. This product is packaged in a 750 mL glass bottle."
+Classic Chocolate Syrup, 2073738400016, "Chocolate Flavored Syrup from DaVinci Gourmet has the pure and simple taste of semisweet chocolate.&#xA0; Made with pure cane sugar. This product is packiaged in a 750 mL glass bottle."
+Classic Chocolate Syrup, 6073738400116, "Chocolate Flavored Syrup from DaVinci Gourmet has the pure and simple taste of semisweet chocolate.&#xA0; Made with pure cane sugar. This product is packiaged in a 750 mL plastic bottle."
+Classic Cinnamon Syrup, 2073738400017, "Cinnamon Flavored Syrup from DaVinci Gourmet perfectly captures the warm, sweet flavor of cinnamon spice. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Cinnamon Syrup, 6073738400217, "Cinnamon Flavored Syrup from DaVinci Gourmet perfectly captures the warm, sweet flavor of cinnamon spice. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Coconut Syrup, 2073738400019, "Coconut Flavored Syrup from DaVinci Gourmet will whisk you away to a tropical paradise with its exotic  coconut flavors.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Coconut Syrup, 6073738400119, "Coconut Flavored Syrup from DaVinci Gourmet will whisk you away to a tropical paradise with its exotic  coconut flavors.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Coffee Syrup, 2073738400018, "Coffee Flavored Syrup from DaVinci Gourmet is made with the sweetened flavor of brewed coffee.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Cookie Dough Syrup, 2073738400078, "Cookie Dough Flavored Syrup from DaVinci Gourmet is brimming with the flavor of fresh baked cookies, just like grandma used to make.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Cookies 'n Cream Syrup, 6073738400130, "Cookies &apos;n Cream Flavored Syrup from DaVinci Gourmet will bring you back to your childhood and your favorite after-school snack: milk and cookies. This product is packaged in a 750 mL plastic bottle."
+Classic Crème de Cacao Syrup, 2073738499003, "Cr&#xE8;me de Cacao Flavored Syrup from DaVinci Gourmet brings a non-alcoholic version of the creamy and chocolatey liqueur. This product is packaged in a 750 mL glass bottle."
+Classic Crème de Menthe Syrup, 2073738400010, "Cr&#xE8;me de Menthe Flavored Syrup from DaVinci Gourmet brings a non-alcoholic version of the creamy and minty liqueur. This product is packaged in a 750 mL glass bottle."
+Classic Egg Nog Syrup, 2073738400043, "Egg Nog Flavored Syrup from DaVinci Gourmet tastes just like the indulgent holiday treat with with sweet, milky flavors. Made with pure cane sugar. This product comes in a 750 mL glass bottle."
+Classic Maple Sweetener Syrup, 2073738499010, "Maple Sweetener Syrup from DaVinci Gourmet will perfectly sweeten any beverage. This product is packaged in a 750 mL glass bottle."
+Classic Orange Syrup, 2073738400008, "Orange Flavored Syrup from DaVinci Gourmet will take you away to the sweet-smelling, Floridian orange groves with the tangy, sweet flavors of juicy oranges.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Passion Fruit Syrup, 2073738400027, "Passion Fruit Flavored Syrup by DaVinci Gourmet combines the delightful tart and sweet flavors known to tropical passion fruit.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Peach Syrup, 2073738400011, "Peach Flavored Syrup from DaVinci Gourmet contains the juicy, mouth-watering flavor of fresh picked peaches.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Peanut Butter Syrup, 2073738400084, "Peanut Butter Flavored Syrup by DaVinci Gourmet has the deliciously creamy flavor of nutty peanut butter.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Peppermint Paddy Syrup, 2073738400086, "Peppermint Paddy Flavored Syrup from DaVinci Gourmet is reminiscent of the famous, premium chocolate mint candies. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Peppermint Syrup, 2073738400050, "Peppermint Flavored Syrup by DaVinci Gourmet packs an icy, cool blast of aromatic peppermint. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Peppermint Syrup, 6073738400150, "Peppermint Flavored Syrup by DaVinci Gourmet packs an icy, cool blast of aromatic peppermint. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Pina Coalda Syrup, 2073738400048, "Pina Coalda Flavored Syrup from DaVinci Gourmet combines sweet pineapple with exotic coconut to create a non-alcoholic flavor that tastes just like the famously tropical drink it&apos;s named for.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Pineapple Syrup, 2073738400032, "Pineapple Flavored Syrup by DaVinci Gourmet is sweet and juicy, just like the delicious, tropical fruit.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Praline Syrup, 2073738400040, "Praline Flavored Syrup by DaVinci Gourmet is named for the original confection, pralines; this syrup tastes like mild pecans lightly toasted in butter with sugar and vanilla.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Pumpkin Pie Spice, 2073738400053, "Pumpkin Pie Flavored Syrup from DaVinci Gourmet blends together pumpkin, cinnamon, nutmeg, allspice and ginger and is reminiscent of the popular holiday dessert.&#xA0; Made with pure cane sugar. This product is packaged in a a 750 mL glass bottle."
+Classic Raspberry Syrup, 2073738400004, "Raspberry Flavored Syrup by DaVinci Gourmet features the swweet, juicy flavor of fresh picked raspberries.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Raspberry Syrup, 6073738400104, "Raspberry Flavored Syrup by DaVinci Gourmet features the swweet, juicy flavor of fresh picked raspberries.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Red Velvet Syrup, 6073738400127, "Red Velvet Cake Flavored Syrup from DaVinci Gourmet allows you to turn any menu item into an indulgent experience with this timeless dessert syrup. Rich, decadent flavor of red velvet cake. This product is packaged in a 750 mL plastic bottle."
+Classic Red Velvet Syrup, 6073738400127, "Red Velvet Cake Flavored Syrup from DaVinci Gourmet allows you to turn any menu item into an indulgent experience with this timeless dessert syrup. Rich, decadent flavor of red velvet cake. This product is packaged in a 750 mL plastic bottle."
+Classic Root Beer Syrup, 2073738400037, "Root Beer Flavored Syrup from DaVinci Gourmet features the delicious flavor of this classic fountain soda.  Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Strawberry Syrup, 2073738400005, "Strawberry Flavored Syrup from DaVinci Gourmet contains the sweet, delectable flavor of fresh picked strawberrries. Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Strawberry Syrup, 6073738400105, "Strawberry Flavored Syrup from DaVinci Gourmet contains the sweet, delectable flavor of fresh picked strawberrries. Made with pure cane sugar. This product is packaged in a 750 mL plastic bottle."
+Classic Tiramisu Syrup, 2073738400047, "Tiramisu Flavored Syrup from DaVinci Gourmet tastes just like the yellow sponge cake soaked in chocolate and coffee liqueur and layered with cream that makes up this traditional Italian dessert.&#xA0; Made with pure cane sugar. This product is packaged in a 750 mL glass bottle."
+Classic Toasted Marshmallow Syrup, 2073738400054, "Toasted Marshmallow Flavored Syrup from DaVinci Gourmet is perfect to drink in your favorite beverage around a camp fire on a warm summer night. This product is packaged in a 750 mL glass bottle."
+All Natural Almond Flavored Syrup, 2073738400902, "All Natural Almond Flavored Syrup from DaVinci Gourmet has a deliciously nutty aroma, sweet, sugary flavor, and offers a true almond flavoring that is great for coffee, drinks desserts and more. This product is packaged in a 700 mL glass bottle."
+All Natural Banana Flavored Syrup, 2073738400915, "All Natural Banana Flavored Syrup from DaVinci Gourmet contains deliciously sweet flavors that are reminiscent of freshly-picked bananas and are perfect as flavorings for coffee, tropical beverages and culinary creations. This product is packaged in a 700 mL glass bottle."
+All Natural Caramel Flavored Syrup, 2073738400921, "All Natural Caramel flavored syrup  by DaVinci Gourmet contains the buttery, sugary sweetness of warm caramel, which makes it the perfect addition to any coffee, iced drink and more. This product is packaged in a 700 mL glass bottle."
+All Natural Coconut Flavored Syrup, 2073738400919, "All Natural Coconut Flavored Syrup by DaVinci Gourmet will take your drinks and culinary creations on a delicious tropical journey. This product is packaged in a 700 mL glass bottle."
+All Natural Irish Cream Flavored Syrup, 2073738400909, "Indulgent combination of vanilla, chocolate, cream and whiskey flavors.  Made with pure cane sugar. Comes in a 700 mL glass bottle."
+All Natural Crème de Menthe Flavored Syrup, 2073738400910, "A minty Creme de Menthe flavor perfect for non-alcoholic cocktails by DaVinci Gourmet. All Natural syrup and flavoring makes an ideal Creme de Menthe alternative. This product is packaged in a 700 mL glass bottle."
+All Natural Marionberry Syrup, 2073738400963, "All Natural Marionberry flavoring syrup from DaVinci Gourmet captures the essence of the marionberry, with just the right combination of sweet and pungent flavors. This product is packaged in a 700 mL glass bottle."
+All Natural Single Origin Hawaiian Salted Caramel Syrup, 2073738400967, "All Natural Single Origin Hawaiian Salted Caramel syrup by DaVinci Gourmet has that savory and sweet salty buttery caramel flavor. Our natural caramel flavor is created with single origin ingredients for mouthwatering beverages, delightful desserts and culinary creations. This product is packaged in a 700 mL glass bottle."
+All Natural Single Origin Madagascar Vanilla Syrup, 2073738400965, "All Natural Single Origin Madagascar Vanilla Syrup from DaVinci Gourmet features authentically grown vanilla beans from the fertile, tropical climate where vanilla plants flourish and their beans are known for high-quality, sweet flavor picked at their peak of ripeness. This product is packaged in a 700 mL glass bottle."
+All Natural Single Origin Pacific Northwest Raspberry Syrup, 2073738400968, "All Natural Single Origin Pacific Northwest Raspberry flavoring syrup by DaVinci Gourmet is made with radiant red, slightly tart raspberries from Oregon and Washington. This product is packaged in a 700 mL glass bottle."
+All Natural Single Origin Turkish Hazelnut Syrup, 2073738400966, "All Natural Single Origin Turkish Hazelnut Syrup delivers the intense toasty quality and deep nutty flavor of hazelnuts from the coast of the Black Sea, picked at their peak of ripeness. This product is packaged in a 700 mL glass bottle."
+DaVinci Gourmet Syrup Pump 1/4 oz, 1573738409995, "This Syrup Pump dispenses 1/4 oz of product. Specially created for DaVinci Gourmet syrup products."
+All Natural Strawberry Syrup, 2073738400905, "All Natural Strawberry syrup from DaVinci Gourmet delivers the sweet, delectable flavor of fresh picked strawberries with no artificial flavors, colors or preservatives. This product is packaged in a 700 mL glass bottle."
+All Natural Vanilla Syrup, 2073738400901, "All Natural Vanilla flavored syrup from DaVinci Gourmet with pure flavoring extracted from vanilla beans is perfect for coffee, lattes, desserts and more. This product is packaged in a 700 mL glass bottle."
+Fruit Innovations Blackberry Blood Orange Syrup, 6073738470114, "Blackberry Blood Orange Fruit Innovation Syrup by DaVinci Gourmet is a seductive blend of sweet blackberries and tart blood orange juice. Packaged in a 750 mL plastic bottle."
+Fruit Innovations Frutti di Bosco Syrup, 6073738470111, "Frutti di Bosco Fruit Innovation Syrup from DaVinci Gourmet is a rich, mixed berry syrup bursting with flavor from strawberries, blueberries, raspberries, blackberries and black currants. Packaged in a 750 mL plastic bottle."
+Fruit Innovations Mandarin Orange, 6073738470102, "Fruit Innovations&#x2122; Mandarin Orange Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle."
+Fruit Innovations Kiwi, 6073738470109, "Fruit Innovations&#x2122; Kiwi Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle."
+Fruit Innovations Mango, 6073738470101, "Fruit Innovations&#x2122; Mango Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle."
+Fruit Innovations Peach, 6073738470100, "Fruit Innovations&#x2122; Peach Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle."
+Fruit Innovations Pomegranate, 6073738470105, "Fruit Innovations&#x2122; Pomegranate Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle."
+Fruit Innovations Raspberry, 6073738470106, "Fruit Innovations&#x2122; Raspberry Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle."
+Fruit Innovations Strawberry Syrup, 6073738470104, "Strawberry Fruit Innovations Syrup by DaVinci Gourmet bursts with vine-ripened strawberry taste. Made with pure cane sugar. Applications include strawberry flavored iced teas, lemonades, sodas, cocktails, mocktails, and ciders."
+Fruit Innovations Watermelon, 6073738470116, "Fruit Innovations&#x2122; Watermelon Syrup for cold beverages. Add fruit flavored drink syrup to lemonade, ice tea, and sodas. This product is packaged in a 750 mL plastic bottle."
+DaVinci Gourmet Syrup Pump 1/4 oz, 1573738409995, "This Syrup Pump dispenses 1/4 oz of product. Specially created for DaVinci Gourmet syrup products."
+Chai Tea Concentrate, 2073738408201, "Chai Tea concentrate by DaVinci Gourmet. Just mix with water. Serve hot, iced or blended. This product is packaged in a 750 mL glass bottle."
+Classic Green Tea with Yerba Mate Concentrate, 2073738408205, "Green Tea Concentrate with Yerba Mate from DaVinci Gourmet is what  baristas use to add delicious green tea flavor to specialty beverages. This product is packaged in a 750 mL glass bottle."
+Kiwi Lime Invigorators Green Coffee Extract Drink Concentrate 64 fl oz, 4073738490101, "Kiwi Lime Invigorators combine naturally sweet kiwi flavor balanced with a crisp lime tartness for a tempting, tangy blend. Invigorator green coffee extract concentrates by DaVinci Gourmet provide a refreshing finished beverage with an energizing splash of flavor. Invigorators give you an enticing new drink option in a 5:1 concentrate that tastes great any time of day. Only 70 calories per 16 oz. serving. With its green coffee extract and antioxidants, get a natural boost of energy with no coffee taste.Combine with water or sparkling water to create fun drink options."
+Lemonade Concentrate Fruit Innovation Syrup, 6073738400400, "Lemonade Concentrate Fruit Innovation Syrup by DaVinci Gourmet is specially crafted for the ultimate in premium lemonades using only authentic flavors for the ideal balance of sweet and tart. Packaged in a 750 mL plastic bottle."
+Orange Melon Invigorators Green Coffee Extract Drink Concentrate 64 fl oz, 4073738490102, "Orange Melon Invigorators offer full-bodied orange zestiness combined with mellow melon flavor for a smooth, tropical taste. Invigorator green coffee extract concentrates by DaVinci Gourmet provide a refreshing finished beverage with an energizing splash of flavor. Invigorators give you an enticing new drink option in a 5:1 concentrate that tastes great any time of day. Only 70 calories per 16 oz. serving. With its green coffee extract and antioxidants, get a natural boost of energy with no coffee taste. Combine with water or sparkling water to create fun drink options."
+Raspberry Pomegranate Invigorators Green Coffee Extract Drink Concentrate 64 fl oz, 4073738490100, "Raspberry Pomegranate Invigorators have the unmistakable tang of raspberry blended with sweet-tart pomegranate for a well-rounded flavor. Invigorator green coffee extract concentrates by DaVinci Gourmet provide a refreshing finished beverage with an energizing splash of flavor. Invigorators give you an enticing new drink option in a 5:1 concentrate that tastes great any time of day. Only 70 calories per 16 oz. serving. With its green coffee extract and antioxidants, get a natural boost of energy with no coffee taste.Combine with water or sparkling water to create fun drink options."
+Sugar Free Chai Tea Concentrate, 2073738408202, "Sugar Free Spiced Chai Tea Concentrate from DaVinci Gourmet is a soothing combination of black tea, honey and rich spices including cinnamon, vanilla, ginger, cloves and cardamom. A perfect blend of flavors that isn&apos;t too sweet or too spicy. Sweetened with SPLENDA&#xAE; Brand Sweetener. This product is packaged in a 750 mL glass bottle."
+DaVinci Gourmet Invigorators Pump 1/2 oz, 19408, "This pump was specially created for DaVinci Gourmet Invigorator concentrate products and dispenses 1/2 oz of product."
