@@ -1,7 +1,6 @@
 {
   "name": "helpers",
   "version": "0.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +8,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "underscore": "^1.6.0",
-    "cssbeautify": "^0.3.1"
-  }
+    "cssbeautify": "^0.3.1",
+    "sqlite3": "^3.0.7",
+    "cheerio": "^0.18.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drifterz28/node-helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drifterz28/node-helpers/issues"
+  },
+  "homepage": "https://github.com/drifterz28/node-helpers"
 }
