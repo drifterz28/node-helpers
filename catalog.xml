@@ -1,0 +1,2173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE StoreExport SYSTEM "http://store.yahoo.com/doc/dtd/StoreExport.dtd">
+
+<!--
+This XML document contains all the items in the store as of the latest publish (see the Published element below to see when that was.) High-level documentation is at http://store.yahoo.com/storexport.html, the DTD has more detailed comments.
+-->
+
+<StoreExport>
+  <Settings>
+    <Published timestamp="1440284651"/>
+    <Locale code="C" name="English" encoding="iso-8859-1"/>
+<!--
+Note that although the native encoding of this store's content is iso-8859-1, all the text in this XML export format has been converted to UTF-8
+-->
+
+    <StoreName>UNIMAG Premium Magnetic Building Toy Sets</StoreName>
+    <Currency>USD</Currency>
+<!--
+All prices are specified in the above standard currency code.
+-->
+
+    <ShipMethods>
+      <ShipMethod>First Class/Parcel Post</ShipMethod>
+      <ShipMethod>Priority Mail (2-5 days)</ShipMethod>
+      <ShipMethod>Express (1-2 days)</ShipMethod>
+      <ShipMethod>Int'l Mail First Class (sometimes very slow)</ShipMethod>
+      <ShipMethod>Global Priority Mail</ShipMethod>
+      <ShipMethod>Express International</ShipMethod>
+    </ShipMethods>
+    <PayMethods>
+      <PayMethod>American Express</PayMethod>
+      <PayMethod>MasterCard</PayMethod>
+      <PayMethod>Visa</PayMethod>
+      <PayMethod>Discover</PayMethod>
+      <PayMethod>Diner's Club</PayMethod>
+      <PayMethod>JCB</PayMethod>
+    </PayMethods>
+  </Settings>
+  <Products>
+    <Product Id="2batterycollar">
+      <Code>2batterycollar</Code>
+      <Description>Lighted Dog Collar - 2 battery version</Description>
+      <Url>http://store.tealco.net/2batterycollar.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=26 src=http://ep.yimg.com/ay/yhst-93726292002916/lighted-dog-collar-2-battery-version-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=350 height=128 src=http://ep.yimg.com/ay/yhst-93726292002916/lighted-dog-collar-2-battery-version-2.gif&gt;</Picture>
+      <Weight>0.41</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>11.99</BasePrice>
+        <LocalizedBasePrice>11.99</LocalizedBasePrice>
+        <OrigPrice>11.99</OrigPrice>
+        <LocalizedOrigPrice>11.99</LocalizedOrigPrice>
+        <SalePrice>11.99</SalePrice>
+        <LocalizedSalePrice>11.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Size">
+          <OptionValue>Small</OptionValue>
+          <OptionValue>Medium</OptionValue>
+          <OptionValue>Large</OptionValue>
+        </OptionList>
+        <OptionList name="Color">
+          <OptionValue>Red</OptionValue>
+          <OptionValue>Green</OptionValue>
+          <OptionValue>Blue</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="2superhorns">
+      <Code>2superhorns</Code>
+      <Description>TWO SUPER LOUD BLASTER HORNS!</Description>
+      <Url>http://store.tealco.net/2superhorns.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=58 src=http://ep.yimg.com/ay/yhst-93726292002916/two-super-loud-blaster-horns-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=518 height=427 src=http://ep.yimg.com/ay/yhst-93726292002916/two-super-loud-blaster-horns-2.gif&gt;</Picture>
+      <Weight>0.34</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>11.99</BasePrice>
+        <LocalizedBasePrice>11.99</LocalizedBasePrice>
+        <OrigPrice>25.00</OrigPrice>
+        <LocalizedOrigPrice>25.00</LocalizedOrigPrice>
+        <SalePrice>11.99</SalePrice>
+        <LocalizedSalePrice>11.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="6cover">
+      <Code>618390425237</Code>
+      <Description>PolyBrite 6 Inch Lighted Dog Collar Cover</Description>
+      <Url>http://store.tealco.net/6cover.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=18 src=http://ep.yimg.com/ay/yhst-93726292002916/polybrite-6-inch-lighted-dog-collar-cover-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=203 height=53 src=http://ep.yimg.com/ay/yhst-93726292002916/polybrite-6-inch-lighted-dog-collar-cover-2.gif&gt;</Picture>
+      <Weight>0.15</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>6.00</BasePrice>
+        <LocalizedBasePrice>6.00</LocalizedBasePrice>
+        <OrigPrice>6.00</OrigPrice>
+        <LocalizedOrigPrice>6.00</LocalizedOrigPrice>
+        <SalePrice>6.00</SalePrice>
+        <LocalizedSalePrice>6.00</LocalizedSalePrice>
+      </Pricing>
+      <Caption>PolyBrite Lighted Dog Collar Cover</Caption>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Yellow</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="8cover">
+      <Code>618390425244</Code>
+      <Description>PolyBrite 8 Inch Lighted Dog Collar Cover</Description>
+      <Url>http://store.tealco.net/8cover.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=18 src=http://ep.yimg.com/ay/yhst-93726292002916/polybrite-8-inch-lighted-dog-collar-cover-5.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=246 height=65 src=http://ep.yimg.com/ay/yhst-93726292002916/polybrite-8-inch-lighted-dog-collar-cover-6.gif&gt;</Picture>
+      <Weight>0.3</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>7.00</BasePrice>
+        <LocalizedBasePrice>7.00</LocalizedBasePrice>
+        <OrigPrice>7.00</OrigPrice>
+        <LocalizedOrigPrice>7.00</LocalizedOrigPrice>
+        <SalePrice>7.00</SalePrice>
+        <LocalizedSalePrice>7.00</LocalizedSalePrice>
+      </Pricing>
+      <Caption>PolyBrite 8 Inch Lighted Dog Collar Cover</Caption>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Surprise</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="8xaaa">
+      <Code>041498171704</Code>
+      <Description>Eight AAA Alkaline Batteries</Description>
+      <Url>http://store.tealco.net/8xaaa.html</Url>
+      <Weight>0.1</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>3.00</BasePrice>
+        <LocalizedBasePrice>3.00</LocalizedBasePrice>
+        <OrigPrice>3.00</OrigPrice>
+        <LocalizedOrigPrice>3.00</LocalizedOrigPrice>
+        <SalePrice>3.00</SalePrice>
+        <LocalizedSalePrice>3.00</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="aerobie-discs-sports">
+      <Code>None</Code>
+      <Description>Aerobie Discs &amp; Sports Products</Description>
+      <Url>http://store.tealco.net/aerobie-discs-sports.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="aerofilters">
+      <Code>085276000817</Code>
+      <Description>350 Aerobie AeroPress Coffee Filters</Description>
+      <Url>http://store.tealco.net/aerofilters.html</Url>
+      <Thumb>&lt;img border=0 width=33 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/350-aerobie-aeropress-coffee-filters-5.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=105 height=220 src=http://ep.yimg.com/ay/yhst-93726292002916/350-aerobie-aeropress-coffee-filters-6.gif&gt;</Picture>
+      <Weight>0.24</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>4.50</BasePrice>
+        <LocalizedBasePrice>4.50</LocalizedBasePrice>
+        <OrigPrice>5.00</OrigPrice>
+        <LocalizedOrigPrice>5.00</LocalizedOrigPrice>
+        <SalePrice>4.50</SalePrice>
+        <LocalizedSalePrice>4.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="aeropress">
+      <Code>085276000800</Code>
+      <Description>Aerobie AeroPress Coffee Maker $27.50 - U.S. S/H INCLUDED!</Description>
+      <Url>http://store.tealco.net/aeropress.html</Url>
+      <Thumb>&lt;img border=0 width=35 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-aeropress-coffee-maker-27-50-u-s-s-h-included-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=150 height=302 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-aeropress-coffee-maker-27-50-u-s-s-h-included-2.gif&gt;</Picture>
+      <Weight>0</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>27.50</BasePrice>
+        <LocalizedBasePrice>27.50</LocalizedBasePrice>
+        <OrigPrice>27.50</OrigPrice>
+        <LocalizedOrigPrice>27.50</LocalizedOrigPrice>
+        <SalePrice>27.50</SalePrice>
+        <LocalizedSalePrice>27.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="aeropress2">
+      <Code>aeropress2</Code>
+      <Description>Aerobie AeroPress Coffee Maker - Shipping Outside USA</Description>
+      <Url>http://store.tealco.net/aeropress2.html</Url>
+      <Weight>1.5</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>27.50</BasePrice>
+        <LocalizedBasePrice>27.50</LocalizedBasePrice>
+        <OrigPrice>27.50</OrigPrice>
+        <LocalizedOrigPrice>27.50</LocalizedOrigPrice>
+        <SalePrice>27.50</SalePrice>
+        <LocalizedSalePrice>27.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="aeropro">
+      <Code>085276000022&#x2403;Color&#x2401;Orange&#x2402;aeroproorange&#x2402;Color&#x2401;Yellow&#x2402;aeroproyello&#x2402;Color&#x2401;Magenta&#x2402;aeropromagenta</Code>
+      <Description>Aerobie Pro Flying Ring</Description>
+      <Url>http://store.tealco.net/aeropro.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=58 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-pro-flying-ring-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=667 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-pro-flying-ring-2.gif&gt;</Picture>
+      <Weight>0.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>8.49</BasePrice>
+        <LocalizedBasePrice>8.49</LocalizedBasePrice>
+        <OrigPrice>8.49</OrigPrice>
+        <LocalizedOrigPrice>8.49</LocalizedOrigPrice>
+        <SalePrice>8.49</SalePrice>
+        <LocalizedSalePrice>8.49</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Surprise</OptionValue>
+          <OptionValue>Orange</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+          <OptionValue>Magenta</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="aerospincolor">
+      <Code>085276000602</Code>
+      <Description>Aerobie AeroSpin Yo-Yo</Description>
+      <Url>http://store.tealco.net/aerospincolor.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=52 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-aerospin-yo-yo-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=400 height=295 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-aerospin-yo-yo-2.gif&gt;</Picture>
+      <Weight>0.35</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>16.99</BasePrice>
+        <LocalizedBasePrice>16.99</LocalizedBasePrice>
+        <OrigPrice>16.99</OrigPrice>
+        <LocalizedOrigPrice>16.99</LocalizedOrigPrice>
+        <SalePrice>16.99</SalePrice>
+        <LocalizedSalePrice>16.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Random</OptionValue>
+          <OptionValue>Aerobie Orange</OptionValue>
+          <OptionValue>Blue</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="antworks">
+      <Code>032309268942</Code>
+      <Description>AntWorks LED Lighted Ant Farm Kit</Description>
+      <Url>http://store.tealco.net/antworks.html</Url>
+      <Thumb>&lt;img border=0 width=44 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/antworks-led-lighted-ant-farm-kit-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=223 height=351 src=http://ep.yimg.com/ay/yhst-93726292002916/antworks-led-lighted-ant-farm-kit-2.gif&gt;</Picture>
+      <Weight>2.4</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>24.99</BasePrice>
+        <LocalizedBasePrice>24.99</LocalizedBasePrice>
+        <OrigPrice>29.99</OrigPrice>
+        <LocalizedOrigPrice>29.99</LocalizedOrigPrice>
+        <SalePrice>24.99</SalePrice>
+        <LocalizedSalePrice>24.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="arrow">
+      <Code>085276000718&#x2403;Color&#x2401;Any&#x2402;anyarrow&#x2402;Color&#x2401;Red&#x2402;arrowred&#x2402;Color&#x2401;Purple&#x2402;arrowpurple&#x2402;Color&#x2401;Yellow&#x2402;arrowyellow&#x2402;Color&#x2401;Blue&#x2402;arrowblue</Code>
+      <Description>Aerobie Arrow Golf Disc Super Putter</Description>
+      <Url>http://store.tealco.net/arrow.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=64 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-arrow-golf-disc-super-putter-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=227 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-arrow-golf-disc-super-putter-2.gif&gt;</Picture>
+      <Weight>0.4</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Any</OptionValue>
+          <OptionValue>Red</OptionValue>
+          <OptionValue>Purple</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+          <OptionValue>Blue</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="astrodisc">
+      <Code>709540023837</Code>
+      <Description>Astro Disc Lighted LED Frisbee                         *This item ships in a plastic mailer bag in First Class Mail, or a rigid cardboard Mailer in Priority Mail.(The cardboard mailer weighs too much for First Class Mail.)</Description>
+      <Url>http://store.tealco.net/astrodisc.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/astro-disc-lighted-led-frisbee-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=200 height=200 src=http://ep.yimg.com/ay/yhst-93726292002916/astro-disc-lighted-led-frisbee-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>12.99</BasePrice>
+        <LocalizedBasePrice>12.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>12.99</SalePrice>
+        <LocalizedSalePrice>12.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="auroraliteslxl">
+      <Code>auroralitesLXL</Code>
+      <Description>Auroralites Electroluminescent Dog Collar w/Lithium Battery - Large/XLarge</Description>
+      <Url>http://store.tealco.net/auroraliteslxl.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=57 src=http://ep.yimg.com/ay/yhst-93726292002916/auroralites-led-dog-collar-w-lithium-battery-large-xlarge-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=450 height=365 src=http://ep.yimg.com/ay/yhst-93726292002916/auroralites-led-dog-collar-w-lithium-battery-large-xlarge-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>84.95</BasePrice>
+        <LocalizedBasePrice>84.95</LocalizedBasePrice>
+        <OrigPrice>84.95</OrigPrice>
+        <LocalizedOrigPrice>84.95</LocalizedOrigPrice>
+        <SalePrice>84.95</SalePrice>
+        <LocalizedSalePrice>84.95</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="auroralitesmed">
+      <Code>auroraliteSMed</Code>
+      <Description>Auroralite Waterproof Electroluminescent Dog Collar w/Lithium Battery - Small/Medium</Description>
+      <Url>http://store.tealco.net/auroralitesmed.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=57 src=http://ep.yimg.com/ay/yhst-93726292002916/auroralite-waterproof-led-dog-collar-w-lithium-battery-small-medium-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=450 height=365 src=http://ep.yimg.com/ay/yhst-93726292002916/auroralite-waterproof-led-dog-collar-w-lithium-battery-small-medium-2.gif&gt;</Picture>
+      <Weight>0.2</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>79.95</BasePrice>
+        <LocalizedBasePrice>79.95</LocalizedBasePrice>
+        <OrigPrice>79.95</OrigPrice>
+        <LocalizedOrigPrice>79.95</LocalizedOrigPrice>
+        <SalePrice>79.95</SalePrice>
+        <LocalizedSalePrice>79.95</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Size">
+          <OptionValue>Small (11 to 15 inches)</OptionValue>
+          <OptionValue>Medium (13 to 17 inches)</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="ballbutton">
+      <Code>ballbutton</Code>
+      <Description>Grommet/Button/Spring Assembly for Lighted Sports Balls</Description>
+      <Url>http://store.tealco.net/ballbutton.html</Url>
+      <Thumb>&lt;img border=0 width=40 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/grommet-button-spring-assembly-for-lighted-sports-balls-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=100 height=175 src=http://ep.yimg.com/ay/yhst-93726292002916/grommet-button-spring-assembly-for-lighted-sports-balls-2.gif&gt;</Picture>
+      <Weight>0.05</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>3.99</BasePrice>
+        <LocalizedBasePrice>3.99</LocalizedBasePrice>
+        <OrigPrice>3.99</OrigPrice>
+        <LocalizedOrigPrice>3.99</LocalizedOrigPrice>
+        <SalePrice>3.99</SalePrice>
+        <LocalizedSalePrice>3.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="ballled">
+      <Code>ballLED</Code>
+      <Description>Lighted LED Sports Ball Replacement LED/Battery Assembly</Description>
+      <Url>http://store.tealco.net/ballled.html</Url>
+      <Thumb>&lt;img border=0 width=31 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/lighted-led-sports-ball-replacement-led-battery-assembly-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=75 height=172 src=http://ep.yimg.com/ay/yhst-93726292002916/lighted-led-sports-ball-replacement-led-battery-assembly-2.gif&gt;</Picture>
+      <Weight>0.05</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>3.99</BasePrice>
+        <LocalizedBasePrice>3.99</LocalizedBasePrice>
+        <OrigPrice>3.99</OrigPrice>
+        <LocalizedOrigPrice>3.99</LocalizedOrigPrice>
+        <SalePrice>3.99</SalePrice>
+        <LocalizedSalePrice>3.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="ballpump">
+      <Code>ballpump</Code>
+      <Description>Hand Air Pump w/Needle</Description>
+      <Url>http://store.tealco.net/ballpump.html</Url>
+      <Weight>0.4</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>5.99</BasePrice>
+        <LocalizedBasePrice>5.99</LocalizedBasePrice>
+        <OrigPrice>5.99</OrigPrice>
+        <LocalizedOrigPrice>5.99</LocalizedOrigPrice>
+        <SalePrice>5.99</SalePrice>
+        <LocalizedSalePrice>5.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="basketball">
+      <Code>basketball</Code>
+      <Description>TealCo Night Sports Light Up LED Basketball</Description>
+      <Url>http://store.tealco.net/basketball.html</Url>
+      <Thumb>&lt;img border=0 width=59 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-night-sports-light-up-led-basketball-10.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=182 height=217 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-night-sports-light-up-led-basketball-11.gif&gt;</Picture>
+      <Weight>0.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>29.95</BasePrice>
+        <LocalizedBasePrice>29.95</LocalizedBasePrice>
+        <OrigPrice>29.95</OrigPrice>
+        <LocalizedOrigPrice>29.95</LocalizedOrigPrice>
+        <SalePrice>29.95</SalePrice>
+        <LocalizedSalePrice>29.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+        <ProductRef Id="light-up-sports-balls" Url="http://store.tealco.net/light-up-sports-balls.html">Light-Up Sports Balls</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="biblegarden">
+      <Code>852694000100</Code>
+      <Description>Bible Garden Window Sill Dome Garden</Description>
+      <Url>http://store.tealco.net/biblegarden.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=69 src=http://ep.yimg.com/ay/yhst-93726292002916/bible-garden-window-sill-dome-garden-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=248 src=http://ep.yimg.com/ay/yhst-93726292002916/bible-garden-window-sill-dome-garden-2.gif&gt;</Picture>
+      <Weight>1.99</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>15.99</BasePrice>
+        <LocalizedBasePrice>15.99</LocalizedBasePrice>
+        <OrigPrice>24.95</OrigPrice>
+        <LocalizedOrigPrice>24.95</LocalizedOrigPrice>
+        <SalePrice>15.99</SalePrice>
+        <LocalizedSalePrice>15.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="bluesumagballs">
+      <Code>bluesumagballs</Code>
+      <Description>5mm Blue Super Magnet Balls (216 pcs)</Description>
+      <Url>http://store.tealco.net/bluesumagballs.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/blue-super-magnet-balls-216-pcs-3.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=254 height=254 src=http://ep.yimg.com/ay/yhst-93726292002916/blue-super-magnet-balls-216-pcs-4.gif&gt;</Picture>
+      <Weight>0.41</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>21.99</BasePrice>
+        <LocalizedBasePrice>21.99</LocalizedBasePrice>
+        <OrigPrice>21.99</OrigPrice>
+        <LocalizedOrigPrice>21.99</LocalizedOrigPrice>
+        <SalePrice>21.99</SalePrice>
+        <LocalizedSalePrice>21.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="bonsaigarden">
+      <Code>851694000179</Code>
+      <Description>Bonsai Village Windowsill Terrarium</Description>
+      <Url>http://store.tealco.net/bonsaigarden.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=35 src=http://ep.yimg.com/ay/yhst-93726292002916/bonsai-village-windowsill-terrarium-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=80 height=40 src=http://ep.yimg.com/ay/yhst-93726292002916/bonsai-village-windowsill-terrarium-2.gif&gt;</Picture>
+      <Weight>2.5</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>22.49</BasePrice>
+        <LocalizedBasePrice>22.49</LocalizedBasePrice>
+        <OrigPrice>24.99</OrigPrice>
+        <LocalizedOrigPrice>24.99</LocalizedOrigPrice>
+        <SalePrice>22.49</SalePrice>
+        <LocalizedSalePrice>22.49</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="bonsairocktree">
+      <Code>851694000506</Code>
+      <Description>Bonsai Tree Rock Garden</Description>
+      <Url>http://store.tealco.net/bonsairocktree.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=48 src=http://ep.yimg.com/ay/yhst-93726292002916/bonsai-tree-rock-garden-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=240 height=166 src=http://ep.yimg.com/ay/yhst-93726292002916/bonsai-tree-rock-garden-2.gif&gt;</Picture>
+      <Weight>1.99</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>19.99</BasePrice>
+        <LocalizedBasePrice>19.99</LocalizedBasePrice>
+        <OrigPrice>19.99</OrigPrice>
+        <LocalizedOrigPrice>19.99</LocalizedOrigPrice>
+        <SalePrice>19.99</SalePrice>
+        <LocalizedSalePrice>19.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="carnivorousdome">
+      <Code>851694000094</Code>
+      <Description>Carnivorous Creations Window Sill Terrarium</Description>
+      <Url>http://store.tealco.net/carnivorousdome.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=69 src=http://ep.yimg.com/ay/yhst-93726292002916/carnivorous-creations-window-sill-terrarium-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=245 src=http://ep.yimg.com/ay/yhst-93726292002916/carnivorous-creations-window-sill-terrarium-2.gif&gt;</Picture>
+      <Weight>2.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>22.49</BasePrice>
+        <LocalizedBasePrice>22.49</LocalizedBasePrice>
+        <OrigPrice>24.99</OrigPrice>
+        <LocalizedOrigPrice>24.99</LocalizedOrigPrice>
+        <SalePrice>22.49</SalePrice>
+        <LocalizedSalePrice>22.49</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="cr2016">
+      <Code>cr2016</Code>
+      <Description>Five (5) Micro Lithium Cell CR2016 Batteries</Description>
+      <Url>http://store.tealco.net/cr2016.html</Url>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>4.99</BasePrice>
+        <LocalizedBasePrice>4.99</LocalizedBasePrice>
+        <OrigPrice>4.99</OrigPrice>
+        <LocalizedOrigPrice>4.99</LocalizedOrigPrice>
+        <SalePrice>4.99</SalePrice>
+        <LocalizedSalePrice>4.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="cr2032">
+      <Code>CR2032</Code>
+      <Description>5 CR2032 Lithium Wafer Batteries</Description>
+      <Url>http://store.tealco.net/cr2032.html</Url>
+      <Weight>0.1</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>4.99</BasePrice>
+        <LocalizedBasePrice>4.99</LocalizedBasePrice>
+        <OrigPrice>4.99</OrigPrice>
+        <LocalizedOrigPrice>4.99</LocalizedOrigPrice>
+        <SalePrice>4.99</SalePrice>
+        <LocalizedSalePrice>4.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="cr2430">
+      <Code>CR2430</Code>
+      <Description>One CR2430 Lithium Wafer Battery</Description>
+      <Url>http://store.tealco.net/cr2430.html</Url>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>0.99</BasePrice>
+        <LocalizedBasePrice>0.99</LocalizedBasePrice>
+        <OrigPrice>0.99</OrigPrice>
+        <LocalizedOrigPrice>0.99</LocalizedOrigPrice>
+        <SalePrice>0.99</SalePrice>
+        <LocalizedSalePrice>0.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="culinaryherbgarden">
+      <Code>851694000070</Code>
+      <Description>Culinary Herb Garden Terrarium Kit</Description>
+      <Url>http://store.tealco.net/culinaryherbgarden.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=21 src=http://ep.yimg.com/ay/yhst-93726292002916/culinary-herb-garden-terrarium-kit-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=450 height=133 src=http://ep.yimg.com/ay/yhst-93726292002916/culinary-herb-garden-terrarium-kit-2.gif&gt;</Picture>
+      <Weight>2.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>22.49</BasePrice>
+        <LocalizedBasePrice>22.49</LocalizedBasePrice>
+        <OrigPrice>24.99</OrigPrice>
+        <LocalizedOrigPrice>24.99</LocalizedOrigPrice>
+        <SalePrice>22.49</SalePrice>
+        <LocalizedSalePrice>22.49</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="decor-gadgets">
+      <Code>decor-gadgets</Code>
+      <Description>Decor &amp; Gadgets</Description>
+      <Url>http://store.tealco.net/decor-gadgets.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/decor-gadgets-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/decor-gadgets-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="deserthothouse">
+      <Code>851694000216</Code>
+      <Description>Desert Hothouse Windowsill Terrarium Garden</Description>
+      <Url>http://store.tealco.net/deserthothouse.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=64 src=http://ep.yimg.com/ay/yhst-93726292002916/desert-hothouse-windowsill-terrarium-garden-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=300 height=274 src=http://ep.yimg.com/ay/yhst-93726292002916/desert-hothouse-windowsill-terrarium-garden-2.gif&gt;</Picture>
+      <Weight>1.51</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>14.50</BasePrice>
+        <LocalizedBasePrice>14.50</LocalizedBasePrice>
+        <OrigPrice>14.50</OrigPrice>
+        <LocalizedOrigPrice>14.50</LocalizedOrigPrice>
+        <SalePrice>14.50</SalePrice>
+        <LocalizedSalePrice>14.50</LocalizedSalePrice>
+      </Pricing>
+      <Caption>Desert Hothouse Windowsill Terrarium Garden</Caption>
+    </Product>
+    <Product Id="designercollar">
+      <Code>618390423622&#x2403;Size&#x2401;Small&#x2401;Color&#x2401;Yellow&#x2402;SmallYellow&#x2402;Size&#x2401;Medium&#x2401;Color&#x2401;Yellow&#x2402;MedYellow&#x2402;Size&#x2401;Large&#x2401;Color&#x2401;Yellow&#x2402;LgYellow&#x2402;Size&#x2401;Small&#x2401;Color&#x2401;Green&#x2402;SmGreen&#x2402;Size&#x2401;Medium&#x2401;Color&#x2401;Green&#x2402;MedGreen&#x2402;Size&#x2401;Large&#x2401;Color&#x2401;Green&#x2402;LgGreen&#x2402;Size&#x2401;Small&#x2401;Color&#x2401;Red&#x2402;SmHydrant&#x2402;Size&#x2401;Medium&#x2401;Color&#x2401;Red&#x2402;MedHydrant&#x2402;Size&#x2401;Large&#x2401;Color&#x2401;Red&#x2402;LgHydrant</Code>
+      <Description>Yellow Designer LED Dog Collar</Description>
+      <Url>http://store.tealco.net/designercollar.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=28 src=http://ep.yimg.com/ay/yhst-93726292002916/designer-led-dog-collar-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=1800 height=726 src=http://ep.yimg.com/ay/yhst-93726292002916/designer-led-dog-collar-2.gif&gt;</Picture>
+      <Weight>0.25</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>12.99</BasePrice>
+        <LocalizedBasePrice>12.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>12.99</SalePrice>
+        <LocalizedSalePrice>12.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Size">
+          <OptionValue>Small</OptionValue>
+          <OptionValue>Large</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="dinosaurplant">
+      <Code>85194000124</Code>
+      <Description>Amazing Dinosaur Plant Kit</Description>
+      <Url>http://store.tealco.net/dinosaurplant.html</Url>
+      <Thumb>&lt;img border=0 width=64 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/amazing-dinosaur-plant-kit-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=274 src=http://ep.yimg.com/ay/yhst-93726292002916/amazing-dinosaur-plant-kit-2.gif&gt;</Picture>
+      <Weight>0.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>7.99</BasePrice>
+        <LocalizedBasePrice>7.99</LocalizedBasePrice>
+        <OrigPrice>7.99</OrigPrice>
+        <LocalizedOrigPrice>7.99</LocalizedOrigPrice>
+        <SalePrice>7.99</SalePrice>
+        <LocalizedSalePrice>7.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="disc-golf-pole-markers">
+      <Code>None</Code>
+      <Description>Frisbee Golf Discs, Pole Lights &amp; Disc Markers</Description>
+      <Url>http://store.tealco.net/disc-golf-pole-markers.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="discuit">
+      <Code>094664007314</Code>
+      <Description>Discuit Light-Up Dog Disc</Description>
+      <Url>http://store.tealco.net/discuit.html</Url>
+      <Thumb>&lt;img border=0 width=60 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/discuit-light-up-dog-disc-3.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=300 height=350 src=http://ep.yimg.com/ay/yhst-93726292002916/discuit-light-up-dog-disc-4.gif&gt;</Picture>
+      <Weight>0.7</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>12.99</BasePrice>
+        <LocalizedBasePrice>12.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>12.99</SalePrice>
+        <LocalizedSalePrice>12.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="dog-discs-toys">
+      <Code>dog-discs-toys</Code>
+      <Description>Dog Discs &amp; Toys</Description>
+      <Url>http://store.tealco.net/dog-discs-toys.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/dog-discs-toys-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/dog-discs-toys-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Path>
+        <ProductRef Id="dog-stuff" Url="http://store.tealco.net/dog-stuff.html">Dog Stuff</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="dog-stuff">
+      <Code>dog-stuff</Code>
+      <Description>Dog Stuff</Description>
+      <Url>http://store.tealco.net/dog-stuff.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/dog-stuff-20.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/dog-stuff-21.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Caption>TealCo.net offers a variety of dog products in three categories: Inexpensive light-up collars and leashes, inexpensive light-up balls and frisbees, and the high-end Auroralites waterproof dog collar. Most of our dog toys are led-lighted for outdoor night-time use, but we do have a few that are not. Our Dog Toys are fun for everyone (including your dog), and are a definite must-have on a camping trip, park visit or any other time you play with your dog after dark!</Caption>
+    </Product>
+    <Product Id="dogobie">
+      <Code>085276000282&#x2403;Color&#x2401;Any&#x2402;dogobieany&#x2402;Color&#x2401;Blue&#x2402;dogobieblue&#x2402;Color&#x2401;Yellow&#x2402;dogobieyellow</Code>
+      <Description>Aerobie Dogobie Flying Disc</Description>
+      <Url>http://store.tealco.net/dogobie.html</Url>
+      <Thumb>&lt;img border=0 width=62 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-dogobie-flying-disc-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=281 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-dogobie-flying-disc-2.gif&gt;</Picture>
+      <Weight>0.3</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>5.99</BasePrice>
+        <LocalizedBasePrice>5.99</LocalizedBasePrice>
+        <OrigPrice>5.99</OrigPrice>
+        <LocalizedOrigPrice>5.99</LocalizedOrigPrice>
+        <SalePrice>5.99</SalePrice>
+        <LocalizedSalePrice>5.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Any</OptionValue>
+          <OptionValue>Blue</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="dogstuff">
+      <Code>None</Code>
+      <Description>Dog Stuff</Description>
+      <Url>http://store.tealco.net/dogstuff.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="dragonslair">
+      <Code>851694000247</Code>
+      <Description>Dragon's Lair Indoor Window Sill Terrarium</Description>
+      <Url>http://store.tealco.net/dragonslair.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=51 src=http://ep.yimg.com/ay/yhst-93726292002916/dragon-s-lair-indoor-window-sill-terrarium-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=183 src=http://ep.yimg.com/ay/yhst-93726292002916/dragon-s-lair-indoor-window-sill-terrarium-2.gif&gt;</Picture>
+      <Weight>1.5</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>14.50</BasePrice>
+        <LocalizedBasePrice>14.50</LocalizedBasePrice>
+        <OrigPrice>14.50</OrigPrice>
+        <LocalizedOrigPrice>14.50</LocalizedOrigPrice>
+        <SalePrice>14.50</SalePrice>
+        <LocalizedSalePrice>14.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="epic">
+      <Code>085276000701&#x2403;Color&#x2401;Any&#x2402;anyepic&#x2402;Color&#x2401;Red&#x2402;epicred&#x2402;Color&#x2401;Yellow&#x2402;epicyellow&#x2402;Color&#x2401;Blue&#x2402;epicblue&#x2402;Color&#x2401;Purple&#x2402;epicpurple</Code>
+      <Description>Aerobie Epic Disc Golf Super Driver</Description>
+      <Url>http://store.tealco.net/epic.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=62 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-epic-disc-golf-super-driver-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=222 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-epic-disc-golf-super-driver-2.gif&gt;</Picture>
+      <Weight>0.5</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Surprise</OptionValue>
+          <OptionValue>Red</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+          <OptionValue>Blue</OptionValue>
+          <OptionValue>Purple</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="fairytriadgarden">
+      <Code>851694000148</Code>
+      <Description>Fairy Triad Indoor Dome Terrarium Window Garden</Description>
+      <Url>http://store.tealco.net/fairytriadgarden.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=69 src=http://ep.yimg.com/ay/yhst-93726292002916/fairy-triad-indoor-dome-terrarium-window-garden-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=204 height=202 src=http://ep.yimg.com/ay/yhst-93726292002916/fairy-triad-indoor-dome-terrarium-window-garden-2.gif&gt;</Picture>
+      <Weight>2.5</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>22.45</BasePrice>
+        <LocalizedBasePrice>22.45</LocalizedBasePrice>
+        <OrigPrice>24.99</OrigPrice>
+        <LocalizedOrigPrice>24.99</LocalizedOrigPrice>
+        <SalePrice>22.45</SalePrice>
+        <LocalizedSalePrice>22.45</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="fakelotto">
+      <Code>fakelotto</Code>
+      <Description>3 Fake Scratch Off Lottery Ticke.st Gag Gift/Prank</Description>
+      <Url>http://store.tealco.net/fakelotto.html</Url>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>1.50</BasePrice>
+        <LocalizedBasePrice>1.50</LocalizedBasePrice>
+        <OrigPrice>1.50</OrigPrice>
+        <LocalizedOrigPrice>1.50</LocalizedOrigPrice>
+        <SalePrice>1.50</SalePrice>
+        <LocalizedSalePrice>1.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="flashflightblue185">
+      <Code>094664410336</Code>
+      <Description>Blue Flashflight Light-Up Disc             *This item ships in a plastic mailer bag in First Class Mail, or a rigid cardboard Mailer in Priority Mail.(The cardboard mailer weighs too much for First Class Mail.)</Description>
+      <Url>http://store.tealco.net/flashflightblue185.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=44 src=http://ep.yimg.com/ay/yhst-93726292002916/blue-flashflight-light-up-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=480 height=300 src=http://ep.yimg.com/ay/yhst-93726292002916/blue-flashflight-light-up-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-2.gif&gt;</Picture>
+      <Weight>0.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>17.50</BasePrice>
+        <LocalizedBasePrice>17.50</LocalizedBasePrice>
+        <OrigPrice>17.50</OrigPrice>
+        <LocalizedOrigPrice>17.50</LocalizedOrigPrice>
+        <SalePrice>17.50</SalePrice>
+        <LocalizedSalePrice>17.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="flashflightdisco185">
+      <Code>30094664410344</Code>
+      <Description>flashflight Color-Changing Night Light-Up Disc-O Disc      *This item ships in a plastic mailer bag in First Class Mail, or a rigid cardboard Mailer in Priority Mail.(The cardboard mailer weighs too much for First Class Mail.)</Description>
+      <Url>http://store.tealco.net/flashflightdisco185.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=19 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-color-changing-night-light-up-disc-o-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=605 height=161 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-color-changing-night-light-up-disc-o-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-2.gif&gt;</Picture>
+      <Weight>0.94</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>18.50</BasePrice>
+        <LocalizedBasePrice>18.50</LocalizedBasePrice>
+        <OrigPrice>18.50</OrigPrice>
+        <LocalizedOrigPrice>18.50</LocalizedOrigPrice>
+        <SalePrice>18.50</SalePrice>
+        <LocalizedSalePrice>18.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="flashflightgreen185">
+      <Code>094664412835</Code>
+      <Description>flashflight Green 185 gram Frisbee Disc       *This item ships in a plastic mailer bag in First Class Mail, or a rigid cardboard Mailer in Priority Mail.(The cardboard mailer weighs too much for First Class Mail.)</Description>
+      <Url>http://store.tealco.net/flashflightgreen185.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=29 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-green-185-gram-frisbee-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=540 height=226 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-green-185-gram-frisbee-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-2.gif&gt;</Picture>
+      <Weight>0.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>17.50</BasePrice>
+        <LocalizedBasePrice>17.50</LocalizedBasePrice>
+        <OrigPrice>17.50</OrigPrice>
+        <LocalizedOrigPrice>17.50</LocalizedOrigPrice>
+        <SalePrice>17.50</SalePrice>
+        <LocalizedSalePrice>17.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="flashflightred185">
+      <Code>094664410688</Code>
+      <Description>Flashflight Red Light-Up 185g Frisbee Disc     *This item ships in a plastic mailer bag in First Class Mail, or a rigid cardboard Mailer in Priority Mail.(The cardboard mailer weighs too much for First Class Mail.)</Description>
+      <Url>http://store.tealco.net/flashflightred185.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=60 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-red-light-up-185g-frisbee-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=324 height=279 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-red-light-up-185g-frisbee-disc-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-2.gif&gt;</Picture>
+      <Weight>0.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>17.50</BasePrice>
+        <LocalizedBasePrice>17.50</LocalizedBasePrice>
+        <OrigPrice>17.50</OrigPrice>
+        <LocalizedOrigPrice>17.50</LocalizedOrigPrice>
+        <SalePrice>17.50</SalePrice>
+        <LocalizedSalePrice>17.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="flytrapfiends">
+      <Code>851694000285</Code>
+      <Description>Fly Trap FIENDS! Indoor Window Sill Terrarium</Description>
+      <Url>http://store.tealco.net/flytrapfiends.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=52 src=http://ep.yimg.com/ay/yhst-93726292002916/fly-trap-fiends-indoor-window-sill-terrarium-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=248 height=183 src=http://ep.yimg.com/ay/yhst-93726292002916/fly-trap-fiends-indoor-window-sill-terrarium-2.gif&gt;</Picture>
+      <Weight>1.5</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>14.50</BasePrice>
+        <LocalizedBasePrice>14.50</LocalizedBasePrice>
+        <OrigPrice>14.50</OrigPrice>
+        <LocalizedOrigPrice>14.50</LocalizedOrigPrice>
+        <SalePrice>14.50</SalePrice>
+        <LocalizedSalePrice>14.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="fractilefridge">
+      <Code>661939200079</Code>
+      <Description>48-Piece Fractiles-7 Refrigerator Set</Description>
+      <Url>http://store.tealco.net/fractilefridge.html</Url>
+      <Thumb>&lt;img border=0 width=69 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/48-piece-fractiles-7-refrigerator-set-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=455 height=461 src=http://ep.yimg.com/ay/yhst-93726292002916/48-piece-fractiles-7-refrigerator-set-2.gif&gt;</Picture>
+      <Weight>0.1</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>11.95</BasePrice>
+        <LocalizedBasePrice>11.95</LocalizedBasePrice>
+        <OrigPrice>11.95</OrigPrice>
+        <LocalizedOrigPrice>11.95</LocalizedOrigPrice>
+        <SalePrice>11.95</SalePrice>
+        <LocalizedSalePrice>11.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="fractilelarge">
+      <Code>661939000075</Code>
+      <Description>192-Piece Deluxe Fractiles-7 Set with Activity Board</Description>
+      <Url>http://store.tealco.net/fractilelarge.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/192-piece-deluxe-fractiles-7-set-with-activity-board-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=455 height=454 src=http://ep.yimg.com/ay/yhst-93726292002916/192-piece-deluxe-fractiles-7-set-with-activity-board-2.gif&gt;</Picture>
+      <Weight>2.3</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>45.95</BasePrice>
+        <LocalizedBasePrice>45.95</LocalizedBasePrice>
+        <OrigPrice>45.95</OrigPrice>
+        <LocalizedOrigPrice>45.95</LocalizedOrigPrice>
+        <SalePrice>45.95</SalePrice>
+        <LocalizedSalePrice>45.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="fractiletravel">
+      <Code>661939100072</Code>
+      <Description>Fractiles Travel Set - 96pcs + Activity Board</Description>
+      <Url>http://store.tealco.net/fractiletravel.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/fractiles-travel-set-96pcs-activity-board-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=453 height=454 src=http://ep.yimg.com/ay/yhst-93726292002916/fractiles-travel-set-96pcs-activity-board-2.gif&gt;</Picture>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>26.95</BasePrice>
+        <LocalizedBasePrice>26.95</LocalizedBasePrice>
+        <OrigPrice>26.95</OrigPrice>
+        <LocalizedOrigPrice>26.95</LocalizedOrigPrice>
+        <SalePrice>26.95</SalePrice>
+        <LocalizedSalePrice>26.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="gadgetsdecor">
+      <Code>None</Code>
+      <Description>Gadgets Decor</Description>
+      <Url>http://store.tealco.net/gadgetsdecor.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="golfbigset">
+      <Code>golfbigset</Code>
+      <Description>Aerobie Golf Disc Pro Set</Description>
+      <Url>http://store.tealco.net/golfbigset.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=15 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-golf-disc-pro-set-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=604 height=133 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-golf-disc-pro-set-2.gif&gt;</Picture>
+      <Weight>2.8</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>39.99</BasePrice>
+        <LocalizedBasePrice>39.99</LocalizedBasePrice>
+        <OrigPrice>59.94</OrigPrice>
+        <LocalizedOrigPrice>59.94</LocalizedOrigPrice>
+        <SalePrice>39.99</SalePrice>
+        <LocalizedSalePrice>39.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="golfbigset2">
+      <Code>golfbigset2</Code>
+      <Description>Aerobie Disc Golf Pro Set (5 Discs)</Description>
+      <Url>http://store.tealco.net/golfbigset2.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=61 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-disc-golf-pro-set-5-discs-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=237 height=205 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-disc-golf-pro-set-5-discs-2.gif&gt;</Picture>
+      <Weight>2.8</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>39.99</BasePrice>
+        <LocalizedBasePrice>39.99</LocalizedBasePrice>
+        <OrigPrice>59.94</OrigPrice>
+        <LocalizedOrigPrice>59.94</LocalizedOrigPrice>
+        <SalePrice>39.99</SalePrice>
+        <LocalizedSalePrice>39.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="gothicgarden">
+      <Code>851694000117</Code>
+      <Description>Graveyard Gothic Garden Indoor Terrarium Kit</Description>
+      <Url>http://store.tealco.net/gothicgarden.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=65 src=http://ep.yimg.com/ay/yhst-93726292002916/graveyard-gothic-garden-indoor-terrarium-kit-7.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=233 src=http://ep.yimg.com/ay/yhst-93726292002916/graveyard-gothic-garden-indoor-terrarium-kit-8.gif&gt;</Picture>
+      <Weight>2.4</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>22.45</BasePrice>
+        <LocalizedBasePrice>22.45</LocalizedBasePrice>
+        <OrigPrice>24.99</OrigPrice>
+        <LocalizedOrigPrice>24.99</LocalizedOrigPrice>
+        <SalePrice>22.45</SalePrice>
+        <LocalizedSalePrice>22.45</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="nopr" Url="http://store.tealco.net/nopr.html">Novelties &amp; Pranks</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="greencollar">
+      <Code>grcollar</Code>
+      <Description>Green Designer LED Dog Collar</Description>
+      <Url>http://store.tealco.net/greencollar.html</Url>
+      <Weight>0.25</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>12.99</BasePrice>
+        <LocalizedBasePrice>12.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>12.99</SalePrice>
+        <LocalizedSalePrice>12.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Size">
+          <OptionValue>Small</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="healinggarden">
+      <Code>851694000056</Code>
+      <Description>Healing Herb Garden Indoor Windowsill Terrarium</Description>
+      <Url>http://store.tealco.net/healinggarden.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=53 src=http://ep.yimg.com/ay/yhst-93726292002916/healing-herb-garden-indoor-windowsill-terrarium-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=244 height=183 src=http://ep.yimg.com/ay/yhst-93726292002916/healing-herb-garden-indoor-windowsill-terrarium-2.gif&gt;</Picture>
+      <Weight>1.8</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>14.50</BasePrice>
+        <LocalizedBasePrice>14.50</LocalizedBasePrice>
+        <OrigPrice>14.50</OrigPrice>
+        <LocalizedOrigPrice>14.50</LocalizedOrigPrice>
+        <SalePrice>14.50</SalePrice>
+        <LocalizedSalePrice>14.50</LocalizedSalePrice>
+      </Pricing>
+      <Caption>Healing Garden Indoor Windowsill Terrarium</Caption>
+    </Product>
+    <Product Id="holeinone">
+      <Code>094664007246</Code>
+      <Description>FlashFlight Hole In One Frisbee Disc Light Module</Description>
+      <Url>http://store.tealco.net/holeinone.html</Url>
+      <Thumb>&lt;img border=0 width=30 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-hole-in-one-frisbee-disc-light-module-5.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=186 height=433 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-hole-in-one-frisbee-disc-light-module-6.gif&gt;</Picture>
+      <Weight>0.15</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>6.99</BasePrice>
+        <LocalizedBasePrice>6.99</LocalizedBasePrice>
+        <OrigPrice>6.99</OrigPrice>
+        <LocalizedOrigPrice>6.99</LocalizedOrigPrice>
+        <SalePrice>6.99</SalePrice>
+        <LocalizedSalePrice>6.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="hummingbirdkit">
+      <Code>810017011025</Code>
+      <Description>Hummingbird Garden Kit</Description>
+      <Url>http://store.tealco.net/hummingbirdkit.html</Url>
+      <Thumb>&lt;img border=0 width=68 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/hummingbird-garden-kit-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=198 height=205 src=http://ep.yimg.com/ay/yhst-93726292002916/hummingbird-garden-kit-2.gif&gt;</Picture>
+      <Weight>0.8</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>17.99</BasePrice>
+        <LocalizedBasePrice>17.99</LocalizedBasePrice>
+        <OrigPrice>17.99</OrigPrice>
+        <LocalizedOrigPrice>17.99</LocalizedOrigPrice>
+        <SalePrice>17.99</SalePrice>
+        <LocalizedSalePrice>17.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="hydrovenus">
+      <Code>810017011896</Code>
+      <Description>HYDROPONIC Venus Fly Trap Garden!</Description>
+      <Url>http://store.tealco.net/hydrovenus.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=54 src=http://ep.yimg.com/ay/yhst-93726292002916/hydroponic-venus-fly-trap-garden-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=359 height=275 src=http://ep.yimg.com/ay/yhst-93726292002916/hydroponic-venus-fly-trap-garden-2.gif&gt;</Picture>
+      <Weight>1.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>29.50</BasePrice>
+        <LocalizedBasePrice>29.50</LocalizedBasePrice>
+        <OrigPrice>29.50</OrigPrice>
+        <LocalizedOrigPrice>29.50</LocalizedOrigPrice>
+        <SalePrice>29.50</SalePrice>
+        <LocalizedSalePrice>29.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="index">
+      <Code>None</Code>
+      <Description>tealco.net Front Page</Description>
+      <Url>http://store.tealco.net/</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="indoor-gardens">
+      <Code>indoor-gardens</Code>
+      <Description>Indoor Gardens</Description>
+      <Url>http://store.tealco.net/indoor-gardens.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/indoor-gardens-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/indoor-gardens-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="jumboskyball">
+      <Code>037423355769</Code>
+      <Description>Jumbo 5" Hypercharged Sky Ball</Description>
+      <Url>http://store.tealco.net/jumboskyball.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/jumbo-5-hypercharged-sky-ball-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=500 height=500 src=http://ep.yimg.com/ay/yhst-93726292002916/jumbo-5-hypercharged-sky-ball-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>13.99</BasePrice>
+        <LocalizedBasePrice>13.99</LocalizedBasePrice>
+        <OrigPrice>13.99</OrigPrice>
+        <LocalizedOrigPrice>13.99</LocalizedOrigPrice>
+        <SalePrice>13.99</SalePrice>
+        <LocalizedSalePrice>13.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="led-football">
+      <Code>LED-football</Code>
+      <Description>TealCo Light-Up Football *One FREE Air Pump &amp; Needle Per Order</Description>
+      <Url>http://store.tealco.net/led-football.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-light-up-football-one-free-air-pump-needle-per-order-limited-time-offer-7.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-light-up-football-one-free-air-pump-needle-per-order-limited-time-offer-8.gif&gt;</Picture>
+      <Weight>0.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>29.95</BasePrice>
+        <LocalizedBasePrice>29.95</LocalizedBasePrice>
+        <OrigPrice>29.95</OrigPrice>
+        <LocalizedOrigPrice>29.95</LocalizedOrigPrice>
+        <SalePrice>29.95</SalePrice>
+        <LocalizedSalePrice>29.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+        <ProductRef Id="light-up-sports-balls" Url="http://store.tealco.net/light-up-sports-balls.html">Light-Up Sports Balls</ProductRef>
+      </Path>
+      <Caption>Light Up Football by Tealco: Official American size and weight glow in the dark football with a built-in LED light! It throws and kicks just like a regular football, but its internal LED makes it light up like neon in the dark! Kick it! Play full-contact! It can take it! It's not a toy football, and it's WAY better than the old glow in the dark balls!  Great for night games at home, camping, beaches, parks, or anywhere else outdoors, the TealCo Football also makes a GREAT gift for anyone who likes to play sports!  Three (3) LR44 wafer batteries are included, plus a free strip of 10 extras.  *In order to keep shipping costs low, TealCo Night Sports balls are shipped in factory packaging, never inflated. A standard air pump and needle are needed for inflation.  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/b1HtgGxCPeI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;  &lt;h2&gt;TealCo Football Ball Frequently Asked Questions:&lt;/h2&gt;  &lt;h3&gt;What happened to the Luminator light up footballs TealCo.net used to sell?&lt;/h3&gt;  TealCo.net used to sell Luminator foam mini-footballs with an LED inside. They were a lot better than the 80's "glow in the dark" footballs, and they sold like crazy every day... until the manufacturer went out of business. They quit making them, so we had to quit selling them. People would send emails every day, asking when we would have more Luminator football balls, but we didn't know where to get any to sell!  The emails kept pouring in, day after day, week after week. "When will you have more Luminator footballs for sale???" they said. "When will you have another lighted football like the Luminator for sale?" We searched high and low, but the Luminator brand lighted football toy was nowhere to be found. What could we do?  &lt;h3&gt;Why didn't you just carry some other brand of light-up football or glow in the dark football?&lt;/h3&gt;  We looked and looked, but the only other lighted footballs we could find were completely unsatisfactory- they were either flimsy, dim, or just stupid. For example, we found one glow in the dark football that had blue LED light on its tips and put it to the test. Unfortunately, since the lights were on the tips of the football, you could only see them if the ball was going directly at you or directly away from you. The football looked cool in the light, but we could barely see it in the dark, so it was no fun to play with. It was more like a big Christmas ornament than a usable night football.  After a lot of unsuccessful searching, we decided to make our own LED-lighted footballs - and they are the best light up, glow in the dark football balls anywhere!  &lt;h3&gt;Are these new light-up footballs as much fun as the Luminator football toys were, or the old glow in the dark footballs?&lt;/h3&gt;  Oh yeah! The Luminator footballs were fun and popular, but they were miniature size, and they were Nerf-like foam. Luminator footballs were fun to play catch with at night, but more suited for children anf not as much fun as throwing a real football. TealCo.net footballs feel JUST LIKE a standard football. A blind person wouldn't be able to tell one of ours from a Wilson by feeling them! They're tough like a Wilson, too. Punt, tackle, spike the ball when you score - they can take it! This is not a light up football toy - it's a real football!  The TealCo Light Up Football ball, and all the other lighted sports balls we sell now, are inflatable; none are foam. They are made of very similar material to the material used in regular balls, and they feel like regular sports balls.  All of our light-up sports balls are also LED-lighted. They are very bright, and very easy to see at night, even from the other end of a football field! LEDs are plastic, not glass, and they don't have a filament to burn out. They also use a fraction of the electricity that a light bulb uses, so the batteries are smaller and last longer than they would with a regular light bulb. And when the batteries do finally go belly-up, they are cheap and easy to replace. (Batteries are included with all light-up sports balls at TealCo.net.) See Lighted Football Battery-Changing Instructions for help changing the batteries.</Caption>
+      <OptionLists>
+        <OptionList name="Design">
+          <OptionValue>TealCo Night Sports</OptionValue>
+          <OptionValue>TEALCO.NET</OptionValue>
+          <OptionValue>Either One</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="led-soccer-ball">
+      <Code>LED-soccer-ball</Code>
+      <Description>TealCo Light-Up Soccer Ball</Description>
+      <Url>http://store.tealco.net/led-soccer-ball.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=69 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-light-up-soccer-ball-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=175 height=173 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-light-up-soccer-ball-2.gif&gt;</Picture>
+      <Weight>0.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>24.95</BasePrice>
+        <LocalizedBasePrice>24.95</LocalizedBasePrice>
+        <OrigPrice>29.95</OrigPrice>
+        <LocalizedOrigPrice>29.95</LocalizedOrigPrice>
+        <SalePrice>24.95</SalePrice>
+        <LocalizedSalePrice>24.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+        <ProductRef Id="light-up-sports-balls" Url="http://store.tealco.net/light-up-sports-balls.html">Light-Up Sports Balls</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="ledcube">
+      <Code>LEDcube</Code>
+      <Description>Moving Art LED HypnoCube - Shipping Inside the USA</Description>
+      <Url>http://store.tealco.net/ledcube.html</Url>
+      <Thumb>&lt;img border=0 width=53 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/moving-art-led-hypnocube-shipping-inside-the-usa-2.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=300 height=398 src=http://ep.yimg.com/ay/yhst-93726292002916/moving-art-led-hypnocube-shipping-inside-the-usa-3.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>59.95</BasePrice>
+        <LocalizedBasePrice>59.95</LocalizedBasePrice>
+        <OrigPrice>79.95</OrigPrice>
+        <LocalizedOrigPrice>79.95</LocalizedOrigPrice>
+        <SalePrice>59.95</SalePrice>
+        <LocalizedSalePrice>59.95</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="ledcubeforeign">
+      <Code>ledcubeforeign</Code>
+      <Description>Hi-Tec Art LED Cube - Shipping Outside the USA</Description>
+      <Url>http://store.tealco.net/ledcubeforeign.html</Url>
+      <Thumb>&lt;img border=0 width=53 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/hi-tec-art-led-cube-shipping-outside-the-usa-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=300 height=398 src=http://ep.yimg.com/ay/yhst-93726292002916/hi-tec-art-led-cube-shipping-outside-the-usa-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>59.95</BasePrice>
+        <LocalizedBasePrice>59.95</LocalizedBasePrice>
+        <OrigPrice>79.95</OrigPrice>
+        <LocalizedOrigPrice>79.95</LocalizedOrigPrice>
+        <SalePrice>59.95</SalePrice>
+        <LocalizedSalePrice>59.95</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="ledtag">
+      <Code>618390616420&#x2403;Color&#x2401;Red&#x2402;redtag&#x2402;Color&#x2401;White&#x2402;whttag&#x2402;Color&#x2401;Orange&#x2402;orngtag&#x2402;Color&#x2401;Any&#x2402;anytag</Code>
+      <Description>Multi-Use LED Tag Marker</Description>
+      <Url>http://store.tealco.net/ledtag.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=53 src=http://ep.yimg.com/ay/yhst-93726292002916/multi-use-led-tag-marker-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=163 height=123 src=http://ep.yimg.com/ay/yhst-93726292002916/multi-use-led-tag-marker-2.gif&gt;</Picture>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>8.00</BasePrice>
+        <LocalizedBasePrice>8.00</LocalizedBasePrice>
+        <OrigPrice>8.00</OrigPrice>
+        <LocalizedOrigPrice>8.00</LocalizedOrigPrice>
+        <SalePrice>8.00</SalePrice>
+        <LocalizedSalePrice>8.00</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Any</OptionValue>
+          <OptionValue>Red</OptionValue>
+          <OptionValue>White</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="levitron">
+      <Code>levitron</Code>
+      <Description>Levitron Revolution Magnetic Levitation Device - USA ONLY</Description>
+      <Url>http://store.tealco.net/levitron.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/levitron-revolution-magnetic-levitation-device-usa-only-21.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/levitron-revolution-magnetic-levitation-device-usa-only-22.gif&gt;</Picture>
+      <Weight>0</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>74.95</BasePrice>
+        <LocalizedBasePrice>74.95</LocalizedBasePrice>
+        <OrigPrice>89.95</OrigPrice>
+        <LocalizedOrigPrice>89.95</LocalizedOrigPrice>
+        <SalePrice>74.95</SalePrice>
+        <LocalizedSalePrice>74.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="light-up-flying-discs">
+      <Code>None</Code>
+      <Description>Light-Up Flying Discs</Description>
+      <Url>http://store.tealco.net/light-up-flying-discs.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="light-up-sports-balls">
+      <Code>light-up-sports-balls</Code>
+      <Description>Light-Up Sports Balls</Description>
+      <Url>http://store.tealco.net/light-up-sports-balls.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="lighted-collars-leashes">
+      <Code>lighted-collars-leashes</Code>
+      <Description>LED-Lighted/Reflective Collars, Leashes &amp; Tags</Description>
+      <Url>http://store.tealco.net/lighted-collars-leashes.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/led-lighted-reflective-collars-leashes-tags-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/led-lighted-reflective-collars-leashes-tags-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Path>
+        <ProductRef Id="dog-stuff" Url="http://store.tealco.net/dog-stuff.html">Dog Stuff</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="lightupleash">
+      <Code>094664007680</Code>
+      <Description>Light-Up Night Glow LED Dog Leash</Description>
+      <Url>http://store.tealco.net/lightupleash.html</Url>
+      <Thumb>&lt;img border=0 width=39 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/light-up-night-glow-led-dog-leash-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=300 height=537 src=http://ep.yimg.com/ay/yhst-93726292002916/light-up-night-glow-led-dog-leash-2.gif&gt;</Picture>
+      <Weight>0.81</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>14.99</BasePrice>
+        <LocalizedBasePrice>14.99</LocalizedBasePrice>
+        <OrigPrice>16.99</OrigPrice>
+        <LocalizedOrigPrice>16.99</LocalizedOrigPrice>
+        <SalePrice>14.99</SalePrice>
+        <LocalizedSalePrice>14.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="lithium9v">
+      <Code>lithium9v</Code>
+      <Description>1200mAh Lithium 9V Battery</Description>
+      <Url>http://store.tealco.net/lithium9v.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=38 src=http://ep.yimg.com/ay/yhst-93726292002916/1200mah-lithium-9v-battery-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=137 src=http://ep.yimg.com/ay/yhst-93726292002916/1200mah-lithium-9v-battery-2.gif&gt;</Picture>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>9.99</OrigPrice>
+        <LocalizedOrigPrice>9.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="lr1130">
+      <Code>LR1130</Code>
+      <Description>Ten (10) LR1130 Watch Batteries</Description>
+      <Url>http://store.tealco.net/lr1130.html</Url>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>3.99</BasePrice>
+        <LocalizedBasePrice>3.99</LocalizedBasePrice>
+        <OrigPrice>3.99</OrigPrice>
+        <LocalizedOrigPrice>3.99</LocalizedOrigPrice>
+        <SalePrice>3.99</SalePrice>
+        <LocalizedSalePrice>3.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="lr44">
+      <Code>LR44</Code>
+      <Description>Ten (10) LR44 Batteries</Description>
+      <Url>http://store.tealco.net/lr44.html</Url>
+      <Weight>0.03</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>3.99</BasePrice>
+        <LocalizedBasePrice>3.99</LocalizedBasePrice>
+        <OrigPrice>3.99</OrigPrice>
+        <LocalizedOrigPrice>3.99</LocalizedOrigPrice>
+        <SalePrice>3.99</SalePrice>
+        <LocalizedSalePrice>3.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="magnetballs">
+      <Code>094922923967</Code>
+      <Description>216 Super Magnet Balls Set 5mm</Description>
+      <Url>http://store.tealco.net/magnetballs.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=63 src=http://ep.yimg.com/ay/yhst-93726292002916/216-super-magnet-balls-set-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=236 height=214 src=http://ep.yimg.com/ay/yhst-93726292002916/216-super-magnet-balls-set-2.gif&gt;</Picture>
+      <Weight>0.51</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>19.99</BasePrice>
+        <LocalizedBasePrice>19.99</LocalizedBasePrice>
+        <OrigPrice>19.99</OrigPrice>
+        <LocalizedOrigPrice>19.99</LocalizedOrigPrice>
+        <SalePrice>19.99</SalePrice>
+        <LocalizedSalePrice>19.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="medievalherber">
+      <Code>81001701192</Code>
+      <Description>Medieval Herber Mini Windowsill Garden</Description>
+      <Url>http://store.tealco.net/medievalherber.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=24 src=http://ep.yimg.com/ay/yhst-93726292002916/medieval-herber-mini-windowsill-garden-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=444 height=153 src=http://ep.yimg.com/ay/yhst-93726292002916/medieval-herber-mini-windowsill-garden-2.gif&gt;</Picture>
+      <Weight>1.15</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>9.99</OrigPrice>
+        <LocalizedOrigPrice>9.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="meteorlight">
+      <Code>094664008656</Code>
+      <Description>Flashflight Meteorlight LED Light-Up Ball</Description>
+      <Url>http://store.tealco.net/meteorlight.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=50 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-meteorlight-led-light-up-ball-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=300 height=215 src=http://ep.yimg.com/ay/yhst-93726292002916/flashflight-meteorlight-led-light-up-ball-2.gif&gt;</Picture>
+      <Weight>0.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>10.99</BasePrice>
+        <LocalizedBasePrice>10.99</LocalizedBasePrice>
+        <OrigPrice>10.99</OrigPrice>
+        <LocalizedOrigPrice>10.99</LocalizedOrigPrice>
+        <SalePrice>10.99</SalePrice>
+        <LocalizedSalePrice>10.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Any</OptionValue>
+          <OptionValue>Green</OptionValue>
+          <OptionValue>Red</OptionValue>
+          <OptionValue>Blue</OptionValue>
+          <OptionValue>Disco</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="misfortunecookies">
+      <Code>649241885290</Code>
+      <Description>Misfortune Cookies (box of 10)</Description>
+      <Url>http://store.tealco.net/misfortunecookies.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/misfortune-cookies-box-of-10-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=200 height=200 src=http://ep.yimg.com/ay/yhst-93726292002916/misfortune-cookies-box-of-10-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>8.99</BasePrice>
+        <LocalizedBasePrice>8.99</LocalizedBasePrice>
+        <OrigPrice>8.99</OrigPrice>
+        <LocalizedOrigPrice>8.99</LocalizedOrigPrice>
+        <SalePrice>8.99</SalePrice>
+        <LocalizedSalePrice>8.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="needle">
+      <Code>needle</Code>
+      <Description>Inflation Air Needle</Description>
+      <Url>http://store.tealco.net/needle.html</Url>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>1.00</BasePrice>
+        <LocalizedBasePrice>1.00</LocalizedBasePrice>
+        <OrigPrice>1.00</OrigPrice>
+        <LocalizedOrigPrice>1.00</LocalizedOrigPrice>
+        <SalePrice>1.00</SalePrice>
+        <LocalizedSalePrice>1.00</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="night-day-sports">
+      <Code>night-day-sports</Code>
+      <Description>Night &amp; Day Sports</Description>
+      <Url>http://store.tealco.net/night-day-sports.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/night-day-sports-8.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/night-day-sports-9.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="nikodama">
+      <Code>4902314097812</Code>
+      <Description>NIKO DAMA Blinking Eyeballs Toy</Description>
+      <Url>http://store.tealco.net/nikodama.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/niko-dama-blinking-eyeballs-toy-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=500 height=500 src=http://ep.yimg.com/ay/yhst-93726292002916/niko-dama-blinking-eyeballs-toy-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>29.99</BasePrice>
+        <LocalizedBasePrice>29.99</LocalizedBasePrice>
+        <OrigPrice>34.99</OrigPrice>
+        <LocalizedOrigPrice>34.99</LocalizedOrigPrice>
+        <SalePrice>29.99</SalePrice>
+        <LocalizedSalePrice>29.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="nopr">
+      <Code>None</Code>
+      <Description>Novelties &amp; Pranks</Description>
+      <Url>http://store.tealco.net/nopr.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="novelties-pranks">
+      <Code>novelties-pranks</Code>
+      <Description>Novelties &amp; Pranks</Description>
+      <Url>http://store.tealco.net/novelties-pranks.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/novelties-pranks-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/novelties-pranks-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="nsearch">
+      <Code>None</Code>
+      <Description>Search</Description>
+      <Url>http://store.tealco.net/nsearch.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="orbiter">
+      <Code>085276000107&#x2403;Color&#x2401;Any&#x2402;anyorbiter&#x2402;Color&#x2401;Orange&#x2402;orbiterorange&#x2402;Color&#x2401;Yellow&#x2402;orbiteryellow&#x2402;Color&#x2401;Magenta&#x2402;orbitermagenta</Code>
+      <Description>Aerobie Orbiter Boomerang          *This item ships in a plastic mailer bag in First Class Mail, or a rigid cardboard Mailer in Priority Mail.(The cardboard mailer weighs too much for First Class Mail.)</Description>
+      <Url>http://store.tealco.net/orbiter.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=62 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-orbiter-boomerang-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=223 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-orbiter-boomerang-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-2.gif&gt;</Picture>
+      <Weight>0.34</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>8.49</BasePrice>
+        <LocalizedBasePrice>8.49</LocalizedBasePrice>
+        <OrigPrice>8.49</OrigPrice>
+        <LocalizedOrigPrice>8.49</LocalizedOrigPrice>
+        <SalePrice>8.49</SalePrice>
+        <LocalizedSalePrice>8.49</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Any</OptionValue>
+          <OptionValue>Orange</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+          <OptionValue>Magenta</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="ratsass">
+      <Code>ratass</Code>
+      <Description>I Don't Give a Rat's Ass T-Shirt</Description>
+      <Url>http://store.tealco.net/ratsass.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=62 src=http://ep.yimg.com/ay/yhst-93726292002916/i-don-t-give-a-rat-s-ass-t-shirt-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=700 height=622 src=http://ep.yimg.com/ay/yhst-93726292002916/i-don-t-give-a-rat-s-ass-t-shirt-2.gif&gt;</Picture>
+      <Weight>0.8</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>15.99</BasePrice>
+        <LocalizedBasePrice>15.99</LocalizedBasePrice>
+        <OrigPrice>15.99</OrigPrice>
+        <LocalizedOrigPrice>15.99</LocalizedOrigPrice>
+        <SalePrice>15.99</SalePrice>
+        <LocalizedSalePrice>15.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Size:">
+          <OptionValue>Sm</OptionValue>
+          <OptionValue>Med</OptionValue>
+          <OptionValue>Lg</OptionValue>
+          <OptionValue>XL</OptionValue>
+          <OptionValue>XXL</OptionValue>
+          <OptionValue>XXXL</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="redcollar">
+      <Code>rdcollar</Code>
+      <Description>Red Designer LED Dog Collar</Description>
+      <Url>http://store.tealco.net/redcollar.html</Url>
+      <Weight>0.25</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>12.99</BasePrice>
+        <LocalizedBasePrice>12.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>12.99</SalePrice>
+        <LocalizedSalePrice>12.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Size">
+          <OptionValue>Small</OptionValue>
+          <OptionValue>Large</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="redmagnballs">
+      <Code>redmagnballs</Code>
+      <Description>5mm Red Super Magnet Balls (216pcs)</Description>
+      <Url>http://store.tealco.net/redmagnballs.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/red-super-magnet-balls-216pcs-3.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=254 height=254 src=http://ep.yimg.com/ay/yhst-93726292002916/red-super-magnet-balls-216pcs-4.gif&gt;</Picture>
+      <Weight>0.41</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>21.99</BasePrice>
+        <LocalizedBasePrice>21.99</LocalizedBasePrice>
+        <OrigPrice>21.99</OrigPrice>
+        <LocalizedOrigPrice>21.99</LocalizedOrigPrice>
+        <SalePrice>21.99</SalePrice>
+        <LocalizedSalePrice>21.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="redsafetycollar">
+      <Code>618390498446&#x2403;Size:&#x2401;Medium&#x2402;MRedCollar&#x2402;Size:&#x2401;Large&#x2402;LRedCollar</Code>
+      <Description>Dog Night Safety Red LED Collar</Description>
+      <Url>http://store.tealco.net/redsafetycollar.html</Url>
+      <Thumb>&lt;img border=0 width=56 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/dog-night-safety-red-led-collar-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=115 height=143 src=http://ep.yimg.com/ay/yhst-93726292002916/dog-night-safety-red-led-collar-2.gif&gt;</Picture>
+      <Weight>0.22</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>9.99</OrigPrice>
+        <LocalizedOrigPrice>9.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="dog-stuff" Url="http://store.tealco.net/dog-stuff.html">Dog Stuff</ProductRef>
+        <ProductRef Id="lighted-collars-leashes" Url="http://store.tealco.net/lighted-collars-leashes.html">LED-Lighted/Reflective Collars, Leashes &amp; Tags</ProductRef>
+      </Path>
+      <Caption>Protect and easily locate your pets in the dark of night with an LED lighted dog collar from TealCo! These bright and durable collars feature a buckle that snaps on or off in seconds and a top-positioned, steel D-ring large enough for virtually all leashes. The LED has a switch to make it light up constantly, blink (to save batteries), or turn it completely off. The collar's stitching is also reflective for added visibility to headlights.  Uses one CR2032 battery. (Included)  Size Length Small Collar 12"-14" Medium Collar 15"-20" Large Collar 21"-25"</Caption>
+      <OptionLists>
+        <OptionList name="Size">
+          <OptionValue>Small</OptionValue>
+          <OptionValue>Medium</OptionValue>
+          <OptionValue>Large</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="sandals">
+      <Code>189839000037&#x2403;size&#x2401;Women-Medium&#x2402;wm&#x2402;size&#x2401;Women-Large&#x2402;wl&#x2402;size&#x2401;Men-Small&#x2402;ms&#x2402;size&#x2401;Women-Medium&#x2402;mm&#x2402;size&#x2401;Men-Large&#x2402;ml</Code>
+      <Description>Down Unders Sandals</Description>
+      <Url>http://store.tealco.net/sandals.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/down-unders-sandals-7.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/down-unders-sandals-8.gif&gt;</Picture>
+      <Weight>0.34</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>9.99</OrigPrice>
+        <LocalizedOrigPrice>9.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Sizes:">
+          <OptionValue>Women-Small</OptionValue>
+          <OptionValue>Women-Medium</OptionValue>
+          <OptionValue>Women-Large</OptionValue>
+          <OptionValue>Men-Small</OptionValue>
+          <OptionValue>Men-Medium</OptionValue>
+          <OptionValue>Men-Large</OptionValue>
+          <OptionValue>Men-XLarge</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="science-art-toys">
+      <Code>science-art-toys</Code>
+      <Description>Science &amp; Art Toys</Description>
+      <Url>http://store.tealco.net/science-art-toys.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/science-art-toys-8.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/science-art-toys-9.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="sciencetoys">
+      <Code>None</Code>
+      <Description>Science Toys</Description>
+      <Url>http://store.tealco.net/sciencetoys.html</Url>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+    </Product>
+    <Product Id="sdu">
+      <Code>085276000268&#x2403;Color&#x2401;Any&#x2402;sduany&#x2402;Color&#x2401;Yellow&#x2402;sduyellow&#x2402;Color&#x2401;Red&#x2402;sdured&#x2402;Color&#x2401;Green&#x2402;sdugreen&#x2402;Color&#x2401;Blue&#x2402;sdublue</Code>
+      <Description>Aerobie SuperDisc Ultra        *This item ships in a plastic mailer bag in First Class Mail, or a rigid cardboard Mailer in Priority Mail.(The cardboard mailer weighs too much for First Class Mail.)</Description>
+      <Url>http://store.tealco.net/sdu.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=64 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-superdisc-ultra-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=227 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-superdisc-ultra-this-item-ships-in-a-plastic-mailer-bag-in-first-class-mail-or-a-rigid-cardboard-mailer-in-priority-mail-the-cardboard-mailer-weighs-too-much-for-first-class-mail-2.gif&gt;</Picture>
+      <Weight>0.5</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>9.99</OrigPrice>
+        <LocalizedOrigPrice>9.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Any</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+          <OptionValue>Blue</OptionValue>
+          <OptionValue>Green</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="sharpshooter1">
+      <Code>085276000763</Code>
+      <Description>Aerobie SharpShooter Distance Driver Golf Disc</Description>
+      <Url>http://store.tealco.net/sharpshooter1.html</Url>
+      <Thumb>&lt;img border=0 width=67 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-sharpshooter-distance-driver-golf-disc-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=145 height=151 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-sharpshooter-distance-driver-golf-disc-2.gif&gt;</Picture>
+      <Weight>0.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="sharpshooter2">
+      <Code>085276000770</Code>
+      <Description>Aerobie SharpShooter 2 Mid-Range Driver Golf Disc</Description>
+      <Url>http://store.tealco.net/sharpshooter2.html</Url>
+      <Thumb>&lt;img border=0 width=69 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-sharpshooter-2-mid-range-driver-golf-disc-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=150 height=153 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-sharpshooter-2-mid-range-driver-golf-disc-2.gif&gt;</Picture>
+      <Weight>0.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="sharpshooter3">
+      <Code>085276000787</Code>
+      <Description>Aerobie SharpShooter 3 Approach &amp; Putter Golf Disc</Description>
+      <Url>http://store.tealco.net/sharpshooter3.html</Url>
+      <Thumb>&lt;img border=0 width=67 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-sharpshooter-3-approach-putter-golf-disc-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=150 height=157 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-sharpshooter-3-approach-putter-golf-disc-2.gif&gt;</Picture>
+      <Weight>0.49</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>12.99</OrigPrice>
+        <LocalizedOrigPrice>12.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="skyball4inch">
+      <Code>037423370526</Code>
+      <Description>4" Hypercharged Sky Ball - Discontinued</Description>
+      <Url>http://store.tealco.net/skyball4inch.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/4-hypercharged-sky-ball-discontinued-2.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=450 height=450 src=http://ep.yimg.com/ay/yhst-93726292002916/4-hypercharged-sky-ball-discontinued-3.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>8.99</BasePrice>
+        <LocalizedBasePrice>8.99</LocalizedBasePrice>
+        <OrigPrice>8.99</OrigPrice>
+        <LocalizedOrigPrice>8.99</LocalizedOrigPrice>
+        <SalePrice>8.99</SalePrice>
+        <LocalizedSalePrice>8.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="skylighter">
+      <Code>085276000275&#x2403;Color&#x2401;Blue&#x2402;blue&#x2402;Color&#x2401;Green&#x2402;green&#x2402;Color&#x2401;Yellow&#x2402;yellow&#x2402;Color&#x2401;Red&#x2402;red</Code>
+      <Description>Aerobie Skylighter Flying Disc</Description>
+      <Url>http://store.tealco.net/skylighter.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=65 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-skylighter-flying-disc-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=232 height=214 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-skylighter-flying-disc-2.gif&gt;</Picture>
+      <Weight>0.81</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>13.49</BasePrice>
+        <LocalizedBasePrice>13.49</LocalizedBasePrice>
+        <OrigPrice>13.49</OrigPrice>
+        <LocalizedOrigPrice>13.49</LocalizedOrigPrice>
+        <SalePrice>13.49</SalePrice>
+        <LocalizedSalePrice>13.49</LocalizedSalePrice>
+      </Pricing>
+      <Caption>*IF YOU CHOOSE FIRST CLASS MAIL, THIS ITEM WILL SHIP IN A PLASTIC MAILER BAG.  **IF YOU CHOOSE PRIORITY MAIL, THIS ITEM WILL SHIP IN A RIGID CARDBOARD MAILER. (The cardboard mailer spares the disc's paper packaging from creases caused by mail handling, but it weighs too much for First Class Mail.)</Caption>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Surprise</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+          <OptionValue>Red</OptionValue>
+          <OptionValue>Green</OptionValue>
+          <OptionValue>Blue</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="spotlit">
+      <Code>094664007666</Code>
+      <Description>SpotLit LED Night Glow Marker/Collar Tag</Description>
+      <Url>http://store.tealco.net/spotlit.html</Url>
+      <Thumb>&lt;img border=0 width=50 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/spotlit-led-night-glow-marker-collar-tag-10.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=336 height=471 src=http://ep.yimg.com/ay/yhst-93726292002916/spotlit-led-night-glow-marker-collar-tag-11.gif&gt;</Picture>
+      <Weight>0.05</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>7.99</BasePrice>
+        <LocalizedBasePrice>7.99</LocalizedBasePrice>
+        <OrigPrice>7.99</OrigPrice>
+        <LocalizedOrigPrice>7.99</LocalizedOrigPrice>
+        <SalePrice>7.99</SalePrice>
+        <LocalizedSalePrice>7.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="dog-stuff" Url="http://store.tealco.net/dog-stuff.html">Dog Stuff</ProductRef>
+        <ProductRef Id="lighted-collars-leashes" Url="http://store.tealco.net/lighted-collars-leashes.html">LED-Lighted/Reflective Collars, Leashes &amp; Tags</ProductRef>
+      </Path>
+      <Caption>The SpotLit lighted tag is smaller than the reflective tags above, but the LED is just as bright! The SpotLit only hangs down about 2 inches, so it is better for small dogs. The SpotLit can be hung from a dog collar, a zipper, a keychain, a disc golf goal, a fishing pole, or just about anything else.  Uses 2 CR2016 Batteries (included)</Caption>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Red</OptionValue>
+          <OptionValue>Green</OptionValue>
+          <OptionValue>Disco</OptionValue>
+          <OptionValue>Random</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="spotlitdisco">
+      <Code>094664008304</Code>
+      <Description>SpotLit Disc-O Color-Changing LED Tag</Description>
+      <Url>http://store.tealco.net/spotlitdisco.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=40 src=http://ep.yimg.com/ay/yhst-93726292002916/spotlit-disc-o-color-changing-led-tag-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=296 height=171 src=http://ep.yimg.com/ay/yhst-93726292002916/spotlit-disc-o-color-changing-led-tag-2.gif&gt;</Picture>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>8.99</BasePrice>
+        <LocalizedBasePrice>8.99</LocalizedBasePrice>
+        <OrigPrice>8.99</OrigPrice>
+        <LocalizedOrigPrice>8.99</LocalizedOrigPrice>
+        <SalePrice>8.99</SalePrice>
+        <LocalizedSalePrice>8.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="squidgie">
+      <Code>085276000220&#x2403;Color&#x2401;Any&#x2402;squidgieany&#x2402;Color&#x2401;Blue&#x2402;squidgieblue&#x2402;Color&#x2401;Orange&#x2402;squidgieorange&#x2402;Color&#x2401;Yellow&#x2402;squidgieyellow&#x2402;Color&#x2401;Green&#x2402;squidgiegreen&#x2402;Color&#x2401;Glow(White)&#x2402;squidgieglow</Code>
+      <Description>Aerobie Squidgie Soft Flying Disc</Description>
+      <Url>http://store.tealco.net/squidgie.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=67 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-squidgie-soft-flying-disc-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=250 height=240 src=http://ep.yimg.com/ay/yhst-93726292002916/aerobie-squidgie-soft-flying-disc-2.gif&gt;</Picture>
+      <Weight>0.34</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>4.99</BasePrice>
+        <LocalizedBasePrice>4.99</LocalizedBasePrice>
+        <OrigPrice>4.99</OrigPrice>
+        <LocalizedOrigPrice>4.99</LocalizedOrigPrice>
+        <SalePrice>4.99</SalePrice>
+        <LocalizedSalePrice>4.99</LocalizedSalePrice>
+      </Pricing>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Any</OptionValue>
+          <OptionValue>Orange</OptionValue>
+          <OptionValue>Blue</OptionValue>
+          <OptionValue>Yellow</OptionValue>
+          <OptionValue>Green</OptionValue>
+          <OptionValue>Glow(Off-White)</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="strawberrykit">
+      <Code>810017017539</Code>
+      <Description>Easy Strawberry Garden Kit!</Description>
+      <Url>http://store.tealco.net/strawberrykit.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=51 src=http://ep.yimg.com/ay/yhst-93726292002916/easy-strawberry-garden-kit-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=243 height=176 src=http://ep.yimg.com/ay/yhst-93726292002916/easy-strawberry-garden-kit-2.gif&gt;</Picture>
+      <Weight>0.9</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>12.50</BasePrice>
+        <LocalizedBasePrice>12.50</LocalizedBasePrice>
+        <OrigPrice>12.50</OrigPrice>
+        <LocalizedOrigPrice>12.50</LocalizedOrigPrice>
+        <SalePrice>12.50</SalePrice>
+        <LocalizedSalePrice>12.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="sumaba">
+      <Code>sumagballs</Code>
+      <Description>Super Magnet Balls</Description>
+      <Url>http://store.tealco.net/sumaba.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=68 src=http://ep.yimg.com/ay/yhst-93726292002916/super-magnet-balls-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=260 height=254 src=http://ep.yimg.com/ay/yhst-93726292002916/super-magnet-balls-2.gif&gt;</Picture>
+      <Weight>0.41</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>19.99</BasePrice>
+        <LocalizedBasePrice>19.99</LocalizedBasePrice>
+        <OrigPrice>19.99</OrigPrice>
+        <LocalizedOrigPrice>19.99</LocalizedOrigPrice>
+        <SalePrice>19.99</SalePrice>
+        <LocalizedSalePrice>19.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+      <Caption>These are sets of 216 VERY powerful, ball-shaped, neodymium magnets. Just one of these little magnets can easily hold up the other 215 of them! If you try to be a comedian and stick them onto your cheeks or ears as fake piercings, you will quickly take them off because they hold so tight that they hurt! (Probably another good reason not to give them to small children.) Maybe you've seen the Buckyballs videos, and you've yearned to get your hands on a set of the super-powered magnet balls that are all the rage on the toy market, but you've been reluctant to pay $29.95+ for a pack of magnetized BB's. Following that same line of thinking, you probably speculate that the same thing must somewhere be available for a cheaper price than Buckyballs. That line of thinking is correct, and here it is!  &lt;span class="warn"&gt;(Our Super Magnet Balls are the EXACT SAME SIZE as the Buckyballs brand name. They are NOT the cheap-o, 3mm magnet balls you might see on eBay.)&lt;/span&gt;  These are the same thing as Buckyballs, but in a plainer package. They can do all the same tricks and are every bit as powerful and enthralling as the much-hyped Buckyballs brand magnets, they are the same size, and they come in the same 216 piece set, but without the name-brand price.  Spherical magnets have North and South poles, just like the planet Earth. They are both diametrically polarized. (That means that they have a north pole hemisphere and a south pole hemisphere, with an invisible equator line separating the two halves.) All the electrons line up so to form a magnetic field the shape of a doughnut (toroid), with the inner center of the magnet ball being the doughnut hole:  magnet ball fieldmagnet sphere earth  Magnet balls are fun to play with because you can make lots of geometrically appealing shapes and patterns with them. Given a small bit of practice, you can get the magnet balls to snap into these shapes and patterns by what appears to be an effortless supernatural ability!  Spherical neodymium magnets are weird/fun/amazing because they are very powerful for their size, and because you can make them appear to be magical. (See any Buckyballs video.) The trick to making great works of art with magnet balls is to keep in mind this polarity of the magnets to make the balls align in artistic shapes. The trick to making them look magical is practice. It's kind of tricky, but not too tricky to be fun and rewarding. They're fun! Get some! If more information and helpful hints on how to use the Magnet Balls are what you need, then Buckyballs/Super Magnet Balls Instructions and the Buckyball Blog are great places to start!  &lt;span class="warn"&gt;This is a set of 216 itty-bitty magnets with very strong magnetic power. They could easily be swallowed and are NOT for children under the age of 14 years.&lt;/span&gt;  If you have trouble keeping magnets out of your mouth or are otherwise compelled to swallow them for unexplainable reasons, you really should look for some that are too big to be swallowed. If you have this magnet-eating compulsion AND you have braces in your mouth, you should really stay away from strong magnets all together. Heh... Why do we say you should be at least 14 years old to play with little magnets? Because the United States Consumer Product Safety Commission says so! (Buckyballs got pretty much put out of business because A) They labeled their magnets as "13+" instead of "14+", and B) Some children swallowed Buckyballs and they got stuck between folds of their guts, requiring surgery.)</Caption>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Silver</OptionValue>
+          <OptionValue>Blue (+2)</OptionValue>
+          <OptionValue>Red (+2)</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="superhorn">
+      <Code>superhorn</Code>
+      <Description>SUPER LOUD BLASTER HORN</Description>
+      <Url>http://store.tealco.net/superhorn.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=58 src=http://ep.yimg.com/ay/yhst-93726292002916/super-loud-blaster-horn-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=518 height=427 src=http://ep.yimg.com/ay/yhst-93726292002916/super-loud-blaster-horn-2.gif&gt;</Picture>
+      <Weight>0.25</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>6.99</BasePrice>
+        <LocalizedBasePrice>6.99</LocalizedBasePrice>
+        <OrigPrice>12.50</OrigPrice>
+        <LocalizedOrigPrice>12.50</LocalizedOrigPrice>
+        <SalePrice>6.99</SalePrice>
+        <LocalizedSalePrice>6.99</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="science-art-toys" Url="http://store.tealco.net/science-art-toys.html">Science &amp; Art Toys</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="superzerorefill">
+      <Code>837672000072</Code>
+      <Description>3 0z Super Zero Fog Fluid Refill</Description>
+      <Url>http://store.tealco.net/superzerorefill.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=66 src=http://ep.yimg.com/ay/yhst-93726292002916/3-0z-super-zero-fog-fluid-refill-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=450 height=423 src=http://ep.yimg.com/ay/yhst-93726292002916/3-0z-super-zero-fog-fluid-refill-2.gif&gt;</Picture>
+      <Weight>0.38</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>4.95</BasePrice>
+        <LocalizedBasePrice>4.95</LocalizedBasePrice>
+        <OrigPrice>4.95</OrigPrice>
+        <LocalizedOrigPrice>4.95</LocalizedOrigPrice>
+        <SalePrice>4.95</SalePrice>
+        <LocalizedSalePrice>4.95</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="temperaturelight">
+      <Code>605168106801</Code>
+      <Description>Temperature-Sensitive Faucet Light</Description>
+      <Url>http://store.tealco.net/temperaturelight.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=69 src=http://ep.yimg.com/ay/yhst-93726292002916/temperature-sensitive-faucet-light-4.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=131 height=130 src=http://ep.yimg.com/ay/yhst-93726292002916/temperature-sensitive-faucet-light-5.gif&gt;</Picture>
+      <Weight>0.2</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>9.99</BasePrice>
+        <LocalizedBasePrice>9.99</LocalizedBasePrice>
+        <OrigPrice>14.99</OrigPrice>
+        <LocalizedOrigPrice>14.99</LocalizedOrigPrice>
+        <SalePrice>9.99</SalePrice>
+        <LocalizedSalePrice>9.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="testitem">
+      <Code>test</Code>
+      <Description>Test Item</Description>
+      <Url>http://store.tealco.net/testitem.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=51 src=http://ep.yimg.com/ay/yhst-93726292002916/test-item-11.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=400 height=289 src=http://ep.yimg.com/ay/yhst-93726292002916/test-item-12.gif&gt;</Picture>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>10.00</BasePrice>
+        <LocalizedBasePrice>10.00</LocalizedBasePrice>
+        <QuantityPrice MinimumQuantity="1">10</QuantityPrice>
+        <QuantityPrice MinimumQuantity="10">90</QuantityPrice>
+        <QuantityPrice MinimumQuantity="20">140</QuantityPrice>
+        <QuantityPrice MinimumQuantity="50">262.5</QuantityPrice>
+        <OrigPrice>10.00</OrigPrice>
+        <LocalizedOrigPrice>10.00</LocalizedOrigPrice>
+        <SalePrice>10.00</SalePrice>
+        <LocalizedSalePrice>10.00</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="nopr" Url="http://store.tealco.net/nopr.html">Novelties &amp; Pranks</ProductRef>
+      </Path>
+      <Caption>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Caption>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Select</OptionValue>
+          <OptionValue>red</OptionValue>
+          <OptionValue>blue</OptionValue>
+          <OptionValue>green</OptionValue>
+        </OptionList>
+        <OptionList name="size">
+          <OptionValue>Select Option</OptionValue>
+          <OptionValue>small</OptionValue>
+          <OptionValue>large</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+    <Product Id="toethong">
+      <Code>toethong</Code>
+      <Description>Toe Thong Sandal Accessory</Description>
+      <Url>http://store.tealco.net/toethong.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=43 src=http://ep.yimg.com/ay/yhst-93726292002916/toe-thong-sandal-accessory-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=245 height=150 src=http://ep.yimg.com/ay/yhst-93726292002916/toe-thong-sandal-accessory-2.gif&gt;</Picture>
+      <Weight>0.01</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>4.50</BasePrice>
+        <LocalizedBasePrice>4.50</LocalizedBasePrice>
+        <OrigPrice>4.50</OrigPrice>
+        <LocalizedOrigPrice>4.50</LocalizedOrigPrice>
+        <SalePrice>4.50</SalePrice>
+        <LocalizedSalePrice>4.50</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="volleyball">
+      <Code>volleyball</Code>
+      <Description>TealCo Light-Up Volleyball</Description>
+      <Url>http://store.tealco.net/volleyball.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-light-up-volleyball-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=200 height=200 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-light-up-volleyball-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Pricing>
+        <BasePrice>23.99</BasePrice>
+        <LocalizedBasePrice>23.99</LocalizedBasePrice>
+        <OrigPrice>29.99</OrigPrice>
+        <LocalizedOrigPrice>29.99</LocalizedOrigPrice>
+        <SalePrice>23.99</SalePrice>
+        <LocalizedSalePrice>23.99</LocalizedSalePrice>
+      </Pricing>
+    </Product>
+    <Product Id="waterproof-dog-collar">
+      <Code>waterproof-dog-collar</Code>
+      <Description>AURORALITES Waterproof Electroluminescent (EL) Lighted Dog Collar</Description>
+      <Url>http://store.tealco.net/waterproof-dog-collar.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=70 src=http://ep.yimg.com/ay/yhst-93726292002916/auroralites-waterproof-electroluminescent-el-lighted-dog-collar-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=800 height=800 src=http://ep.yimg.com/ay/yhst-93726292002916/auroralites-waterproof-electroluminescent-el-lighted-dog-collar-2.gif&gt;</Picture>
+      <Orderable>NO</Orderable>
+      <Taxable>NO</Taxable>
+      <Path>
+        <ProductRef Id="dog-stuff" Url="http://store.tealco.net/dog-stuff.html">Dog Stuff</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="youthfootball">
+      <Code>youthfootball</Code>
+      <Description>TealCo Night Sports Light-Up Football - Youth/Jr. High Size</Description>
+      <Url>http://store.tealco.net/youthfootball.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=53 src=http://ep.yimg.com/ay/yhst-93726292002916/tealco-night-sports-light-up-football-youth-jr-high-size-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=20 height=20 src=http://store1.yimg.com/Img/error-img.gif&gt;</Picture>
+      <Weight>1.2</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>29.95</BasePrice>
+        <LocalizedBasePrice>29.95</LocalizedBasePrice>
+        <OrigPrice>29.95</OrigPrice>
+        <LocalizedOrigPrice>29.95</LocalizedOrigPrice>
+        <SalePrice>29.95</SalePrice>
+        <LocalizedSalePrice>29.95</LocalizedSalePrice>
+      </Pricing>
+      <Path>
+        <ProductRef Id="night-day-sports" Url="http://store.tealco.net/night-day-sports.html">Night &amp; Day Sports</ProductRef>
+        <ProductRef Id="light-up-sports-balls" Url="http://store.tealco.net/light-up-sports-balls.html">Light-Up Sports Balls</ProductRef>
+      </Path>
+    </Product>
+    <Product Id="zeroblaster">
+      <Code>837672000287&#x2403;Color&#x2401;Red&#x2402;zeroblasterred&#x2402;Color&#x2401;Blue&#x2402;zeroblasterblue&#x2402;Color&#x2401;Green&#x2402;zeroblastergreen</Code>
+      <Description>Zero Blaster - Vapor Toroid Generator</Description>
+      <Url>http://store.tealco.net/zeroblaster.html</Url>
+      <Thumb>&lt;img border=0 width=70 height=43 src=http://ep.yimg.com/ay/yhst-93726292002916/zero-blaster-vapor-toroid-generator-1.gif&gt;</Thumb>
+      <Picture>&lt;img border=0 width=300 height=184 src=http://ep.yimg.com/ay/yhst-93726292002916/zero-blaster-vapor-toroid-generator-2.gif&gt;</Picture>
+      <Weight>2.1</Weight>
+      <Orderable>YES</Orderable>
+      <Taxable>YES</Taxable>
+      <Pricing>
+        <BasePrice>19.95</BasePrice>
+        <LocalizedBasePrice>19.95</LocalizedBasePrice>
+        <OrigPrice>24.95</OrigPrice>
+        <LocalizedOrigPrice>24.95</LocalizedOrigPrice>
+        <SalePrice>19.95</SalePrice>
+        <LocalizedSalePrice>19.95</LocalizedSalePrice>
+      </Pricing>
+      <Caption>Physics + Fun = ZERO BLASTER Vapor Toroid Shooter!</Caption>
+      <OptionLists>
+        <OptionList name="Color">
+          <OptionValue>Surprise Me</OptionValue>
+          <OptionValue>Silver</OptionValue>
+          <OptionValue>Red</OptionValue>
+        </OptionList>
+      </OptionLists>
+    </Product>
+  </Products>
+</StoreExport>
