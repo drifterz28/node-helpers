@@ -1,0 +1,2612 @@
+[
+   {
+      "item_id":"plasico11sp1",
+      "stars":4,
+      "name":"Another Josh",
+      "title":"Very nice filament",
+      "location":"Falling Waters, WV",
+      "review":"I've made a few things with this filament and they have been pretty strong.  The color is very pure white.  It makes a great base to paint your prints.  According to my thermistor, I've been using 220C - with good results (your mileage may vary).  I haven't used any other filament yet, but this stuff is so good that I bought another roll.",
+      "orig_date_added":"2015-03-01 19:05:41",
+      "images":""
+   },
+   {
+      "item_id":"plasico11sp1",
+      "stars":4,
+      "name":"D John",
+      "title":"Just what I needed",
+      "location":"MN",
+      "review":"Was looking to test out my printer and some glow filament so a sample pack it was!",
+      "orig_date_added":"2014-08-31 11:13:38",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/00/07/52855022_459933_full.jpg"
+   },
+   {
+      "item_id":"plasico11sp1",
+      "stars":4,
+      "name":"TheRealMcCoy",
+      "title":"Good Print Filament",
+      "location":"Detroit Metro",
+      "review":"Great Bright White Color! Exactly what I was looking for.",
+      "orig_date_added":"2014-08-26 18:46:57",
+      "images":""
+   },
+   {
+      "item_id":"flecred1",
+      "stars":5,
+      "name":"Prince of Plastic",
+      "title":"Easier than NinjaFlex",
+      "location":"Davis, CA",
+      "review":"I love this stuff. You probably still need to be careful about your extruder setup, but it's considerably easier to print with than NinjaFlex due to its slightly stiffer makeup, and might even work with a Bowden extruder. I get better results than NinjaFlex as well, with a smoother surface finish and less stringing. I print at a temp of 230 the whole time; anything less and the hot end pressure builds up too high and I get skipping on the extruder motor. The end result is flexible, but not as soft as NinjaFlex. I feel it makes for better phone cases.",
+      "orig_date_added":"2015-01-01 16:02:04",
+      "images":""
+   },
+   {
+      "item_id":"flecred1",
+      "stars":4,
+      "name":"MichaelD33",
+      "title":"Flex EcoPLA",
+      "location":"New York, NY",
+      "review":"I have used this filament a little but have encountered some issues with it curling up inside the extruder. I would recommend this to somebody with a printer that can handle this type of filament, which would require a non-bowden setup. It is advertised how it works, it is very flexible and when it prints well the result can look quite good.",
+      "orig_date_added":"2014-08-15 10:01:56",
+      "images":""
+   },
+   {
+      "item_id":"prprpakit",
+      "stars":3,
+      "name":"Chris",
+      "title":"Sturdy but contained defects",
+      "location":"Montreal, CA",
+      "review":"The printed parts are very sturdy and have taken some abuse already without complaints but upon receiving them there were a number of defects. Most of the cutouts to place nuts were too small and I needed to carve them out. Almost all the holes for the threaded and smooth rods were too small which I also needed to widen manually. Aside from that everything else is good!",
+      "orig_date_added":"2014-08-11 08:46:17",
+      "images":""
+   },
+   {
+      "item_id":"bu20w00no",
+      "stars":5,
+      "name":"theP13RC3",
+      "title":"Great value for a great hotend!",
+      "location":"Omaha, NE",
+      "review":"I used this budaschnozzle as a replacement for my Gadgets3D budaschnozzle 1.1, and I must say, it is a MILLION times better! <br /><br />This one came preassembled, which was amazing considering the nightmare it was to assemble the G3D hotend. Plus, the Makergeeks hotend has machined aluminum instead of cheap delrin for the mounting blocks, which is already helping with wear from installation/removal.<br /><br />As far as the hotend itself is concerned, I've found that the 2.0 version is WAY better than 1.1. It has a slightly slimmer nozzle profile that keeps the nozzle tip from catching on the extrudate, and it seems to heat up much faster.<br /><br />Lastly, I got it on sale so it was cheaper than G3D's! This is honestly one of the most reliable parts on my Prusa i3 now.",
+      "orig_date_added":"2014-08-27 18:28:28",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/00/17/52791508_458969_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/00/17/52791508_458970_full.jpg"
+   },
+   {
+      "item_id":"tpe3dprfired",
+      "stars":5,
+      "name":"Jeff",
+      "title":"Slow but sweet",
+      "location":"ME",
+      "review":"Needs to print slow, about 1/4 the speed I use with ABS.  Manufacturer says use the thickest possible layer for maximum translucent effect, but too large has difficulty pushing through my extruder.<br /><br />I recommend using this in a dedicated hot end Teflon sleeve, as it will not dissolve in any common solvents, so mixing with other type filaments could make a mess of a clog.<br /><br />A few picky requirements, but worth the effort.",
+      "orig_date_added":"2014-08-25 13:18:35",
+      "images":""
+   },
+   {
+      "item_id":"tpe3dprfired",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Love the deep ruby red color.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-240deg on duplicator4 217deg on Solidoodle2.<br />-Solidoodle2 has a limit of 220. Running this material on Solidoodle is not good on it, but can be<br />done.<br />-Spools unravel to easy. Almost spring loaded.<br />-Even with the cons I still give this a 5, because it is truely beautiful material.",
+      "orig_date_added":"2014-08-13 18:24:17",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/00/32/52527281_454731_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/00/32/52527281_454732_full.jpg"
+   },
+   {
+      "item_id":"coabs3dfi10",
+      "stars":1,
+      "name":"kencfii",
+      "title":"Not conductive enough",
+      "location":"Florida",
+      "review":"Prints great just like ABS but is not conductive enough - or at all...<br />Tried in simple circuit in many ways - short, long, thick, thin......<br /><br />Maybe I need more voltage/amperage?",
+      "orig_date_added":"2014-12-13 15:18:48",
+      "images":""
+   },
+   {
+      "item_id":"coabs3dfi10",
+      "stars":4,
+      "name":"theP13RC3",
+      "title":"Awesome stuf, great for grounding prints",
+      "location":"Omaha, NE",
+      "review":"This stuff is really, really interesting! It is conductive, but not nearly as much as actual wire (which makes sense cause it's plastic...). That being said, it's not realistic to print full PCBs with this stuff. What it's perfect for though is building case grounding right into the box of your electronics projects! No more worrying about ESD ruining your electronics project, and it's as simple as loading normal filament in your extruder.<br /><br />As an added note, it's also really good for small LED/low current draw circuits. Makes it so you can just poke leads into the printed &quot;PCB&quot; and have it work. Hot glue is also pretty handy, bot for fixing components in place and for electrical isolation",
+      "orig_date_added":"2014-08-27 18:57:56",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/00/34/52791738_458982_full.jpg"
+   },
+   {
+      "item_id":"coabs3dfi10",
+      "stars":3,
+      "name":"Alex the Geek",
+      "title":"Works well but might give you a headache",
+      "location":"Belgium",
+      "review":"If you want conductive material that'll take on any shape by 3D printing, you've got the right material. Compared to other types of conductive plastic, this one behaved as expected.<br /><br />However, be warned. This stuff is basically ABS and carbon mixed together. Since extruder nozzles have a very fine opening, there is a HIGH chance of clotting. When looking around the internet (google &quot;conductive abs clotting&quot;) you'll see that many have struggled with this, so be prepared. There's a high chance of printing failure if you use wrong settings, or if you simply have bad luck. <br /><br />The material is also rather brittle, which I assume is also due to the carbon content in the plastic. Fine strands of regular ABS cant be pulled apart, while fine strands from this material can be. When setting up your printjob, make sure you're using VERY LOW SPEED. If it moves too fast, the filament might detach inside the printhead.<br /><br />So overall, make sure you're heating around 135&deg;C, which is what I used (though printing for a long time increases chance of clotting anyway) and use low speeds.<br /><br />Final judgement: It has some downsides which are to be expected because of the material's properties, make sure you read up and keep a cool head while working with this stuff. In the end it did exactly what I wanted, but I had to do a lot of retries. <br /><br />Good luck!",
+      "orig_date_added":"2014-08-25 17:49:02",
+      "images":""
+   },
+   {
+      "item_id":"coabs3dfi10",
+      "stars":4,
+      "name":"rckt_man",
+      "title":"Carbon not Conductive ABS",
+      "location":"Tucson, AZ",
+      "review":"This material ended up working great for some applications, but it was terrible for the electrical applications I was intending. I was hoping to have 3d printed wires, but the conductivity is far lower than conventional metals.",
+      "orig_date_added":"2014-08-19 07:39:28",
+      "images":""
+   },
+   {
+      "item_id":"flecmabl1",
+      "stars":4,
+      "name":"Curtis",
+      "title":"Flexible Filament!!",
+      "location":"Arlington, TX",
+      "review":"First of all this filament is not for all printers. Does not work well with printrbot but does work with Flashforge Creator Pro. The initial frustration of figuring out the best settings is worth it. <br /><br />The flexibility is a little bit harder than I thought it would be but there are so many different uses for it. Great product.",
+      "orig_date_added":"2014-08-22 18:53:38",
+      "images":""
+   },
+   {
+      "item_id":"flecmabl1",
+      "stars":4,
+      "name":"Rod",
+      "title":"Does not feed through Afinia printer",
+      "location":"Omaha,NE",
+      "review":"The material itself is great.  I was able to manage partial prints and the results were outstanding.  Problem is that the Afinia that I print with, can not manage feeding the filament without jamming.  I tried multiple settings but the jam consistently occurs in the feeder system.  I will continue to research fixes for this problem as I really have needs for a flexible material.",
+      "orig_date_added":"2014-06-22 08:01:04",
+      "images":""
+   },
+   {
+      "item_id":"nestmofor3dp",
+      "stars":4,
+      "name":"miseree",
+      "title":"Incorrect Wiring Diagram",
+      "location":"Rock Springs, WY",
+      "review":"The stepper motor is great. <br /><br />The item description is missing the motor current rating and THE WIRING DIAGRAM IS INCORRECT! Ensure correct phase coils with an ohm meter. Resistance will be around 27 ohms across each coil. Pins 1/4 are coil A and Pins 3/6 are Coil B (bipolar connection).<br /><br />I installed this with a Gecko G540B stepper controller and is working great with the appropriate wiring.",
+      "orig_date_added":"2015-02-03 20:23:20",
+      "images":""
+   },
+   {
+      "item_id":"absmablco11s",
+      "stars":4,
+      "name":"Tallaustin",
+      "title":"Great for Making 3d printers",
+      "location":"St. Paul, Minnesota",
+      "review":"I frequently use this ABS. I am in the process upgrading my Solidoodle 2 to a dual extruder system. I have been toying with many extruder designs.",
+      "orig_date_added":"2014-08-11 22:15:19",
+      "images":""
+   },
+   {
+      "item_id":"absfiglindax1",
+      "stars":5,
+      "name":"Awan",
+      "title":"Brightest of all Glow-In-The-Dark ABS fi",
+      "location":"Chicago, IL",
+      "review":"Used it in my Up Plus 2 and printed LOVE. It's still glowing until now (few weeks). Other filament dims pretty quickly. This one is not.",
+      "orig_date_added":"2014-08-25 08:17:23",
+      "images":""
+   },
+   {
+      "item_id":"plapico11sp",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Love Translucents.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--215deg duplicator4<br />--I love these translucent colors. Some of these colors are a little hard to get a good picture of.",
+      "orig_date_added":"2014-08-24 18:41:10",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/00/59/52739602_458007_full.jpg"
+   },
+   {
+      "item_id":"mafipla1daas",
+      "stars":5,
+      "name":"wulfgar1979",
+      "title":"Great Filament for the Price!",
+      "location":"Cedar Hill, MO",
+      "review":"Well packaged and consistent. This is my new go to filament.",
+      "orig_date_added":"2015-03-22 13:34:18",
+      "images":""
+   },
+   {
+      "item_id":"mafipla1daas",
+      "stars":5,
+      "name":"Joe",
+      "title":"Great PLA Filament",
+      "location":"Asheville, NC",
+      "review":"No jams, feeds smooth and reliable.<br /><br />More of a dull finish than most PLAs, resulting in more attractive prints. Also, the black is really black. Not like some filaments I've used that look almost dark grey.",
+      "orig_date_added":"2015-03-18 09:09:24",
+      "images":""
+   },
+   {
+      "item_id":"mafipla1daas",
+      "stars":5,
+      "name":"JoeJ",
+      "title":"Great Reliable Filament",
+      "location":"Asheville, NC",
+      "review":"No jams or clogs, feeds smoothly. Ran through a roll in about 48 hours with no issues at all.<br />I've tried other higher cost premium filament and this stuff is better.",
+      "orig_date_added":"2015-03-07 10:14:34",
+      "images":""
+   },
+   {
+      "item_id":"mafipla1daas",
+      "stars":4,
+      "name":"slorider",
+      "title":"My honest opinion about the pla 1.75",
+      "location":"Alabama",
+      "review":"I made parts for a second printer that I need, replace broken plastic parts, or toys for granchildren.<br />the thing I like most about this product is its made here and is very durable and reasonable!<br />the things I dont like about it (I'll get back to you when i find something)",
+      "orig_date_added":"2015-02-23 13:34:56",
+      "images":""
+   },
+   {
+      "item_id":"mafipla1daas",
+      "stars":4,
+      "name":"Fritter",
+      "title":"Good Filament for the price",
+      "location":"Indiana",
+      "review":"Brackets, custom parts, fixtures, toys for kids",
+      "orig_date_added":"2015-01-19 09:54:58",
+      "images":""
+   },
+   {
+      "item_id":"be3dprbybe",
+      "stars":5,
+      "name":"PMRocha",
+      "title":"Great choice!",
+      "location":"US",
+      "review":"Very elegant and smart design with fine layer resolution. It was a good investment.",
+      "orig_date_added":"2015-02-26 04:50:37",
+      "images":""
+   },
+   {
+      "item_id":"nitpe3dprfif1",
+      "stars":4,
+      "name":"Ordos",
+      "title":"Great Soft Filament",
+      "location":"Salt Lake City, Utah",
+      "review":"Great matterial<br />You can achieve various transparencies with different settings.<br />We love the memory aspect of this matterial, it makes for great prototyping where soft matterial is required.",
+      "orig_date_added":"2014-08-19 10:35:05",
+      "images":""
+   },
+   {
+      "item_id":"plaredco11sp",
+      "stars":5,
+      "name":"Anthony",
+      "title":"Best PLA I have used!",
+      "location":"Las Cruces, NM",
+      "review":"I have mainly used this PLA for figurines and little things that I printed but have used it for upgrade parts for my printer and they held up well. It was able to take quite a bit of force more than I have seen with other PLA. Best prints I have had with PLA.",
+      "orig_date_added":"2014-08-26 13:48:07",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":1,
+      "name":"Ralph Feerro",
+      "title":"Nozzle Tip Cleaning Breaks Easily",
+      "location":"Wynnewood, PA",
+      "review":"The nozzle cleaner is the only tool I found with a small enough diameter that will fit into the tiny nozzle opening.<br /><br />The tip cleaner is steel and brittle and if you are not careful will break inside the nozzle.",
+      "orig_date_added":"2014-12-29 11:27:22",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":4,
+      "name":"Super Stonegiant",
+      "title":"Handy tool to have for 3d printing.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--Now it does break easy, so you do have to take a little care in handling it. You do have to consider the size of the hole you have to stick it in. Not much works.  In conclusion, don't break it like I did. I will buy another, here soon.",
+      "orig_date_added":"2014-08-30 19:25:27",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":5,
+      "name":"BillO",
+      "title":"Does the job",
+      "location":"Syracuse, NY",
+      "review":"We bought this tool (which is actually a tiny carbide drill bit) as an add-on to a larger order, figuring we'd need it eventually. Turns out we needed it within a few days, and it worked perfectly. I had tried the heat/cool/pull technique several times but couldn't clear the clog. With this tool, I heated the nozzle, loaded it with clear PLA (so I could see any debris) and inserted the tool to push things around. I extruded some small black bits, and pulled some out with the filament.<br /><br />I've worked with PC board drills before, and know that they're extremely fragile, so I've been very careful with this tiny one. I expect that it will last through many cleanings if used correctly.",
+      "orig_date_added":"2014-08-30 14:26:34",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":4,
+      "name":"theP13RC3",
+      "title":"Gets rid of headaches!",
+      "location":"Omaha, NE",
+      "review":"This thing is great! I got nozzle clogs constantly when I was calibrating my prusa i3, and this stopped me from having to swap nozzles and pit them in alternating acetone baths completely!<br /><br />The only downside is the fact that the tip of the drill can break off if you're not too careful... On the bright side, the extruder just pushes it right out and (at least with mine), there was still plenty of drill there to clear nozzles!<br /><br />One other reviewer did mention theirs came without the handle, but mine has a really nice orange one (check the picture). Very easy to grasp!",
+      "orig_date_added":"2014-08-27 19:06:59",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/00/99/52791820_458985_full.jpg"
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":2,
+      "name":"Bandanam4n",
+      "title":"Broke after two uses. Otherwise ok",
+      "location":"Denmark WI",
+      "review":"It broke after the second use.",
+      "orig_date_added":"2014-08-26 19:59:30",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":4,
+      "name":"rckt_man",
+      "title":"Cheap and simple tool",
+      "location":"Tucson, AZ",
+      "review":"The tool is great and works exactly as advertised, but in my experience isn't that necessary. I can usually crank up the nozzle temperature and clear the jam just as effectively...though that takes a little longer at times I'll admit.",
+      "orig_date_added":"2014-08-25 08:06:58",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":5,
+      "name":"Curtis",
+      "title":"Must have",
+      "location":"Arlington, TX",
+      "review":"This is a must have for anyone with a 3d printer. Its design makes it easy to clean out the nozzle. This is the best tool I have found to unclog or clean out a nozzle",
+      "orig_date_added":"2014-08-22 05:36:19",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":5,
+      "name":"Hamhog55",
+      "title":"Works better than expected",
+      "location":"Arkansas",
+      "review":"works well, but the hole may (is) hard to see, you may want a magnifier to use.",
+      "orig_date_added":"2014-08-19 11:56:01",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":5,
+      "name":"GreenBeast",
+      "title":"A Must Have",
+      "location":"Arroyo Grande, CA",
+      "review":"I make my own filament for my 3D printer, so every so often the nozzle gets clogged. This little tool is a life saver when is comes to quickly unclogging filaments inside the nozzle. The tool is a must have for every 3D printer.",
+      "orig_date_added":"2014-08-19 09:11:39",
+      "images":""
+   },
+   {
+      "item_id":"3dprnotipclt",
+      "stars":4,
+      "name":"LoneWolf",
+      "title":"Cleaning Tool",
+      "location":"Woodland Park  Colorado",
+      "review":"Rod it'self needs to be made out of something that does not break.",
+      "orig_date_added":"2014-08-19 08:13:22",
+      "images":""
+   },
+   {
+      "item_id":"d4prbot3dprd",
+      "stars":5,
+      "name":"aeromech",
+      "title":"WOW!!",
+      "location":"San Antonio, TX",
+      "review":"I bought this to make general &quot;stuff&quot; around the house and maybe invent things to make every day life better. This is my first 3D printer and all I have to sa is WOW! The initial setup of the unit is easy even for the most tech challenged person. One thing I would suggest is the platform be packaged seperately due to the wingnuts unscrewing themselves in shipping. <br /><br />After a full weekend of printing I only had a minor nozzle clog and was easily fixed.<br /><br />Getting the temperatures correct for the nozzles and heated bed are key to success. I also want to point out that having a good enclosure that holds in the heat helps a lot as well. <br /><br />The acrylic hood that comes with the unit will &quot;bounce&quot; around a bit sometimes when doing some rapid print head movements. I fixed this using some foam tape as a sort of gasket between the machine and the hood.<br /><br />In all this thing is great and I didn't get much sleep from messing around and printing anything I could find....hahaha<br /><br />Thanks Joshua! This thing is awesome!",
+      "orig_date_added":"2015-03-09 12:08:37",
+      "images":""
+   },
+   {
+      "item_id":"d4prbot3dprd",
+      "stars":5,
+      "name":"Hooked on Printing",
+      "title":"Great nearly commercial 3D printer",
+      "location":"MI",
+      "review":"Just wanted to drop Joshua and the other MakerGeeks a line to say how impressed I am with this printer - setup was great and very well documented in the manual and once I got that build plate leveled it was off to the races! Thank you again and GEEK ON!!",
+      "orig_date_added":"2015-01-06 03:25:55",
+      "images":""
+   },
+   {
+      "item_id":"d4prbot3dprd",
+      "stars":1,
+      "name":"Makerspaces",
+      "title":"This printer is a pain",
+      "location":"Boise, ID",
+      "review":"First of all this printer was alright when it worked. It would randomly stop working. I had to fix wiring issues. The printer would shut off and stay off when the limit switch was pressed occasionally when canceling a print. The two different softwares available are a pain. replicator g looks like its 20 years old and runs slow. Makerware is alright if you don't want to make your prints better. Almost no customization ability. The things it does allow you to change are very minor. It doesn't allow the normal g-code from other printer softwares to run on the printer. Its almost impossible to fix any thing wrong with the code. This printer has caused a lot of frustration.",
+      "orig_date_added":"2014-12-21 21:32:54",
+      "images":""
+   },
+   {
+      "item_id":"d4prbot3dprd",
+      "stars":5,
+      "name":"Dev",
+      "title":"Excellent",
+      "location":"Cypress, CA",
+      "review":"Besides control issues, that I have experienced, excellent printer.",
+      "orig_date_added":"2014-11-26 19:17:02",
+      "images":""
+   },
+   {
+      "item_id":"d4prbot3dprd",
+      "stars":4,
+      "name":"Scosmical",
+      "title":"DUDE! (Ette!) Get this!",
+      "location":"New Orleans, LA",
+      "review":"I got it put together and printing in such a short time! that's why i chose this one, based on all the reviews. i actually waited until after x-mas 2013 so i could see some more reviews. which ended up being all good. the top enclosure is good for me, since i use any manner of dust creating tools. it keeps my print table ready to go. <br />I got it for prototyping a specific project, and i've found it to be such a useful tool for everything from brackets for my boat, to enclosures for tons of things in my work. plus i used it to 3d my signature and display that at my gallery! Also, it prints missing oven knobs!<br />The machine doesn't complain, it doesn't hang up on filament. it just prints. <br />all i need now is a scanner that scans what i'm thinking into an .STL file!",
+      "orig_date_added":"2014-08-25 09:47:41",
+      "images":""
+   },
+   {
+      "item_id":"d4prbot3dprd",
+      "stars":5,
+      "name":"josh the builder",
+      "title":"awesome!",
+      "location":"Mariposa, CA",
+      "review":"This is a fantastic product. I use it to create things from my own mind mostly, some things I've found online but mostly my own. The machine practically runs its self. Very easy to use. Once in awhile I get a print that doesn't come out right but I think that's in the gcode. Overall I feel it's a phenomenal machine!",
+      "orig_date_added":"2014-08-15 12:27:01",
+      "images":""
+   },
+   {
+      "item_id":"d4prbot3dprd",
+      "stars":5,
+      "name":"Lizz",
+      "title":"good value, excellent prints",
+      "location":"CT/RI",
+      "review":"I purchased the Duplicator 4x to prototype toys for my graphic design thesis. It seems just like the MakerBots I've used but allows more control over the print, and the noise is less obtrusive. To anyone with prior 3d print experience, I would highly recommend installing the Replicator Sailfish firmware/software. <br /><br />The only issues I had were with the written instructions provided, but this may have been due to my own sleep deprivation. Looking at the images provided was sufficient to understand how the printer should be assembled. It takes a little time to figure out which settings work best with different applications and materials, but this site's guidelines were excellent starting points. <br /><br />If you need to print multiple piece, large scale projects or are simply interested in 3d printing, I highly recommend this! This is the best value I've found on the Internet without having to order overseas. It's certainly worth not having to wait around in a computer lab, monopolizing the printer all day!",
+      "orig_date_added":"2014-05-29 09:34:49",
+      "images":""
+   },
+   {
+      "item_id":"mafipla2sunp",
+      "stars":5,
+      "name":"reprapper",
+      "title":"I'm loving my YELLOW!",
+      "location":"Long Island N.Y.",
+      "review":"Consistant quality from all makergeek brand filaments I've tried so far.",
+      "orig_date_added":"2015-04-23 16:49:01",
+      "images":""
+   },
+   {
+      "item_id":"mafipla1sobl",
+      "stars":5,
+      "name":"djeclipse25",
+      "title":"Great filament",
+      "location":"WI",
+      "review":"I have roughly 20 to 30hrs into Makergeeks filaments, and they have not failed me yet. I print 60mm/s, 0.2mm layers, 0.6mm nozzle, and run the filament at about 9 hrs per part.",
+      "orig_date_added":"2015-02-20 19:20:15",
+      "images":""
+   },
+   {
+      "item_id":"10ohmthfor3d",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Can't beat this deal",
+      "location":"Granite City,  ILLINIOS",
+      "review":"I was trying to replace the hot end on my Solidoodle 2, when the thermistor slid in the way. I crunched it. :( <br /> I went to Solidoodle site and found it was going to cost me $10 plus about $6 in shipping. I then found that for less than the shipping cost at solidoodle, I could not only get one at Makergeeks,  but &quot;2!&quot;. What a deal.<br />  All I did was have a friend solder the new one into the old connector, and plugged it in.<br />  You may want to shorten the wire a bit.<br />The black wires in front, in the pic, is the thermistor.",
+      "orig_date_added":"2014-08-18 18:30:11",
+      "images":""
+   },
+   {
+      "item_id":"plasico11sp",
+      "stars":5,
+      "name":"Bandanam4n",
+      "title":"Amazing PLA",
+      "location":"Denmark WI",
+      "review":"Awesome product. Prints and sticks amazingly.",
+      "orig_date_added":"2014-08-24 10:58:30",
+      "images":""
+   },
+   {
+      "item_id":"plasico11sp",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Reflective blue",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-I love the way this filament looks after printing.<br />-I would try and print just about anything out of this color.<br />-One the first few colors I bought from Makergeeks, and I have a lot of colors. Just ask Joshua at Makergeeks. :)",
+      "orig_date_added":"2014-08-14 17:51:23",
+      "images":""
+   },
+   {
+      "item_id":"plasico11sp",
+      "stars":3,
+      "name":"Brawn",
+      "title":"Not Recommended in All metal hot-ends",
+      "location":"Minnesota",
+      "review":"Testing in several all metal hot-ends we discovered this filament will Jam shortly after starting a print when a retraction is made, it is very susceptible to expanding and causing a clogged hot-end.",
+      "orig_date_added":"2014-06-26 08:12:04",
+      "images":""
+   },
+   {
+      "item_id":"waexrefukitr",
+      "stars":5,
+      "name":"Guillaume Tremblay",
+      "title":"Really ready to print and amazing print!",
+      "location":"Montreal, Canada",
+      "review":"Great parts and amazing quality. Very smooth finish and almost no mod to do for assembly.",
+      "orig_date_added":"2014-08-30 04:14:12",
+      "images":""
+   },
+   {
+      "item_id":"waexrefukitr",
+      "stars":4,
+      "name":"BH1864",
+      "title":"Really ready to print",
+      "location":"Marietta, ga",
+      "review":"The extruder came ready to run, i attached the j-head and the thing has been running since.  A little dust from gear wear. But all in all a great extruder.",
+      "orig_date_added":"2014-08-12 05:54:04",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/01/50/52496277_454286_raw.jpg"
+   },
+   {
+      "item_id":"uvseabsfi11k",
+      "stars":5,
+      "name":"bb7150",
+      "title":"UV Filament with Color Change PLA",
+      "location":"Clarksville, MD",
+      "review":"Used the UV sensitive ABS filament with the color changing PLA in a dual extruder Leapfrog Creatr to make an iPhone case.  Logo changes color in the sun and the case color fades when it gets warm.<br /><br />Both filaments were easy to use and print cleanly.<br /><br />Additional colors would be great.",
+      "orig_date_added":"2014-08-25 14:28:36",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/01/56/52753777_458260_raw.jpg"
+   },
+   {
+      "item_id":"uvseabsfi11k",
+      "stars":4,
+      "name":"technomancer",
+      "title":"An instant hit.",
+      "location":"North Bay, CA",
+      "review":"The printed product ends up being an unassuming milky white color with reasonable detail, but get it into UV (sunlight, blacklight, etc) and you're sure to get a reaction from those around you.<br />I've used it to make some sun-catchers for friends; before the sun hits it, the thing is white, but as the sun rises, it first turns a very pale pink, then a deep plum purple.",
+      "orig_date_added":"2014-05-27 17:44:40",
+      "images":""
+   },
+   {
+      "item_id":"platrredco11",
+      "stars":5,
+      "name":"Scosmical",
+      "title":"Best Price, Smooth Prints!",
+      "location":"New Orleans, LA",
+      "review":"Awesome color, translucence, allows led pass through. <br />smooth feed, and the price is really good!",
+      "orig_date_added":"2014-08-25 10:01:32",
+      "images":""
+   },
+   {
+      "item_id":"platrredco11",
+      "stars":4,
+      "name":"Super Stonegiant",
+      "title":"Beautiful red with excellent printing",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--This is yet another of my first few spools from Makergeeks. I was impressed with the red color, and have almost emptied the spool.<br />--The only thing I can say bad about it, was that towards the end of the spool it started to look more orange. The material still printed great regardless. I will still buy another spool of it.",
+      "orig_date_added":"2014-08-18 19:08:27",
+      "images":""
+   },
+   {
+      "item_id":"ne17stga4pa",
+      "stars":5,
+      "name":"FantomBlaze",
+      "title":"Nice Gaskets",
+      "location":"Glen Burnie, MD",
+      "review":"Just bought a second set. I accidentally snapped one in half while picking it up, but still was able to use it. Yes there is char on the ends as another reviewer stated, but that is because they are laser cut.",
+      "orig_date_added":"2014-10-17 14:47:32",
+      "images":""
+   },
+   {
+      "item_id":"ne17stga4pa",
+      "stars":4,
+      "name":"TheRealMcCoy",
+      "title":"Good product!",
+      "location":"Detroit Metro",
+      "review":"This fits a NEMA17 and should dampen vibrations to my prints resulting in better prints.  When I am able to try it out I will let you all know if I see a difference.",
+      "orig_date_added":"2014-08-26 18:41:55",
+      "images":""
+   },
+   {
+      "item_id":"ne17stga4pa",
+      "stars":5,
+      "name":"bandanam4n",
+      "title":"Great Deal!",
+      "location":"Denmark WI",
+      "review":"great product. affordable and provides a good upgrade",
+      "orig_date_added":"2014-08-24 11:30:35",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/01/60/52735965_457925_full.jpg"
+   },
+   {
+      "item_id":"platrorco11s",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Shiny orange",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--215deg on Duplicator 4<br />--I have to say I like this translucent orange, and it prints beautifully.<br />--Can't beat the price.",
+      "orig_date_added":"2014-08-20 19:15:12",
+      "images":""
+   },
+   {
+      "item_id":"drduex3dprww",
+      "stars":4,
+      "name":"Mikenmel08",
+      "title":"Excellent Machine",
+      "location":"Franklin,NC",
+      "review":"I use this printing small parts for my RC addiction....mainly multirotors but all rc applies....<br /><br />I REALLY like the Wifi<br /><br />A little to many plastic parts where there should be metal...Still a GREAT machine that gives amazing results<br /><br />The Internal spool holders are a great idea but only hold a few full size spools....If your spool is no wider than 2 3/4 inches it will fit but anything wider than that is a NO go.....",
+      "orig_date_added":"2014-11-16 09:06:16",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/01/73/54653320_484161_full.jpg"
+   },
+   {
+      "item_id":"mafipla1phmi",
+      "stars":5,
+      "name":"Tim",
+      "title":"Very happy!",
+      "location":"Canada",
+      "review":"I am very happy with this filament. I was having trouble with the filament I had before making strings whenever the head moved but that is all solved now. The only thing that isn't great is it was more expensive to ship to Canada!",
+      "orig_date_added":"2014-12-23 14:31:25",
+      "images":""
+   },
+   {
+      "item_id":"absnaco11sp",
+      "stars":4,
+      "name":"66tbird",
+      "title":"Best at a lower temp",
+      "location":"Phx, Az",
+      "review":"I use this for LED related items. I have a fully modded Rep1.  Normally I print at 230 on a 108 HBP. I found I was getting heater tube enterance jams when things slowed down for small features.  A quick diameter check showed 1.84- 1.92 for a meter or two then back down to 1.72- 1.8 for 5-6 meters. Turning down the extruder temp and running a fan mod to keep the filament cool after the pinch roller to prevent compression expantion seems to allow me to use the filament. The diameter settled down to 1.82 about have through. I know all batches are different so maybe I got a bad one.",
+      "orig_date_added":"2014-12-01 07:46:48",
+      "images":""
+   },
+   {
+      "item_id":"absnaco11sp",
+      "stars":4,
+      "name":"MrBaz",
+      "title":"Frosted plastic",
+      "location":"Colorado Springs, CO",
+      "review":"I got a sample of this as part of a sample pack. It printed just fine, but it didn't really seem to smooth when I brushed some acetone on it. Is wanting to be able to make some of my printed parts nearly clear after I treated them with an acetone vapor bath. Is eventually able to get a part vapor smoothed, but it took a lot more time than my other abs plastic. The smoothed part really looked clear after I was done, but the part deformed some since it took such a long time to vapor smooth.",
+      "orig_date_added":"2014-08-21 18:22:46",
+      "images":""
+   },
+   {
+      "item_id":"absnaco11sp",
+      "stars":5,
+      "name":"Brawn",
+      "title":"Great printing properties",
+      "location":"Minnesota",
+      "review":"WE use this natural ABS for a number of different components from prototypes to finished parts. The best ABS filament we have run.",
+      "orig_date_added":"2014-06-26 08:06:01",
+      "images":""
+   },
+   {
+      "item_id":"ma1gica",
+      "stars":5,
+      "name":"parkynspace",
+      "title":"Birthday or christmas gift idea",
+      "location":"Plano, TX",
+      "review":"This is a great way to save up for a 3d printer. I can not afford a 3d printer in one full payment but this provides a great way to buy a printer when you have money. The gift cards also make a great birthday and Christmas gift idea. They even count as part of the 10% discount promotions. Great idea!",
+      "orig_date_added":"2014-08-21 21:09:47",
+      "images":""
+   },
+   {
+      "item_id":"wasopva10",
+      "stars":1,
+      "name":"David",
+      "title":"Not Working so far",
+      "location":"Vancouver, British Columbia",
+      "review":"So far so not working. It did not stick to the ABS glue on a preheated leveled bed and when I tested some of the melted spool in water it only partially melted(~20%) but has not all melted after several days now.",
+      "orig_date_added":"2014-08-27 10:18:09",
+      "images":""
+   },
+   {
+      "item_id":"wasopva10",
+      "stars":4,
+      "name":"Egghead",
+      "title":"Great for support structure",
+      "location":"Lexington, KY",
+      "review":"I use PVA with my dual printer as a support structure. when I am really trying to have accurate geometry of assembly prints. Like some of the planetary gears etc on Thingiverse",
+      "orig_date_added":"2014-08-25 12:12:51",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/01/88/52752126_458213_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/01/88/52752126_458214_full.jpg"
+   },
+   {
+      "item_id":"wasopva10",
+      "stars":4,
+      "name":"Matt",
+      "title":"Soluble Support Solution",
+      "location":"Kansas City, MO",
+      "review":"With its low melt temp and great adhesion to PLA it is the perfect soluble support for PLA models.  It does react with the moisture in the air so it is important not to over-stock your shelves.",
+      "orig_date_added":"2014-08-11 07:07:15",
+      "images":""
+   },
+   {
+      "item_id":"maswsh",
+      "stars":5,
+      "name":"theP13RC3",
+      "title":"Quality T-Shirt, and the Logo Gets Respe",
+      "location":"Omaha, NE",
+      "review":"This is a great shirt! It's super comfy, reasonably priced, and the logo and catchphrase got me nerd props within 10 minutes of wearing it outside! Definitely a good shirt for showing off the maker (and geek) in you, and it supports a good company while you're wearing it! One of my new favorites.",
+      "orig_date_added":"2014-08-27 18:38:12",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/01/89/52791592_458974_full.jpg"
+   },
+   {
+      "item_id":"maswsh",
+      "stars":5,
+      "name":"mspir8",
+      "title":"woot? nerd appeal",
+      "location":"Fairchance, PA",
+      "review":"nice shirt, my buddy like it",
+      "orig_date_added":"2014-08-25 14:45:35",
+      "images":""
+   },
+   {
+      "item_id":"absfiglindax",
+      "stars":4,
+      "name":"Awan",
+      "title":"Brightest Glow-In-The-Dark Filament",
+      "location":"Chicago, IL",
+      "review":"I have used this filament to print out words and till now it's hanging on my wall and at night, it glows very bright.<br />I tried Octave glow in the dark, but that one only lasts for few minutes. The makergeek one is long lasting.",
+      "orig_date_added":"2014-08-11 06:59:03",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/01/94/52478355_453976_full.jpg"
+   },
+   {
+      "item_id":"absmapuco11s3mm",
+      "stars":4,
+      "name":"Greg",
+      "title":"Great quality, vivid bright color",
+      "location":"Chicago Suburbs",
+      "review":"This was great ABS.  My daughters love objects printed with the bright color.",
+      "orig_date_added":"2014-08-25 08:55:54",
+      "images":""
+   },
+   {
+      "item_id":"yeorulplafi0",
+      "stars":5,
+      "name":"Skywise",
+      "title":"Will print when others clog",
+      "location":"Portland, Oregon",
+      "review":"So I received this filament as one of the surprise packages. My printer is a Da Vinci 1.0 and those don't seem to like PLA very much, but after lowering the temperature via cartridge chip to 185C and adding a fan pointed to the print head, this material will print very nicely in the Da Vinci 1.0, contrary to reports of PLA clogging the extruder on the DV10.",
+      "orig_date_added":"2014-08-25 13:18:32",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/18/52753010_458240_full.jpg"
+   },
+   {
+      "item_id":"absslgrco11s",
+      "stars":5,
+      "name":"Allen",
+      "title":"Prints well",
+      "location":"Indianapolis",
+      "review":"Prints well.  Sticks to purple glue stick on my heated bed.  No moisture issues.",
+      "orig_date_added":"2014-08-25 08:58:31",
+      "images":""
+   },
+   {
+      "item_id":"ra14plarmeco",
+      "stars":5,
+      "name":"Mike",
+      "title":"My printer is running",
+      "location":"VA",
+      "review":"As shown on the page.  Genuine Arduino Mega, stepper drivers, RAMPS shield. have this up and running with a single extruder on a MendelMax 1.5.",
+      "orig_date_added":"2015-02-07 19:15:58",
+      "images":""
+   },
+   {
+      "item_id":"prpiulplafi0",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Nice hot pink color",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--215deg Duplicator 4<br />--This is a nice hot pink color. The Minecraft figure that I printed out, come out perfect.",
+      "orig_date_added":"2014-08-24 19:07:55",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/48/52739841_458011_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/02/48/52739841_458012_full.jpg"
+   },
+   {
+      "item_id":"prpiulplafi0",
+      "stars":5,
+      "name":"Natasha",
+      "title":"FANTASTIC COLOR!",
+      "location":"Framingham, MA",
+      "review":"Joshua at MakersGeek printed the Kossel Mini parts I ordered in Princess Pink, also bought a sample of the color a few months ago.  The color is true to what is shown on screen, absolutely fantastic. This is hands down the best pink I have found. I plan to order more soon!",
+      "orig_date_added":"2014-08-11 06:56:57",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/48/52478321_453970_raw.png,http://powerreviews.s3.amazonaws.com/images_customers/02/48/52478321_453971_raw.png"
+   },
+   {
+      "item_id":"abshiblco11s",
+      "stars":3,
+      "name":"RDM",
+      "title":"Fairly good black ABS",
+      "location":"Virginia",
+      "review":"This is a fairly good ABS, but there are better options out there.  It has a consistent diameter, but always left a few divots in the outside walls of my prints.  These are likely caused by tiny air voids within the filament.  I know it was not my printer's fault because this did not happen with other ABS filaments or PLA.  This happened regardless of nozzle size.  When it ran out, I replaced it with another brand ABS and had better results.",
+      "orig_date_added":"2014-08-29 15:40:52",
+      "images":""
+   },
+   {
+      "item_id":"abshiblco11s",
+      "stars":5,
+      "name":"Eric",
+      "title":"Quality filament",
+      "location":"Fishers, IN",
+      "review":"I'm new to 3D printing and before I had heard of MakerGeeks, I had ordered some inexpensive filament and had a few jobs stop.  It turned out to be seemingly small deviations in diameter that were enough to stop my machine.  The MakerGeek filament prints great and I haven't had any issues with size.",
+      "orig_date_added":"2014-08-15 10:32:45",
+      "images":""
+   },
+   {
+      "item_id":"platrpuco11s",
+      "stars":5,
+      "name":"Scosmical",
+      "title":"Best Price, Smooth Prints!",
+      "location":"New Orleans, LA",
+      "review":"What else can i say? it prints smooth and costs less than anywhere else i've seen!",
+      "orig_date_added":"2014-08-25 09:54:01",
+      "images":""
+   },
+   {
+      "item_id":"platrpuco11s",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Nice translucent purple",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--215deg Duplicator 4<br />--I think I got a little better picture of the color on this one. This is a beautiful purple by the way.",
+      "orig_date_added":"2014-08-24 18:49:45",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/69/52739694_458008_full.jpg"
+   },
+   {
+      "item_id":"platrpuco11s",
+      "stars":5,
+      "name":"Jerry",
+      "title":"First test worked great",
+      "location":"Los Gatos, CA",
+      "review":"Since I have an Afinia H479 printer I have to be careful what filament I use.  I have a home-made temperature control on it, but I can't change other parameters.<br /><br />I have a test model that's quite difficult for many filaments to print.  This filament printed it with no problems on the first try with the default Afinia temperature.  The raft peeled right off.",
+      "orig_date_added":"2014-08-18 17:26:29",
+      "images":""
+   },
+   {
+      "item_id":"platrpuco11s",
+      "stars":5,
+      "name":"MichaelD33",
+      "title":"Translucent Purple PLA Filament",
+      "location":"New York, NY",
+      "review":"I use the translucent purple PLA for printer figures and other stationary objects, I haven't had as much luck printing parts that move, but I have been able to print the LFS Elephant with articulating legs that prints as one piece. There are no things I don't think are good, amazing prints! I will order again!",
+      "orig_date_added":"2014-08-15 10:28:22",
+      "images":""
+   },
+   {
+      "item_id":"mafipla2ahna",
+      "stars":5,
+      "name":"ElevatedSounds",
+      "title":"Best PLA in the business",
+      "location":"Los Angeles, CA",
+      "review":"I currently work for NASA at the Jet Propulsion Laboratory. I've been printing with PLA for over a year now. Hands down, this PLA is it! It's just perfect. Even when you touch it, the smoothness far exceeds all others. 0 miss prints. I can't ask for anything better. These guys are true artist when it comes to fabricating their PLA. Thanks MakerGeeks, you guys rock.",
+      "orig_date_added":"2015-03-07 12:02:01",
+      "images":""
+   },
+   {
+      "item_id":"plafiglindap1",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Beautiful dark purple.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--Awesome dark purple with a glow. I have only printed with this on my Solidoodle. Hopefully on my duplicator 4 soon.",
+      "orig_date_added":"2014-08-28 18:59:09",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/80/52811450_459299_full.jpg"
+   },
+   {
+      "item_id":"jmkhoforre3d",
+      "stars":5,
+      "name":"Dom",
+      "title":"Reliable &amp; Light",
+      "location":"San Jose, CA",
+      "review":"I used the Jhead on my Kossel Mini with 1.75mm filament. It heats up fast and stays hot, and rarely clogs. If it does clog, its usually my fault. Easy to replace the teflon inner liner and the nozzle is easy to clean. Setscrew is M3 just like all the screws in the Kossel Mini.",
+      "orig_date_added":"2014-08-25 13:45:03",
+      "images":""
+   },
+   {
+      "item_id":"jmkhoforre3d",
+      "stars":5,
+      "name":"VulcanGrey",
+      "title":"Works great, never jams or leaks.",
+      "location":"Boulder, CO",
+      "review":"I bought this to use along with the Mini Kossel kit that I bought from Makergeeks as well.  The aluminum J-head is nice and light for a fast effector like the Mini Kossel. I use it to print 1.75mm PLA so far, it is very consistent at extruding.  It never jams or leaks.  It was easy to calibrate.  Provides nice detail and resolution for my prints. Nozzle is .4mm.",
+      "orig_date_added":"2014-08-20 12:44:55",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/88/52656029_456711_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/02/88/52656029_456712_full.jpg"
+   },
+   {
+      "item_id":"jmkhoforre3d",
+      "stars":4,
+      "name":"Strangeloop",
+      "title":"Good Quality part + Good quality service",
+      "location":"Atlanta, GA",
+      "review":"I ordered this for my custom built 3D printer. It did not match my extruder assembly exactly (but then when did any open source parts fit withe ach other exactly). However, with a little bit of tinkering, I was able to connect the hotend to my extruder and it has been working fine since them. temperature is maintained fairly consistently.",
+      "orig_date_added":"2014-08-11 07:17:29",
+      "images":""
+   },
+   {
+      "item_id":"plasico11sp13mm",
+      "stars":4,
+      "name":"Kyle D",
+      "title":"Great filament, very white, strong",
+      "location":"Toledo, OH",
+      "review":"I have a lulzbot taz 4 (I highly recommend it) but I didn't have much luck getting their sample of filament to stick to the print bed, which I found dissapointing. Maybe I just got a bad piece? So I bought a few rolls from a few different sources, and this is the one I'm happiest with for now. I have two rolls of white PLA, and this one from makergeeks is noticeably brighter. The only reason I gave it 4 stars instead of 5 is that when I selected 5, it said &quot;perfect, doesn't get any better&quot; which I am just not confident enough to state. However, I'm guessing the stuff that's better will cost more. So I can say that this is the best roll of PLA I've used for the price.<br /><br />I used this to print the low polygon mask from thingiverse, and it did a good job. No stringing, although there was a bit of drooping inside the eyes - expected considering I used no support. I did have an adhesion failure while printing the 1/2 scale one before the full size print, so I added a 3mm raft and had no issues afterward.",
+      "orig_date_added":"2014-10-17 17:05:26",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/96/53658875_473508_full.jpg"
+   },
+   {
+      "item_id":"plasico11sp13mm",
+      "stars":4,
+      "name":"MeshBomb1",
+      "title":"Good filament great price",
+      "location":"Ypsilanti, MI",
+      "review":"Maker Geeks Brilliant White PLA is one of the first filaments that I sent through my RepRap OB1.4. I was still tinkering with the machine and running through calibration, this product definitely made the process easier. The prints are solid and consistent once the bot was calibrated properly. This spool seemed to perform better at higher temperatures, I was printing at 230c and getting great results (if my thermistor was accurate). Good product great price.",
+      "orig_date_added":"2014-08-25 22:07:28",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/96/52758432_458366_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/02/96/52758432_458367_full.jpg"
+   },
+   {
+      "item_id":"platryegrco1",
+      "stars":5,
+      "name":"BillO",
+      "title":"Bright green-yellow, loves the UV",
+      "location":"Syracuse, NY",
+      "review":"We bought a spool of this PLA because of the color and ended up using it to print one of the prototypes of the RepRap Simpson. We had a few reprints, but that was due to printer issues, not the filament; in the end, we used the entire spool and bought another to keep going, then used that as well! <br /><br />The filament prints easily and like other transparent/translucent colors it has a hard, crisp feel to it, very nice for printer parts. <br /><br />The pigment is somewhere between yellow and green, and depends a lot on the lighting since it's fluorescent. Sunlight or a UV light source will make it glow brightly (but only while lit, it isn't glow-in-the-dark). We used a strip of blue LEDs to light the arms on Simpson and they looked great.",
+      "orig_date_added":"2014-08-30 14:20:51",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/02/96/52835818_459728_full.png,http://powerreviews.s3.amazonaws.com/images_customers/02/96/52835818_459729_full.png"
+   },
+   {
+      "item_id":"platryegrco1",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"I love translucents.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--Funny thing, when I ordered nuclear green I got this. It turned out to be a crowd pleaser. I liked it, friends liked it, and co-workers liked it. It is truly an awesome looking green you will like. I have not had any problems with this material at all.",
+      "orig_date_added":"2014-08-21 20:03:18",
+      "images":""
+   },
+   {
+      "item_id":"plafiglindam",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"My first glow in the dark spool.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--This was my first glow in the dark spool. I printed a few things for people with this stuff. Give it a few minutes in the light to pick up some power.",
+      "orig_date_added":"2014-08-21 22:53:26",
+      "images":""
+   },
+   {
+      "item_id":"plafiglindam",
+      "stars":5,
+      "name":"The bearded one",
+      "title":"Very Good Filament",
+      "location":"Reno",
+      "review":"I have made a bunch of objects using this filament, and love it.  <br /><br />The glow makes it that much better.",
+      "orig_date_added":"2014-08-11 21:42:06",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/14/52491132_454219_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/03/14/52491132_454220_full.jpg"
+   },
+   {
+      "item_id":"tpe3dprficls",
+      "stars":5,
+      "name":"Sid",
+      "title":"Super easy to print strong filament",
+      "location":"Oregon",
+      "review":"Decided to give this a try because it is supposed to be easy to print and strong. It did not let me down. My robotics team used it to print a bunch of gears for their competitive robot. People were wowed at the results.",
+      "orig_date_added":"2014-08-22 19:09:04",
+      "images":""
+   },
+   {
+      "item_id":"tpe3dprficls",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Good strong printing material.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-230deg on duplicator4 210deg on Solidoodle2.<br />-The clear T-glass works alright on Solidoodle,<br />because it prints well at lower temp than the others.<br />-I wish it was a little more clear, but I think it varies according to temp. Wish it was as clear as it looks on spool.<br />-Spools unravel to easy. Almost spring loaded.<br />-Even with the cons I still give this a 5, because it is truely beautiful material.<br />-I wish these spools had more material per spool.<br />Only 1pound spool.<br />I still love all the T-glass",
+      "orig_date_added":"2014-08-13 19:42:54",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/24/52527873_454748_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/03/24/52527873_454749_full.jpg"
+   },
+   {
+      "item_id":"hom8bokitfor",
+      "stars":4,
+      "name":"theP13RC3",
+      "title":"Good at gripping filament, Great price",
+      "location":"Omaha, NE",
+      "review":"This is the bes hobbed bolt I've used, and it's number 3 in 2 months. It has decent hobbed teeth that grip filament really well, and it's a shoulder bolt so you don't run the risk of having the filament ride the threads instead of the hobbing!<br /><br />It's been doing exactly what it's supposed to do for 20 print hours so far, and no jams!",
+      "orig_date_added":"2014-08-27 18:46:32",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/27/52791653_458979_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/03/27/52791653_458980_full.jpg"
+   },
+   {
+      "item_id":"mikofudiypae",
+      "stars":1,
+      "name":"Carlos",
+      "title":"A big and frustrating headache",
+      "location":"Santiago, Chile",
+      "review":"You have to know that you are going to open a big bad surprise box when you finally receive your mini Kossel kit from MakerGeek. Just see the cons list I prepare for you guys. I bought my mini Kossel kit on Feb 19th from here and I am still waiting for the upgraded parts (auto-level system and the all-metal jHead) not included in the first package. I had to buy jumpers for the RAMP, cables and pin connectors. The effector plate is uneven, the color of the printed parts is not the same between them. No supports for the bed were included. No AC cable plug was included. Some missing screws, bolts and nuts as well.<br />Solutions? 1.- A package is heading my address through snail mail (no tracking number on it). 2.- A second package is heading my address with tracking number on it but without any priority. Today April 25th and still waiting.",
+      "orig_date_added":"2015-04-25 11:16:37",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/41/61581283_545290_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/03/41/61581283_545291_full.jpg"
+   },
+   {
+      "item_id":"mikofudiypae",
+      "stars":5,
+      "name":"KKronyak",
+      "title":"Finally a machine that just works!",
+      "location":"New Jersey, USA",
+      "review":"I ordered this machine and received the kit about a month ago.  The kit included super strong 2020 type beams which fasten together with M5 screws -- much bigger and stronger than the typical Kossel design which use 15mm beams and M3 hardware.  Some 3rd party part designs may need to be adapted but overall it should make for much stronger mounting of add-on parts.  The metal T-Nuts included do not seem to be available to purchase in reasonably small quantities although it is possible to print your own and MG also sells the printed version separately.  Overall this includes quality parts and good decisions on materials -- I was able to accomplish more in the first 3 weeks with this machine than I did in a year with the Kickstarter 3d printer kit I got a year and a half ago and gave up on because it would wobble itself apart every other print!<br /><br />I already had the controller, motors, and other electronics from my old machine but I contacted MG and they were able to set me up with a basic kit not including those parts at a discount.  Aside from the motors though (I am using 0.9 steppers) and my power supply set-up (ATX power) my machine is practically the same as the full kit version.<br /><br />I have already had so much success with this machine that I have upgraded it to dual extrusion and heated bed!  I may even build another one so I can have one as a workhorse and another as an experimental platform for customizations :)",
+      "orig_date_added":"2014-10-10 23:35:03",
+      "images":""
+   },
+   {
+      "item_id":"mikofudiypae",
+      "stars":5,
+      "name":"Uche",
+      "title":"Great Kit, Great Service",
+      "location":"Milton Keynes, UK",
+      "review":"Working with the RepRap Wiki Kossel and Blomker Industries instructions, this kit was quite simple to put together. All the supplied parts were of very good quality, including the 3d printed parts. Some of the work was already done for you e.g.Push rods were prebuilt, J-Head hot end prewired, which  saved lots of time and fiddling about. <br /><br />Any issues I had were promptly and professionally handled. All in all it has been a great experience building this kit, and I would recommend it to anyone :)",
+      "orig_date_added":"2014-09-08 16:44:26",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/41/52979680_462283_full.jpg"
+   },
+   {
+      "item_id":"mikofudiypae",
+      "stars":5,
+      "name":"TheRealMcCoy",
+      "title":"Excited to Start Printing",
+      "location":"Detroit Metro",
+      "review":"I have not yet received the product, but would like to say that Joshua has been keeping me up to date on the progress of the kit.  It is very encouraging to know I am a valued customer!  I will be buying more from MakerGeeks in the future.",
+      "orig_date_added":"2014-08-26 18:52:57",
+      "images":""
+   },
+   {
+      "item_id":"mikofudiypae",
+      "stars":5,
+      "name":"~Chris~",
+      "title":"So Far So Good",
+      "location":"Santa Rosa, CA",
+      "review":"The Printer took a little while to ship, but the folks here at Maker Geeks were very kind and provided great service. All the printed pieces are superb, the Arduino is really cool, and the look of the printer is amazing. The only problem I have encountered is one tube comes preglued to a nut and it won't fit through one of the printed pieces without undoing it. Other than that the product is AMAZING, and the service with MakerGeeks is the cherry on top. I hope to upload some pictures soon!",
+      "orig_date_added":"2014-08-19 14:42:02",
+      "images":""
+   },
+   {
+      "item_id":"3plafitofco",
+      "stars":4,
+      "name":"John",
+      "title":"Awesome color",
+      "location":"Muncie, IN",
+      "review":"A really nice color but has a tendency to ooze a little.  The translucent nature makes it hard to tell the surface quality of the print so use it after you've already tuned your printer.",
+      "orig_date_added":"2014-08-19 09:08:34",
+      "images":""
+   },
+   {
+      "item_id":"absnugrco11s",
+      "stars":5,
+      "name":"bandanam4n",
+      "title":"great product",
+      "location":"Denmark WI",
+      "review":"great product. works well. looks awesome.",
+      "orig_date_added":"2014-08-23 19:27:36",
+      "images":""
+   },
+   {
+      "item_id":"absnugrco11s",
+      "stars":5,
+      "name":"Curtis",
+      "title":"Neon Green",
+      "location":"Arlington, TX",
+      "review":"This is a bright neon green filament that is consistent in its great quality and color.",
+      "orig_date_added":"2014-08-22 18:59:16",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":4,
+      "name":"MrMaintenance",
+      "title":"Orange/yellow color change when warmed!",
+      "location":"Auburn, WA",
+      "review":"The lable just said hi-temp red but did not say anything about color changing! I tried to find this product in the regular inventory and could not find it yet. It would be wonderful to be able to buy matching non-color changing colors to match the salmon-orange cold color and the bright yellow warm color. Then one design could have parts of the color that change when heated and parts that don't change and not be able to tell them apart from each other except when they change color. I would like to get another color change roll in different colors and print in both color change materials at once a pattern that could then change when heated.",
+      "orig_date_added":"2015-04-28 11:43:57",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Tom Barber",
+      "title":"Good value",
+      "location":"Spokane, WA",
+      "review":"Mine was glow in the dark and I am printing happy.",
+      "orig_date_added":"2015-03-22 22:14:31",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Kasty22",
+      "title":"Absolutely unbelievable!!!",
+      "location":"Fargo, ND",
+      "review":"High value filament was quite a surprise as a first time customer. I recommend this if you are looking for something random and exciting!",
+      "orig_date_added":"2015-01-09 22:11:34",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Gatekeeper Calvin",
+      "title":"Best deal on filament around",
+      "location":"Pittsburgh, PA",
+      "review":"Won't spoil what I got, but I will say that I bought this along with another roll of filament. When buying, I had to choose between two different rolls I wanted, and eventually settled on the one I got. Took a shot in the dark and decided to try out the surprise package. By wild coincidence, my surprise roll was the one I had to decide against buying! Will definitely budget to get this on every makergeeks order I get from now on, thanks for including this!",
+      "orig_date_added":"2014-12-29 22:28:27",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Clayton",
+      "title":"Great deal",
+      "location":"Toronto",
+      "review":"I will be showing it off at makerfaire over the weekend, the only thing I would recommend is to put a PLA or ABS option, because I got ABS and it doesnt work well.",
+      "orig_date_added":"2014-11-17 08:15:23",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"brad",
+      "title":"awesome!",
+      "location":"michigan",
+      "review":"You cant go wrong for $20 (most of the time) with the mystery pack. For $20, you get more than what you pay for, and its always great to get a surprise. Just be careful, as some filaments may need a hbp or hotter nozzles. So far, i have received glow in the dark yellow, ultra green pla, ecoflex, and orion blue t-glase, all for $20 ea. Its a great way to experiment with materials you may not normally buy.",
+      "orig_date_added":"2014-08-29 16:40:51",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/56/52824687_459521_full.jpg"
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Natasha R.",
+      "title":"Great!",
+      "location":"Boston, MA",
+      "review":"I very much enjoy surprises, extremely happy to see the Ultra PLA 1.75mm in the box along with a roll of red ABS filament which my students will love. Cannot wait to get printing!",
+      "orig_date_added":"2014-08-28 13:53:38",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Anthony",
+      "title":"Great surprise and value!!",
+      "location":"Las Cruces, NM",
+      "review":"I purchased this surprise filament pack and I received blue t-glass with is $20 more than what I payed which is a great value!! One thing that i would say is that you need to know that your printer can handle and print mainly all the filament that maker geeks has because you don't know what you will be getting and that is one thing that I took into consideration before purchasing. But otherwise I am increadably pleased with what I got!",
+      "orig_date_added":"2014-08-27 16:10:25",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/56/52790430_458940_full.jpg"
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Pjoyce",
+      "title":"Totally worth it!",
+      "location":"Chicago, IL",
+      "review":"I ordered this on a lark because I couldn't decided which of the many types and brands of filament to  get for my first printer. I got a .75kg spool of the Emerald Ultra PLA for the price of the basic PLA. The PLA itself is great and consistent quality which helps when you are first starting out. I would say that makergeeks.com has earned my loyalty, and I plan on buying more mystery boxes in the future.",
+      "orig_date_added":"2014-08-25 09:44:49",
+      "images":""
+   },
+   {
+      "item_id":"sufipacobean",
+      "stars":5,
+      "name":"Curtis",
+      "title":"Suprise",
+      "location":"Arlington, TX",
+      "review":"I ordered the surprise filament package and I was not disappointed. I received a great filament and loved the idea of not knowing until it arrived.",
+      "orig_date_added":"2014-08-25 08:15:40",
+      "images":""
+   },
+   {
+      "item_id":"kata20x10",
+      "stars":4,
+      "name":"mspir8",
+      "title":"gotta love Kapton Tape",
+      "location":"Fairchance, PA",
+      "review":"I ended up using alcohol soaked rag to wet the bed first before applying the tape, it is very thin however when you get a hang of how to put it on it is a very good deal because there is allot of it.",
+      "orig_date_added":"2014-08-25 14:31:16",
+      "images":""
+   },
+   {
+      "item_id":"plaredco11sp3mm",
+      "stars":5,
+      "name":"Sid",
+      "title":"Nice red color",
+      "location":"Oregon",
+      "review":"Used this to print part for a competitive robot. Color really popped. Was easy to print.",
+      "orig_date_added":"2014-08-22 19:13:22",
+      "images":""
+   },
+   {
+      "item_id":"marepri3pr8r",
+      "stars":5,
+      "name":"Micah",
+      "title":"Great Kit!",
+      "location":"Houston, TX",
+      "review":"This is a great printer once you get it assembled, but without instructions the assembly took a while. After Joshua gave some pointers, though, it went along pretty smoothly. <br /><br />Very satisfied with the quality of the printer and the quality of service from MakerGeeks.com",
+      "orig_date_added":"2014-12-21 05:45:55",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/72/55596748_496911_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/03/72/55596748_496912_full.jpg"
+   },
+   {
+      "item_id":"marepri3pr8r",
+      "stars":4,
+      "name":"Right Click Woodward",
+      "title":"Nice Build! Quick Delivery",
+      "location":"Woodward, IA",
+      "review":"This was my first 3d printer it was a nice quick build and with some help from Joshua we have a nicely tuned printer.",
+      "orig_date_added":"2014-08-25 16:38:35",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/03/72/52754935_458290_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/03/72/52754935_458291_full.jpg"
+   },
+   {
+      "item_id":"grwageex",
+      "stars":1,
+      "name":"Supremely Frustrated",
+      "title":"Not Ready for Prime Time",
+      "location":"Westport, CT",
+      "review":"The small drive gear is a nightmare. Although the fit on the motor shaft is snug to start with, it will slip after a few hours of use. There was no provision for a set screw so I drilled and tapped my own hole. Unfortunately, the gear plastic is too soft and the threads for the set screw strip. I am still working on a solution. I may end up pinning the gear across its diameter through a hole drilled in the motor shaft.",
+      "orig_date_added":"2014-08-18 05:13:56",
+      "images":""
+   },
+   {
+      "item_id":"du4exupkit",
+      "stars":5,
+      "name":"Nick",
+      "title":"Easy and AWESOME",
+      "location":"New York",
+      "review":"This dual extruder upgrade is super easy to install and I can't wait to start using Ninja Flex filament with it. I have a Replicator 2X and this fit my machine perfectly. I am starting to get better prints with PLA and going to star the awesome Ninja Flex Filamnet",
+      "orig_date_added":"2014-08-15 16:38:48",
+      "images":""
+   },
+   {
+      "item_id":"du4exupkit",
+      "stars":5,
+      "name":"M Grif",
+      "title":"Easy to do Upgrade kit for dual extruder",
+      "location":"Thornton TX",
+      "review":"Great Kit for Upgrading extruder, best if download instructions from Wanhao site just to<br />be sure put togeather correctly. Take your time and the kit will work. Kit is for Both extruders and again take your time and your be happy. If problem email makergeeks for assistance you get it quickly.",
+      "orig_date_added":"2014-07-07 06:12:33",
+      "images":""
+   },
+   {
+      "item_id":"1platofco",
+      "stars":5,
+      "name":"Brett",
+      "title":"Great filament!",
+      "location":"Socal",
+      "review":"I ran this filament at 213c  and it works great. Seriously recommend, and I will be purchasing again.",
+      "orig_date_added":"2014-09-18 20:16:08",
+      "images":""
+   },
+   {
+      "item_id":"plasaorco11s",
+      "stars":4,
+      "name":"Jordan the leperchuan",
+      "title":"Smooth print",
+      "location":"Southbury,CT",
+      "review":"This filament is amzing; it prints out smooth and is really tough. <br /><br />Warning if you print to high it does get clogged quick!!",
+      "orig_date_added":"2014-08-16 13:58:16",
+      "images":""
+   },
+   {
+      "item_id":"jawhulplafi0",
+      "stars":5,
+      "name":"Burt",
+      "title":"Jade White, excellent product.",
+      "location":"Oak Park, IL",
+      "review":"This PLA prints beautifully. It looks much like Natural ABS but is a slightly brighter white. I think it actually looks nicer than pure white PLA but that's really an aesthetic choice. I find the material prints better slightly hotter (around 225C) vs. most PLA that I've used (around 212C).",
+      "orig_date_added":"2014-08-25 08:42:14",
+      "images":""
+   },
+   {
+      "item_id":"jawhulplafi0",
+      "stars":5,
+      "name":"Chris",
+      "title":"Works great",
+      "location":"Ohio",
+      "review":"Good color and extrudes great",
+      "orig_date_added":"2014-08-19 16:17:51",
+      "images":""
+   },
+   {
+      "item_id":"jawhulplafi0",
+      "stars":5,
+      "name":"LV_Maker",
+      "title":"consistent",
+      "location":"Las Vegas",
+      "review":"It prints very well and consistent. Its flexible, printed thin and rigid printed thick. I am going to buy more. Highly recommend this plastic.",
+      "orig_date_added":"2014-07-04 11:46:46",
+      "images":""
+   },
+   {
+      "item_id":"jawhulplafi0",
+      "stars":5,
+      "name":"DigitalChad",
+      "title":"Best PLA I have used!",
+      "location":"Olyphant, PA",
+      "review":"I was trying to use other filament but they were jamming so much and the jams were rough on my E3D print head. I had to take it apart a lot. I finally listened to a friend and tried the Ultra PLA. What a difference. I'm able to do large prints like the parametric music box and a relief map of Australia without having to sit and watch the print. Yeah, I have kids. They are going to fight over the MakerGeeks sticker in the box that will comewith the 3 new spools I just ordered. I can feel it. This afternoon my son and I are going to design custom building blocks...whatever that means.",
+      "orig_date_added":"2014-05-19 09:55:02",
+      "images":""
+   },
+   {
+      "item_id":"eapla3dprfi11",
+      "stars":4,
+      "name":"CalebC",
+      "title":"Great filament for my first spool",
+      "location":"Seattle",
+      "review":"This is my first spool of PLA, and filament in general, and I'm very pleased. It oozes a little bit but that sounds common. I imagine as I get my printer tuned better it'll be less of a problem. Regardless it's treated me well and I'll be buying more spools in the future!",
+      "orig_date_added":"2014-10-22 09:35:16",
+      "images":""
+   },
+   {
+      "item_id":"plasi11sp",
+      "stars":5,
+      "name":"woody",
+      "title":"Foxy Silver Beautiful Color",
+      "location":"stamford, CT",
+      "review":"Very nice printing, color is really nice. I printed a tall slender ukulele neck 10&quot; high 3/8&quot; thick by 1.75 wide and had no warping at all. Beautiful.<br />It is very consistent in diameter and I was able to print parts on a kossel mini at full speed 85 mm/s<br />using repetier. I printed a complete berry tripper er with no clogging at all. This filament never clogged. I purchased this from makergeeks because people on the google delta groups recommended them.",
+      "orig_date_added":"2014-08-11 07:08:38",
+      "images":""
+   },
+   {
+      "item_id":"plasico11sp3mm",
+      "stars":5,
+      "name":"Sid",
+      "title":"Nice blue color",
+      "location":"Oregon",
+      "review":"Used this to print parts for a competitive robot. Color was a really nice blue. Easy to print.",
+      "orig_date_added":"2014-08-22 19:16:00",
+      "images":""
+   },
+   {
+      "item_id":"plabayeco11s",
+      "stars":5,
+      "name":"Ken Thorne",
+      "title":"Prints beautifully",
+      "location":"Layton, UT",
+      "review":"This material prints very nicely.",
+      "orig_date_added":"2014-08-25 08:23:48",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1rare",
+      "stars":4,
+      "name":"nate",
+      "title":"more pink than red",
+      "location":"manitowoc, wi",
+      "review":"worked well right out of the box, but had to set it up so that the extruder was pulling off what it needed, otherwise the filament would jump off the roll and tangle.  to the filament's credit, it bent but didn't break, so the tangles weren't too hard to deal with",
+      "orig_date_added":"2015-01-01 10:04:29",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/04/36/55872340_501031_full.jpg"
+   },
+   {
+      "item_id":"3dprfisala1",
+      "stars":4,
+      "name":"Auxs",
+      "title":"Great for Landscape Printing",
+      "location":"San Jose, CA",
+      "review":"This filament has a beautiful color and has been great for printing landscape pieces for a friend's model train display.",
+      "orig_date_added":"2014-08-25 10:38:37",
+      "images":""
+   },
+   {
+      "item_id":"mabrboxkit",
+      "stars":5,
+      "name":"RickD",
+      "title":"Brain Box Ready to Print",
+      "location":"Greenville, South Carolina",
+      "review":"Awesome Customer Service...Joshua is very knowledgeable and responds to every inquiry!",
+      "orig_date_added":"2014-08-19 13:22:33",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":4,
+      "name":"Jack the best",
+      "title":"Looks cool",
+      "location":"San Jose , California",
+      "review":"Give software idears",
+      "orig_date_added":"2015-04-14 14:25:44",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":3,
+      "name":"Makin Bacon",
+      "title":"Way to long.",
+      "location":"Auburn CA",
+      "review":"The items seam to be all in good condition.",
+      "orig_date_added":"2015-03-10 17:28:38",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":5,
+      "name":"Dom",
+      "title":"Great Parts and Service",
+      "location":"San Jose, CA",
+      "review":"I used these parts to build my Kossel Mini. They arrived quickly in the color of my choice and required no cleanup other than cutting off the supports Johann designed into the frame corners.",
+      "orig_date_added":"2014-08-25 13:38:25",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/04/42/52753232_458244_full.jpg"
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":5,
+      "name":"Double R",
+      "title":"Excellent quality!",
+      "location":"Goleta, CA",
+      "review":"The kit was shipped very quickly and was exactly as described. The parts really didn't need any further clean up before assembly. Everything fit as it was supposed to and the finished product looks great. I have already recommended this to several colleagues who are looking to get their own printer.",
+      "orig_date_added":"2014-08-25 09:18:08",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":5,
+      "name":"Glen",
+      "title":"Just Awesome",
+      "location":"Wellington, New Zealand",
+      "review":"First off I brought these parts from here because they were 1/9th of the cost of sourcing these locally, I was expecting these to take a couple of months at least to turn up, But the 9th day they turned up all the way down here in New Zealand. You guys are just awesome",
+      "orig_date_added":"2014-08-21 13:46:05",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":4,
+      "name":"Vulcan Grey",
+      "title":"Bought for my first printer build.",
+      "location":"Boulder, CO",
+      "review":"I bought this kit since I did not yet have a printer.  This became my first printer.  Assembly was easy, no problems with parts.  I chose the glow in the dark blue, and it does glow in the dark.  Came with 2 types of extruder printed parts, I chose the airtripper, which works great.",
+      "orig_date_added":"2014-08-20 14:54:32",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":5,
+      "name":"Stephen",
+      "title":"Perfect for getting started",
+      "location":"Oregon",
+      "review":"When I was sourcing parts to build my scaled up mini Kossel I looked at a few places that offered the printed parts. None looked to be the quality or speed of Maker Geeks. After receiving the parts I was not disappointed the print quality was great and the printing and shipping time was quick. Would definitely recommend anyone who is starting to build a Kossel to pick these up if they can't print them themselves.",
+      "orig_date_added":"2014-08-17 09:30:43",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":5,
+      "name":"Natasha",
+      "title":"LOVE IT!",
+      "location":"Boston, MA",
+      "review":"I ordered this kit a few weeks ago in the Princess Pink Ultra PLA---it looks AMAZING!!!  Parts arrived quickly and so far everything has been going great. The communication and service was also fantastic!",
+      "orig_date_added":"2014-05-31 11:53:19",
+      "images":""
+   },
+   {
+      "item_id":"ko3dprkit",
+      "stars":5,
+      "name":"Kossel-Man",
+      "title":"Great Kit, Solid Maker Shop Here",
+      "location":"Dallas, TX",
+      "review":"I saw that Johann, the inventor of this 3D printer recommended Joshua at Maker Geeks on his blog about the Kossel Mini so I thought I would give him a try - took about a week for the parts to get printed out and they shipped it quick - everything came in good shape and was ready for all my other parts (I also ordered the Getting Started Pak that Josh sells here) - I wish I had picked a better color for my printed parts but other than that it's awesome!! Thanks Josh..",
+      "orig_date_added":"2014-05-07 12:29:14",
+      "images":""
+   },
+   {
+      "item_id":"platrredco113mm",
+      "stars":5,
+      "name":"Billdapart",
+      "title":"Best PLA available",
+      "location":"Boulder, Co.",
+      "review":"I have bought PLA from no less than 15 different venders and this PLA is BY FAR the best value. The filament is always within .1 of 2.8mm and I've even run 3 different spools without any re-calibration due to time limitation and had excellent results. I wouldnt buy my PLA anywhere else.",
+      "orig_date_added":"2014-08-11 07:29:38",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/04/47/52479014_453992_full.jpg"
+   },
+   {
+      "item_id":"prblplafi0",
+      "stars":5,
+      "name":"Blizz",
+      "title":"Black PLA",
+      "location":"Upstate, NY",
+      "review":"Great quality PLA, doesn't string even if printing at higher speeds. Love the over-sized spool so it doesn't kink easily as well!",
+      "orig_date_added":"2014-05-07 12:20:17",
+      "images":""
+   },
+   {
+      "item_id":"cafirepla1kg",
+      "stars":5,
+      "name":"Bob the printer",
+      "title":"Blew me away.",
+      "location":"Tampa, FL",
+      "review":"I'm using this filament to print out cases for the new iPhone 6 and 6+. It prints amazing and is very strong. I wouldn't print anything that needs to be flexible with it because well it's very stiff. I really like the color of it even though it only comes in black. Haven't had any order for it yet due to the fact that it is expensive and only comes in black. It makes some great cases. I'm actually struggling to say anything bad about it. The filament is very brittle but the parts are not brittle at all.",
+      "orig_date_added":"2014-09-18 11:54:48",
+      "images":""
+   },
+   {
+      "item_id":"plafiglindar",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Lovely shade of red",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-I like doing color combonations with glow in the dark colors and non glow colors.<br />-I have used this color mostly for light switch<br />refacing.<br />-Don't really have any complants on this stuff.<br />It prints nicely and hasn't failed me yet.",
+      "orig_date_added":"2014-08-14 17:18:13",
+      "images":""
+   },
+   {
+      "item_id":"plafiglinday1",
+      "stars":5,
+      "name":"alfonsopyro",
+      "title":"Fun filament for fun things.",
+      "location":"Sacramento, Ca",
+      "review":"I bought this filament to print out some fun glow in the dark stars and I have to say that I was not dissapointed. It glows very bright and prints extremely well.",
+      "orig_date_added":"2014-08-25 12:44:54",
+      "images":""
+   },
+   {
+      "item_id":"re3dprcakitd",
+      "stars":5,
+      "name":"Jeremy Beasley",
+      "title":"Keep these on hand!",
+      "location":"Stafford, VA",
+      "review":"I keep a whole bunch of these on hand becuase there are so many uses for them!  I use them on both of my 3d printers as well as in my quadcopters.<br /><br />I cannot recomend these enough.",
+      "orig_date_added":"2014-08-15 17:48:02",
+      "images":""
+   },
+   {
+      "item_id":"t3dprpakffi",
+      "stars":4,
+      "name":"Angie the MOM",
+      "title":"Nice filament",
+      "location":"Columbia, MD",
+      "review":"Printed well once we got the nozzle temp right. We printed it at 235 and 60 on the bed for our Flashforge Creator X. Printed a beautiful castle and snowflake ornaments.",
+      "orig_date_added":"2014-08-28 08:24:12",
+      "images":""
+   },
+   {
+      "item_id":"ra14smlcdcow",
+      "stars":4,
+      "name":"GreenBeast",
+      "title":"Best Price for Smart Controller",
+      "location":"Arroyo Grande, CA",
+      "review":"The LCD Smart Controller from Makergeeks.com works great. Upon arrival the knob kept getting stuck, but discovered that the nut under the knob was just loose. Most likely came loose during transite.  Proceded to tighten it and now the controller works like a champ. My only problem with it is the ribbon cables, they are faily short so you must mount the Smart Controller close to where your arduino board is.",
+      "orig_date_added":"2014-08-19 09:03:50",
+      "images":""
+   },
+   {
+      "item_id":"ra14smlcdcow",
+      "stars":5,
+      "name":"woody",
+      "title":"Smart LCD Controller Rules!",
+      "location":"stamford, CT",
+      "review":"This is perfect for independent printing. Make sure you use relatively newer cards in this unit. I tried to use a 4gb 5 year old card and it would not recognize that. No big deal. Newer cards are MUCH faster. I returned the first one because the main push know would stick in. I thick it may have been the know and not he pot, but Joshua (owner) replaced it any way without out waiting for me to mail it back.  Other than that the unit performs excellent and I love having it. Lots of feature, that I haven't even tried yet. I am very happy",
+      "orig_date_added":"2014-08-11 07:25:31",
+      "images":""
+   },
+   {
+      "item_id":"popoplatrbl02",
+      "stars":4,
+      "name":"Super Stonegiant",
+      "title":"A nice translucent blue",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--230deg on duplicator4.<br />--It is a little bit pricey for .75kg spool.<br />--may want to use more than 15% infill, or more shell layers. I had a little bit of a sinking issue on top layers.",
+      "orig_date_added":"2014-08-20 19:05:03",
+      "images":""
+   },
+   {
+      "item_id":"ma50gica",
+      "stars":5,
+      "name":"TXlady",
+      "title":"AWESOME gift for my husband",
+      "location":"Plano, TX",
+      "review":"...For those husbands that don't tell you what they want for their birthday or Father's Day or Christmas, but have been drooling over a 3D printer for a long time.<br /><br />So contribute! It's awesome because if you can't afford a 3D printer outright just yet, you can make sure there's something going towards it.<br /><br />Thanks for the great idea, Maker Geeks!",
+      "orig_date_added":"2014-08-21 21:25:45",
+      "images":""
+   },
+   {
+      "item_id":"ma50gica",
+      "stars":5,
+      "name":"parkynspace",
+      "title":"Great idea to buy a 3d printer",
+      "location":"Plano",
+      "review":"This is a great way to save up for a 3d printer. I can not afford a 3d printer in one full payment but this provides a great way to buy a printer when you have money. The gift cards also make a great birthday and Christmas gift idea. They even count as part of the 10% discount promotions. Great idea!",
+      "orig_date_added":"2014-08-21 20:59:19",
+      "images":""
+   },
+   {
+      "item_id":"ta618ny3dprf",
+      "stars":4,
+      "name":"Auxs",
+      "title":"Flexible but Strong",
+      "location":"San Jose, CA",
+      "review":"The nylon filament is flexible yet still hard enough to not compromise the integrity of your design.  I have made a couple of phone cases in fact because the flexibility allows to easily put on and remove the case while the strength helps to protect your phone.",
+      "orig_date_added":"2014-08-25 10:49:04",
+      "images":""
+   },
+   {
+      "item_id":"ta618ny3dprf",
+      "stars":5,
+      "name":"rckt_man",
+      "title":"Great material, but prefer Taulman 645.",
+      "location":"Tucson, AZ",
+      "review":"Great material once I got the extrusion temperature just right. Makergeeks temperature suggestions are a great help, but did take some additional trial and error. <br /><br />Might as well just get the 645 since 618 prints the same, but has lower material properties. Both look identical while printing and after printing.<br /><br />Dont worry when you see bubbles in the material coming out of the nozzles, it's water vaporizing.",
+      "orig_date_added":"2014-08-25 08:20:50",
+      "images":""
+   },
+   {
+      "item_id":"ta618ny3dprf",
+      "stars":4,
+      "name":"GreenBeast",
+      "title":"Tricky to print but is High Quality",
+      "location":"Arroyo Grande, CA",
+      "review":"Taulman 618 overall is a high quality filament to utilize for smaller objects(to help decrease the likely-ness of warping). In printing with 618 I have gotten it to successfully stick to blue painter's tape, yet later in the print experience significant warpage, though I was printing a very large object. I would recommend this filament for someone looking for high quality filament at a great price with a little challenge.",
+      "orig_date_added":"2014-08-20 21:04:11",
+      "images":""
+   },
+   {
+      "item_id":"flecbl1",
+      "stars":5,
+      "name":"bandanam4n",
+      "title":"neat product once you master printing it",
+      "location":"Denmark wi",
+      "review":"I had a really hard time learning to print with this, got the best results at 18mm/s on my Flashforge Creator pro.",
+      "orig_date_added":"2014-08-31 08:29:37",
+      "images":""
+   },
+   {
+      "item_id":"flecbl1",
+      "stars":5,
+      "name":"Syck",
+      "title":"flex pla -- best flex filament",
+      "location":"Texas",
+      "review":"I used this flexible filament on a MakerBot 2X. The results where very nice and when I got the process down very reliable print results. Thank you makergeeks!",
+      "orig_date_added":"2014-08-20 14:52:09",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/13/52657737_456757_full.jpg"
+   },
+   {
+      "item_id":"flecbl1",
+      "stars":4,
+      "name":"Chad H.",
+      "title":"Very interesting, needs some TLC",
+      "location":"Pinellas Park, FL",
+      "review":"This material is a lot of fun to use, but it takes some getting acquainted with. I have had mixed results, but things keep getting better. Be sure to use either a good surface material or some ABS juice to get it to stick.<br /><br />Overall I'd rate it as a good flexible alternative to the more rigid filaments if you're willing to work with it.<br /><br />Happy printing!",
+      "orig_date_added":"2014-08-11 12:11:11",
+      "images":""
+   },
+   {
+      "item_id":"flecbl1",
+      "stars":4,
+      "name":"jaberman",
+      "title":"flexibility is key",
+      "location":"Corvallis OR",
+      "review":"I used this filament to make a batman mask for halloween.",
+      "orig_date_added":"2014-08-11 11:50:37",
+      "images":""
+   },
+   {
+      "item_id":"cecahefor3dp",
+      "stars":4,
+      "name":"MrMaint (Mr. Maintenance)",
+      "title":"Using for a heated print bed - Printrbot",
+      "location":"Pacific Northwest, WA, USA",
+      "review":"I also purchased the 100K Ohm thermisters to use with my Arduino board and a relay module to create a temperature controller. I plan on using these to heat my melting pot for a 3-D filament extruder that I am designing and building.<br /><br />I am also thinking about using these for my custom hot end design.",
+      "orig_date_added":"2014-08-25 19:29:45",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/16/52756598_458322_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/05/16/52756598_458323_full.jpg"
+   },
+   {
+      "item_id":"nitpe3dprfim",
+      "stars":5,
+      "name":"bandanam4n",
+      "title":"ninja flex: the next generation",
+      "location":"Denmark Wi",
+      "review":"it took me 5 days of printing to master this product. its very hard to print reliably but once you take it slow its a beauty.",
+      "orig_date_added":"2014-08-31 08:39:17",
+      "images":""
+   },
+   {
+      "item_id":"nitpe3dprfim",
+      "stars":5,
+      "name":"Michele31415",
+      "title":"Very handy",
+      "location":"Planet Claire",
+      "review":"Ninja Flex is a great product but tricky to work with.  It will not print on a standard Printrbot+ because it is so flexible it bunches up after the extruder feed roller and jams.  However, it is easy to add a small guide tube to the extruder.  With that in place, you can print with this.<br /><br />I print on glass with a layer of ABS juice, cold bed, 220 deg. extruder, 0.5 mm. nozzle.  It's important to go very slowly to avoid skipping, stringing, or clogging (20 mm/sec).  I also always print this with a brim, mostly to serve to re-prime the extruder.  This stuff liquifies easily and will all dribble out the nozzle before you can get the print started.<br /><br />But the results are worth the effort and open a whole new world of 3-D objects to you.  You can print replacement faucet washers, custom replacement rubber drive belts or idler tires for old tape recorders, and wheels or tank treads for robots.<br /><br />Note that NinjaFlex is much softer than the eco flex PLA Makergeeks sells.  It also has better stretch characteristics and is very strong.  I tested a 0.5 mm. loop of Ninja Flex to 3 kg. without breaking.<br /><br />This is a unique product that lets you makes things impossible to create with any other material.",
+      "orig_date_added":"2014-08-15 10:16:05",
+      "images":""
+   },
+   {
+      "item_id":"suteabsfunpa",
+      "stars":4,
+      "name":"Printed Concepts",
+      "title":"Good for Sampling Maker Geeks Offerings",
+      "location":"Virgina",
+      "review":"Good way to sample some of Maker Geeks colors and how they compare to other sources in terms of quality.  Can make a few small parts out of it.",
+      "orig_date_added":"2014-08-13 21:26:57",
+      "images":""
+   },
+   {
+      "item_id":"flecna1",
+      "stars":4,
+      "name":"Super Stonegiant",
+      "title":"Many possibilities",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-210deg on Dup4<br />-I have only had a chance to print a sample piece on the Duplicator4, but it looks like it's going to make some prints. <br />-Easyer to work with than Ninjaflex. I haven't given up yet on Ninjaflex, but for now it looks like I will be using this stuff for flexable projects.<br />-I tried like crazy to get this to work on the Solidoodle2, but with little luck. It kept getting sucked up under the groved gear, in the extruder. That means I will not even try Ninjaflex on it.",
+      "orig_date_added":"2014-08-14 18:28:02",
+      "images":""
+   },
+   {
+      "item_id":"flecna1",
+      "stars":4,
+      "name":"Ziggy",
+      "title":"Flex EcoPLA on makerbot",
+      "location":"Monterey CA",
+      "review":"Ok so On my Makerbot Rep2 I tried as sugjested, I slowed the print down and lowered the temp. I could not get it to print tried all kids of stuff and it would fail sometime into the print.. Then I ran it ad the default medium res setting for PLA and low and behold it prints wonderfuly.. flexable and all..<br />I have so many ideas now...:)",
+      "orig_date_added":"2014-05-18 17:08:59",
+      "images":""
+   },
+   {
+      "item_id":"tpe3dprfibl",
+      "stars":3,
+      "name":"Jerry",
+      "title":"Tricky to work with",
+      "location":"Los Gatos, CA",
+      "review":"I haven't been able to reliably print a test model with this yet.  It seems it's a poor match for my printer (Afinia H479).  I have a full range temperature control but I haven't been able to get it to print reliably.  Problems I have are it gets blobby, jams the feeder, and welds the raft on.  With low enough temperature I HAVE gotten the raft to come off ok but it jams even more and won't even finish the 4 gram model.<br /><br />So, if you have an Afinia or similar printer, I wouldn't recommend it.  I hear it works really well with the right printer setup.",
+      "orig_date_added":"2014-08-15 10:06:16",
+      "images":""
+   },
+   {
+      "item_id":"tpe3dprfibl",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Stain glass look",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-240deg on duplicator4 217deg on Solidoodle2.<br />-Solidoodle2 has a limit of 220. Running this material on Solidoodle is not good on it, but can be<br />done.<br />-Spools unravel to easy. Almost spring loaded.<br />-Even with the cons I still give this a 5, because it is truely beautiful material.",
+      "orig_date_added":"2014-08-13 19:05:58",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/34/52527606_454740_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/05/34/52527606_454741_full.jpg"
+   },
+   {
+      "item_id":"ta645ny3dprf",
+      "stars":4,
+      "name":"Autonomous",
+      "title":"High quality smooth print with NO SMELL",
+      "location":"Minnesota",
+      "review":"I used Taulman 645 for printing a highly cosmetic part for a customer. The result was a very smooth finish and almost no cleanup at all.",
+      "orig_date_added":"2015-04-23 20:54:06",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/35/61512861_544478_raw.jpg"
+   },
+   {
+      "item_id":"ta645ny3dprf",
+      "stars":5,
+      "name":"rckt_man",
+      "title":"Strongest stuff from Makergeeks to-date!",
+      "location":"Tucson, AZ",
+      "review":"Great material once I got the extrusion temperature just right. Makergeeks temperature suggestions are a great help, but did take some additional trial and error. <br /><br />Higher material strength than Taulman 618 Nylon.<br /><br />Dont worry when you see bubbles in the material coming out of the nozzles, it's water vaporizing.",
+      "orig_date_added":"2014-08-25 08:20:52",
+      "images":""
+   },
+   {
+      "item_id":"popopla3dprf1",
+      "stars":5,
+      "name":"Fredjikrang",
+      "title":"The Best!",
+      "location":"Utah",
+      "review":"I have tried about twenty different filaments, including PLA, ABS, and PET, and this is by far the best that I have tried! It is really easy to print, and the parts are super strong! It also has practically zero warp.<br /><br />The only reason I ever print with another filament is because I know that I won't be using the print for anything that needs a lot of strength, so a cheaper filament is okay. But if I am printing something that I need to last, I use this!",
+      "orig_date_added":"2015-03-08 22:41:57",
+      "images":""
+   },
+   {
+      "item_id":"popopla3dprf1",
+      "stars":5,
+      "name":"Jeremy Beasley",
+      "title":"YOU NEED THIS!",
+      "location":"Stafford, VA",
+      "review":"I use this to print the arms of my quadcopters and tricopters.  It is stronger than ABS and is actually PLA!<br /><br />This is a must have for any rep-rapper.",
+      "orig_date_added":"2014-08-15 17:42:27",
+      "images":""
+   },
+   {
+      "item_id":"pladedagrco13mm",
+      "stars":5,
+      "name":"cfaulkingham",
+      "title":"Nice sea green semi-translucent",
+      "location":"Saint Louis MO",
+      "review":"This filament printed surprisingly well. It produced a smooth looking nice sea green color that was semi translucent. Unlike some other filaments I have had no problems with blobs or stringing.",
+      "orig_date_added":"2014-08-11 06:57:14",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/45/52478324_453972_raw.jpg,http://powerreviews.s3.amazonaws.com/images_customers/05/45/52478324_453973_raw.jpg"
+   },
+   {
+      "item_id":"absgoco11sp",
+      "stars":4,
+      "name":"rckt_man",
+      "title":"Unreliable Printing, But looks good",
+      "location":"Tucson, AZ",
+      "review":"Material worked great for the first 2 weeks, but then had a series of intermittent jamming issues. May have been associated with high humidity, but also could have been poor control of filament diameter within the spool.<br />In the end worth the small headaches if you've got the time to scrap a few bad prints.",
+      "orig_date_added":"2014-09-02 08:19:30",
+      "images":""
+   },
+   {
+      "item_id":"absgoco11sp",
+      "stars":4,
+      "name":"rckt_man",
+      "title":"Some print troubles",
+      "location":"Tucson, AZ",
+      "review":"Granted I was printing during monsoon season so humidity was unusually high, but this material was consistently jamming during that period. It worked well for the first 2 weeks of small prints, but then gave me a lot of trouble. It could have been the moisture, but also could have been a variable diameter of the filament, don't know for sure.",
+      "orig_date_added":"2014-09-02 07:11:03",
+      "images":""
+   },
+   {
+      "item_id":"platrpuco11s3mm",
+      "stars":4,
+      "name":"Bridger 3D",
+      "title":"good quality filament for presentations",
+      "location":"Bozeman, MT",
+      "review":"The color of this filament is completely different from the one on the picture, but it is really nice. Elementary school aged girls especially like making things using this filament.",
+      "orig_date_added":"2015-03-30 08:40:07",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/58/60254667_533008_raw.jpg"
+   },
+   {
+      "item_id":"nitpe3dprfis1",
+      "stars":5,
+      "name":"Pip",
+      "title":"NinjaFlex is crazy stuff!",
+      "location":"Woodland Hills, CA",
+      "review":"Got it to tes the filament....this stuff is really flexible but really strong as well!  It was a bit of a pain to setup a new extruder to print it, but when you do get it to print, it's amazing!",
+      "orig_date_added":"2014-08-28 15:17:22",
+      "images":""
+   },
+   {
+      "item_id":"smlwablfi11",
+      "stars":5,
+      "name":"GeckospotNixie",
+      "title":"Outstanding Low Low split factor",
+      "location":"East Cost USA",
+      "review":"Now I don't write reviews as a rule. But I just had to let all know the outstanding results that I have had with this filament. <br />First I would not make a vase out of this filament but for mechanical parts it is outstanding.<br />I had parts that I was having issues with splitting with like 8 to 10 big splits per part with this I get maybe 1 or 2 small splits now. It is heavier that standard ABS by volume so you can back off on the infill by a min of 10%.<br />The parts come out with some weight to them so they don't have that light chip feel to them. I find that I have to run this at a little higher temp then normal ABS. So I running at 244C but I'm sure that my temp sensor is reading low by about 5C.",
+      "orig_date_added":"2014-07-17 04:38:32",
+      "images":""
+   },
+   {
+      "item_id":"3dprkitxtpa",
+      "stars":4,
+      "name":"MeshBomb1",
+      "title":"Everything you need",
+      "location":"Ypsilanti, MI",
+      "review":"This kit was a huge time saver. This is my second RepRap build. When I made the first RepRap I sourced everything separately from sources all over the world. If I had gone with one of these kits it would have saved me a lot of trouble. Great kit.",
+      "orig_date_added":"2014-08-27 10:18:00",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/75/52786406_458859_full.jpg"
+   },
+   {
+      "item_id":"3dprkitxtpa",
+      "stars":5,
+      "name":"Double R",
+      "title":"Great kit to start with!",
+      "location":"Goleta, CA",
+      "review":"Again the service and delivery were awesome. This kit is mostly what you would need to build a mini Kossel. It should be perfect for a Mendel. Make sure and check your parts list and get the extra stuff from Makergeeks that you will need! Also, Joshua answers questions very quickly and is a big help in working out some of the kinks in your first printer build.",
+      "orig_date_added":"2014-08-25 09:24:41",
+      "images":""
+   },
+   {
+      "item_id":"clabscl10",
+      "stars":2,
+      "name":"JMS3DPrinting",
+      "title":"Comparing Clear with white ABS",
+      "location":"Mt Dora, Florida",
+      "review":"I wanted to try this clear material to see if it would work for either seeing objects behind it (small windows for models) or as a way to allow light to come through a print.  I compared it to standard ABS white filament.  I printed it on an Afinia printer with the ABS setting.  The samples were printed at 1.8 mm thickness full density.  I also show the raft, which is even thinner and less dense.  I put a color graphic behind each piece and also did a test with a light source.  You be the judge, but I don't think there is much improvement in visibility.  If there is a print setting that would make this come out clearer I wouldn't be able to change it on my machine.",
+      "orig_date_added":"2015-04-12 17:07:30",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/84/60851062_537124_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/05/84/60851062_537125_full.jpg"
+   },
+   {
+      "item_id":"me15re3dprki",
+      "stars":1,
+      "name":"Webbyone",
+      "title":"Kit Pictured it not what you are getting",
+      "location":"North Carolina",
+      "review":"have yet to receive all my parts, have double parts on some pieces. Took over six weeks to get, took me a week to figure out was missing some parts that are promised on the website. If your a noob like me don't buy this kit, too much is missing.",
+      "orig_date_added":"2015-04-10 10:15:19",
+      "images":""
+   },
+   {
+      "item_id":"duplicator5__3d__printer",
+      "stars":5,
+      "name":"3Deranged",
+      "title":"LOVE MY WANHAO 5S!",
+      "location":"Groveland, Fl",
+      "review":"Got the machine and set it up relatively quickly and had my first test objects printed out next day. Had an issue only to my inexperience as this is my first 3D printer. Joshua helped me out right away and now it's printing just fine. I'm familiar with CNC routers and drills but this is my first foray into additive printing. I must say it has changed my mind towards these machines. They are the future and I love it! Thanks to MakerGeeks for support and service and I look forward to many hours of printing!",
+      "orig_date_added":"2015-03-13 15:59:02",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/09/58/59214301_527820_full.jpg"
+   },
+   {
+      "item_id":"duplicator5__3d__printer",
+      "stars":4,
+      "name":"D5S First timer",
+      "title":"Duplicator 5S review from MakerGeeks.com",
+      "location":"Northeast Ohio",
+      "review":"Purchased the Duplicator 5S from MakerGeeks.com and glad I did.  This printer is great, even for the first timer like myself.  MakerGeeks.com support has been great.  They have answered all of my questions and very quickly.  I can't be happier with their support and this printer.<br /><br />The Duplicator 5S is a big printer and best value for it's build volume from my research.  Just keep in mind that because it has a larger build volume, it's more critical to calibrate your bed and absolute levelness.  After working with my printer and dialing it in, I get great results.<br /><br />The documentation for this printer is a bit sparse leaving the first timer a bit confused with all your questions... but the basic manual gets you started quickly and once you get the hang of it, you really don't need any full blow manual.",
+      "orig_date_added":"2015-01-12 06:03:53",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1sunp",
+      "stars":5,
+      "name":"Warren",
+      "title":"Very happy",
+      "location":"Union Grove, NC",
+      "review":"Home built Delta printer. Trying to calibrate or fine tune with questionable filament is almost impossible. This product printed smooth and consistent allowing adjustments to be made and results seen. I have moved on to printing doll house furniture. Very pleased so far.",
+      "orig_date_added":"2015-02-19 05:37:00",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/97/58246675_520344_full.jpg"
+   },
+   {
+      "item_id":"mafiabs1sunp",
+      "stars":5,
+      "name":"Drifterz28",
+      "title":"Best filament yet",
+      "location":"Portland, OR",
+      "review":"Picked up a spool from Makergeeks and I am vary happy with it, I bought some over brand from another store but it was not half as good as this. the color is nice and prints smooth and consistan.",
+      "orig_date_added":"2014-12-31 10:26:49",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/05/97/55851638_500698_full.jpg"
+   },
+   {
+      "item_id":"plafiglindax",
+      "stars":3,
+      "name":"mediaguru",
+      "title":"Note: Color is bright neon green",
+      "location":"St. Helena, CA",
+      "review":"I was looking for a NEUTRAL (whitish/creamish-colored) glow filament that would glow green in the dark. Most ultra-glow filaments I have seen are this neutral color by day (but green in the dark)<br /><br />The filament I received says &quot;LUMINOUS GREEN&quot;, and is bright neon green green by day (and only faintly/barely glows in the dark)<br /><br />Since there were no pictures or description of this filament in the light, I had no way of knowing it would be this color.",
+      "orig_date_added":"2014-12-28 16:36:57",
+      "images":""
+   },
+   {
+      "item_id":"plafiglindax",
+      "stars":5,
+      "name":"mspir8",
+      "title":"Satisfied",
+      "location":"Fairchance, PA",
+      "review":"Prints very well, not stringy, did not have any troubles with warping and/or clogging of the head.",
+      "orig_date_added":"2014-08-25 14:26:31",
+      "images":""
+   },
+   {
+      "item_id":"emgrulplafi0",
+      "stars":5,
+      "name":"Matt",
+      "title":"Fantastic PLA",
+      "location":"NJ",
+      "review":"Nicest PLA I have used yet. I made about 50 measurements through the whole length of the roll and the diameter was between 1.74 and 1.75mm throughout the length. This is fantastic. <br /><br />Also it is a very nice minty green color.",
+      "orig_date_added":"2014-08-15 09:53:27",
+      "images":""
+   },
+   {
+      "item_id":"emgrulplafi0",
+      "stars":5,
+      "name":"Micubano",
+      "title":"Just as good as the white!",
+      "location":"Olyphant. PA",
+      "review":"I used almost the same settings as the white ultra PLA. I just adjusted the temp a little. Overall great PLA.",
+      "orig_date_added":"2014-06-02 08:15:28",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/06/13/50358571_436212_full.jpg"
+   },
+   {
+      "item_id":"nitpe3dprfip",
+      "stars":4,
+      "name":"Edgar",
+      "title":"Very Flexible and soft material",
+      "location":"Mexico city",
+      "review":"I used to prototype  cases or switches that then should be done with silicon. This is a material that because of its flexibility needs supports or more stability than an Ecoflex PLA OR Flexfil from FormFutura. His touch is very nice and soft. The snow color is very clear. I think it is a good material",
+      "orig_date_added":"2014-08-13 17:22:59",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/06/20/52526808_454716_full.jpg"
+   },
+   {
+      "item_id":"theccchfi",
+      "stars":5,
+      "name":"Tallaustin",
+      "title":"This is Awesome",
+      "location":"St. Paul, Minnesota",
+      "review":"I am using this for research at school. I am researching the strengths of different types of 3d printing plastics.  This was a great addition and it was fun to print little gadgets with it.",
+      "orig_date_added":"2014-08-11 22:05:54",
+      "images":""
+   },
+   {
+      "item_id":"wo3dprfild3",
+      "stars":3,
+      "name":"MichaelD33",
+      "title":"Laywood Filament",
+      "location":"New York, NY",
+      "review":"This laywood filament is nice for printing things with a wood like texture/feel and smell, however this filament cracks very easily and due to the fact that there is no spool with it I have had it tangle many times and during the untangling process, break on me, I have also had it break mid print causing the print to fail, however if you get this filament to work it is very satisfying.",
+      "orig_date_added":"2014-08-15 11:17:41",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/06/41/52557668_455255_full.jpg"
+   },
+   {
+      "item_id":"duexretopr",
+      "stars":5,
+      "name":"rckt_man",
+      "title":"Upgrade for my Makerbot Rep2x",
+      "location":"Tucson, AZ",
+      "review":"I used this as a direct replacement for the stock print heads I had on my Makerbot Replicator 2X. Working well so far, and can't complain. Definitely happy to be away from the poor quality ceramic heat blocks Makerbot used on their original line of 2X's.",
+      "orig_date_added":"2014-09-02 07:06:44",
+      "images":""
+   },
+   {
+      "item_id":"duexretopr",
+      "stars":5,
+      "name":"Toby",
+      "title":"Fits perfectly on makerbot rep2",
+      "location":"Munich Germany",
+      "review":"Replaced my existing single extruder with this guy. <br />Simple rewiring to mightyboard and ready to go with sailfish and replicatorG software.",
+      "orig_date_added":"2014-08-26 13:22:05",
+      "images":""
+   },
+   {
+      "item_id":"3d12cupr123d",
+      "stars":5,
+      "name":"Maker_23",
+      "title":"Great quality printer for a low price",
+      "location":"Portland OR",
+      "review":"I made all my parts on one print since the build area is so large.  Printer ran flawless for 25 hours!  I like the fact all temperatures are easily adjustable even while it's printing.",
+      "orig_date_added":"2014-09-20 18:46:01",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1daas",
+      "stars":5,
+      "name":"mpoffo",
+      "title":"Works great and has a nice finish",
+      "location":"Milwaukee WI",
+      "review":"It was recommended by someone that I try this filament and I am not disappointed.  The quality/finish of the final product seems to be much better than with other filament brands I tried.  I am impressed and will be coming back as long as the price is competitive.",
+      "orig_date_added":"2015-04-25 17:24:17",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/06/83/61587571_545353_full.jpg"
+   },
+   {
+      "item_id":"mafiabs1daas",
+      "stars":5,
+      "name":"nokianich",
+      "title":"Nice filament",
+      "location":"Phila, PA",
+      "review":"Bought this filament last month and finished it yesterday. I love it! little to no shrinkage, sticks well, just bought 3 more spools.",
+      "orig_date_added":"2015-03-04 15:49:08",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1daas",
+      "stars":5,
+      "name":"Rob",
+      "title":"No shrinkage!",
+      "location":"Wake Forest, NC",
+      "review":"At first I didn't like this as it is a lot stiffer than the ABS I've printed with before, but I found it does not shrink while printing.  I was resigned to printing a skirt around all my ABS parts and trimming it away later, but this stuff doesn't need that, it prints flat with no extra work.  I use a Solidoodle 4 with a glass build surface.  A little hairspray on the surface to give it something to stick to, once it cools off the parts just come off on their own.",
+      "orig_date_added":"2015-02-16 06:10:22",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1daas",
+      "stars":3,
+      "name":"Rosa Minaitures and Games",
+      "title":"Inexpensive, color mediocure, good print",
+      "location":"Anderson South Carolina",
+      "review":"I have run a lot of ABS filament through five different machines.  This is a adequate material which gives a good print resolution but is a little weaker (structurally)  than some other brands.  The filament had good consistency and worked well on several different printers.    The  color was more grey and not a deep black.  This brand also has a moderate shrinkage which causes problems when making thin objects on glass pint plates, use lots of hair spray.  Thus it is best when used with a raft or when making larger thicker objects.   <br /><br />Since my products are painted color is not an issue and the other parameters are acceptable, so this filiment is on our purchase list.",
+      "orig_date_added":"2015-01-28 09:27:59",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1daas",
+      "stars":1,
+      "name":"flashforge",
+      "title":"Not happy at all",
+      "location":"Palmeton,PA",
+      "review":"i would never buy this again. edges fold up, does not stick to build plate. I have about 8 rolls of ABS and never have this problem now i get this and cant even use it",
+      "orig_date_added":"2015-01-17 09:26:58",
+      "images":""
+   },
+   {
+      "item_id":"tanyprpak",
+      "stars":5,
+      "name":"rckt_man",
+      "title":"Great material properties and strong!",
+      "location":"Tucson, AZ",
+      "review":"Great material properties and strong!<br /><br />Great material once I got the extrusion temperature just right. Makergeeks temperature suggestions are a great help, but did take some additional trial and error.",
+      "orig_date_added":"2014-08-25 08:12:29",
+      "images":""
+   },
+   {
+      "item_id":"afda3dfipagi",
+      "stars":2,
+      "name":"EL",
+      "title":"Not enough glow",
+      "location":"Moreno Valley, CA",
+      "review":"Used the glow in the dark filaments for an iPhone case and the quality came out great, but I was hopping to get some glow off these &quot;glow in the dark&quot; filaments; and that didn't quite happen.",
+      "orig_date_added":"2015-03-17 19:49:11",
+      "images":""
+   },
+   {
+      "item_id":"afda3dfipagi",
+      "stars":4,
+      "name":"Wolfie",
+      "title":"Some Bright, Some not so much!",
+      "location":"Milwaukee, WI",
+      "review":"Well, I grabbed this pack to see what they were about.  I ran some experiments using LED and UV (LED) light and got some surprising results.  I kinda had hoped they would glow the color they are in white light.  They all glow a faint green to bright green.  One has a light yellow cast to it.<br /><br />Two are very sensitive to UV light (ie glow under blacklight), Green and Yellow.<br /><br />Three (Blue, white and green) were pretty bright after being exposed to UV.  But most of us are printing things that we want to glow from white light.  So, all the glow images below are pictured after charging with white light.<br /><br />The after glow brightness scale is as follows (least to most bright glow):<br />Orange, Red, Green, Pink, Yellow, Purple, White Blue.<br /><br />Two I would not suggest buying for the glow effect, Orange and Red.  Neither was visible to my cellphone camera nor my tablet camera.  I had to break out my D7000 DSLR and crank up the ISO to 6400 before I could see them at all.<br /><br />The Blue, White and Purple rock!  They are pretty bright.",
+      "orig_date_added":"2015-02-21 18:13:35",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/06/95/58340498_521300_raw.jpg,http://powerreviews.s3.amazonaws.com/images_customers/06/95/58340498_521301_raw.jpg"
+   },
+   {
+      "item_id":"afda3dfipagi",
+      "stars":4,
+      "name":"D John",
+      "title":"It GLOWS!",
+      "location":"MN",
+      "review":"*Was looking to see what my printer would print so a glow in the dark sample pack it was! <br />*The Extra Bright / White / Clear  glows very bright when exposed to my LED flashlight! recommend this!<br />*The other colors print bright but do not glow very bright or long!",
+      "orig_date_added":"2014-08-31 11:27:16",
+      "images":""
+   },
+   {
+      "item_id":"smlwablfi1",
+      "stars":5,
+      "name":"Shutterspeed",
+      "title":"This stuff sticks!",
+      "location":"Franksville, WI",
+      "review":"I have been using this with regular red ABS in two color printing and it has been working very well.",
+      "orig_date_added":"2014-08-25 08:56:49",
+      "images":""
+   },
+   {
+      "item_id":"smlwablfi1",
+      "stars":5,
+      "name":"rckt_man",
+      "title":"Low warp is right!",
+      "location":"Tucson, AZ",
+      "review":"A great direct replacement for ABS parts, where you can't afford the warping often associated with ABS as it cools on the built platform. A MUST for larger parts.",
+      "orig_date_added":"2014-08-19 07:42:56",
+      "images":""
+   },
+   {
+      "item_id":"smlwablfi1",
+      "stars":4,
+      "name":"Shutterspeed",
+      "title":"Sticks well!",
+      "location":"Franksville, WI",
+      "review":"I have some ABS that came with my printer and this seems to stick much better to the build platform.  I use a heated platform, 3M painters tape and Aquanet Extra hold hairspray.",
+      "orig_date_added":"2014-08-16 11:38:46",
+      "images":""
+   },
+   {
+      "item_id":"zepttu3dprho",
+      "stars":5,
+      "name":"Natasha",
+      "title":"Did the job!",
+      "location":"Boston, MA",
+      "review":"I bought this after I melted the tube in one of my hot-ends. This piece worked great, got me printing again in no time and is a much better price than other places I've seen.",
+      "orig_date_added":"2014-08-18 12:23:53",
+      "images":""
+   },
+   {
+      "item_id":"3dprsphokit",
+      "stars":3,
+      "name":"Gary the retired Engineer",
+      "title":"Needs rework",
+      "location":"Fort Myers, Fl",
+      "review":"Earlier reviewers commented that not all spools would fit, in my case the spool was not wide enough &amp; rubbed on the inside face of the holder. One of the rectangular slots was not cut all the way through, so I took care of that with a scalpel. The biggest problem was that the structure was not very rigid &amp; that the washers supplied shorted out the bearings. I fixed the problems by removing the lower plate &amp; replacing the bolts with 2 5&quot; 3/8 carriage bolts. with suitably located nuts any width spool can be accommodated. I retained the 4 spacers &amp; further stiffened the structure by drilling through the outer plates &amp; clamping them together with a M4X25 bolt &amp; nut. Using washers that contacted the inner race only allowed me to securely clamp the bearings using the carriage bolts. The result is a sturdy smooth rolling holder which works perfectly.",
+      "orig_date_added":"2014-09-23 11:47:54",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/07/13/53230246_466805_full.jpg"
+   },
+   {
+      "item_id":"3dprsphokit",
+      "stars":4,
+      "name":"Strangeloop",
+      "title":"Simple and easy to modify as well",
+      "location":"Atlanta, GA",
+      "review":"The product is very easy to assemble and use. The quality of the materials is good and durable. Perfect pricing for a perfect helper tool for 3D printers.<br /><br />I had to make a narrower plate to make the holder fit my spools. I have uploaded the plate on thingiverse for other users who need this modification. thing:430824",
+      "orig_date_added":"2014-08-19 06:58:17",
+      "images":""
+   },
+   {
+      "item_id":"3dprsphokit",
+      "stars":4,
+      "name":"Stone Stonegiant",
+      "title":"Extruder life saver.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-I realized, after I had to replace the extruder motor on my Solidoodle, just how much stress spools can put on extruders, constantly pulling on them. That new extruder motor cost me 35 dollars.<br />The Makergeeks spoolholder, or as I like to call it<br />&quot;spoolcradle&quot;, reduces stress and friction.<br />-As you begin to buy different brands of filament, you will find different size spool holes, which can cause problems. The spool cradle eliminates those problems.<br />-I have modified the spoolcradle with 4 more 608zz bearings, to compensate for different spool widths.<br />-I may have to further mod this by cutting the center piece in about 1/4 inch, on both sides, to fit more spools.<br />-Still with modifications, this is a must buy. For over 15 dollars I could save 35 dollars, time,and stress.<br />-T-glass spools are too small to work on this.<br />-I may buy some of Makergeeks spools to work around some spools that won't fit.",
+      "orig_date_added":"2014-08-13 21:28:10",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/07/13/52528956_454767_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/07/13/52528956_454768_full.jpg"
+   },
+   {
+      "item_id":"rbkitaurubab",
+      "stars":5,
+      "name":"joe",
+      "title":"wow",
+      "location":"ohio",
+      "review":"The auto",
+      "orig_date_added":"2014-12-24 20:12:34",
+      "images":""
+   },
+   {
+      "item_id":"eapla3dprfi22",
+      "stars":5,
+      "name":"Sid",
+      "title":"Best PLA I've tried",
+      "location":"Oregon",
+      "review":"When I first got my 3D printer running, I'd buy PLA off of Amazon. No free shipping and not that good of PLA. Then I stumbled across Makergeeks.com and bought some PLA. It is a great price, free shipping and prints very well.",
+      "orig_date_added":"2014-08-22 19:05:09",
+      "images":""
+   },
+   {
+      "item_id":"plaglblco11s",
+      "stars":4,
+      "name":"Andy the Printing Fanatic",
+      "title":"Couldn't ask for anything better",
+      "location":"Northbrook, Illinois",
+      "review":"This filament is exceptionally great. When I started getting involved with 3D printing, I first bought cheap filament off of an internet store. The ABS plastic wouldn't adhere to the print platform or to the layers. The PLA was possible to print with but required extremely precise leveling and some prints would simply fall over because of terrible adhesion. I had enough of this so I went to MakerGeeks and bought myself this PLA (I can't stand the smell of ABS). It works great! I couldn't have asked for anything better. The layers adhere to one another perfectly and the filament doesn't require as much leveling of the build platform (making it easier to print with). The color of the filament is also one of my favorites. It's a dark black that does shine a little bit when exposed to a light source. I did take off one star and that's because the filament gets stuck in the nozzle when the extruder heats up. It requires a flush (I simply make the printer extrude a couple of times) of plastic to make sure that you have a great start to the print. All in all, this plastic is one of my favorites and I would recommend it to anyone!",
+      "orig_date_added":"2014-08-31 12:59:01",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/07/49/52855970_459957_full.jpg"
+   },
+   {
+      "item_id":"plaglblco11s",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"I use this one a lot.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"--I use this color more than all the others.<br />--The first spool was great material. The second, not so much. I guess it was bound to happen sooner or later, and I've bought well over 30 spools. This spool I got just isn't printing quite right. I know I could easily return it, because Makergeeks is cool like that.<br />Before returning you should check some things first.<br />--First is temp. Too cool and you'll get warping upward, or even clogging. Too hot and you'll get stringy printing and warping downward. Room temp can also be a factor in manipulating your printing temp. I've noticed that different colors, even different spools may vary a little in temp. Different machines can also vary in temp. I guess it's according to the thermistor set up on the machine.<br />--Second is moisture. This can affect quality in prints even cause problems with extruding.<br />--At one point I was having problems with materials printing solid. The layers would print right on part of it then brake up on other parts. There was also this clicking sound I couldn't trace down. I eventually found out that the gears in my extruder motor wearing out.<br />--It pays to check a few things out first. Just saying. I'm not ready to give on this spool yet. I've got to do some more test on it first. I learned the hard way, but hopefully this helps someone else.",
+      "orig_date_added":"2014-08-21 22:14:43",
+      "images":""
+   },
+   {
+      "item_id":"al23dekofudi",
+      "stars":4,
+      "name":"Mike",
+      "title":"Easy Assembly",
+      "location":"Olathe, KS",
+      "review":"Makergeek was quick to respond to questions.  Printer is solid/sturdy.  The feeder tube on occasion interferes with the autolevel feature, which is a sensor at the top of the hotend (allowing the print head to be used similar to the probe).",
+      "orig_date_added":"2015-01-10 20:11:02",
+      "images":""
+   },
+   {
+      "item_id":"crproduex3dp",
+      "stars":5,
+      "name":"Bandanam4n",
+      "title":"Awesome Performance For an Awesome price",
+      "location":"Denmark Wi",
+      "review":"I use this thing 24/7<br />i had to tinker to get it running<br />no &quot;dedicated&quot; software<br />awesome prints<br />awesome quality<br />sturdy<br />enclosed",
+      "orig_date_added":"2014-08-24 10:10:23",
+      "images":""
+   },
+   {
+      "item_id":"crproduex3dp",
+      "stars":5,
+      "name":"Shutterspeed",
+      "title":"Returned my eBay printer and bought this",
+      "location":"Franksville, WI",
+      "review":"I purchased a less expensive Wanhao 3D printer on line and struggled with it for over a month.  The seller was extremely gracious and gave me a full refund.  I unpacked the Creator Pro and was printing two color projects very quickly after leveling the bed.  I am really enjoying this printer!",
+      "orig_date_added":"2014-08-16 11:33:34",
+      "images":""
+   },
+   {
+      "item_id":"absfiglindam1",
+      "stars":5,
+      "name":"Ballard Bandit",
+      "title":"Beautiful Blue, Glows Green",
+      "location":"Ballard, QLD, Australia",
+      "review":"How you use the product: Toys, keyrings.<br /><br />Things that are great about it: Great Color, Low Odour, High Strength, Consistent Diameter, Solid spool reel.<br /><br />Things that aren't so great about it: The website picture showed it glowed blue.",
+      "orig_date_added":"2014-08-31 05:17:07",
+      "images":""
+   },
+   {
+      "item_id":"absbrbr11kg",
+      "stars":4,
+      "name":"MrBaz",
+      "title":"Glittery Brown",
+      "location":"Colorado Springs, CO",
+      "review":"Got this as part of a sampler pack. Prints more of a shimmery brown than a true metallic. It still looks great in bright direct light. Like a dull copper color.",
+      "orig_date_added":"2014-08-21 18:08:31",
+      "images":""
+   },
+   {
+      "item_id":"absbrbr11kg",
+      "stars":5,
+      "name":"P",
+      "title":"beautiful finish - looks amazing",
+      "location":"Albuquerque,nm",
+      "review":"Great filament, again absolutely amazing when acetone treated, looks nearly like real bronze.",
+      "orig_date_added":"2014-08-19 11:27:07",
+      "images":""
+   },
+   {
+      "item_id":"suteexfunpa",
+      "stars":5,
+      "name":"Angie the MOM",
+      "title":"Love the sample pack",
+      "location":"Columbia, MD",
+      "review":"We used the filaments for small projects to decide which filaments work best in our printer and for our uses.",
+      "orig_date_added":"2014-08-28 08:30:27",
+      "images":""
+   },
+   {
+      "item_id":"flecbl3",
+      "stars":5,
+      "name":"Sid",
+      "title":"Fun to try out",
+      "location":"Oregon",
+      "review":"We used this to experiment making tires for robotics. Although we didn't actually use it on the robot, it was fun to experiment with.",
+      "orig_date_added":"2014-08-22 19:18:29",
+      "images":""
+   },
+   {
+      "item_id":"absglindagrc",
+      "stars":3,
+      "name":"bandanam4n",
+      "title":"Glow in the Dark is great!",
+      "location":"Denmark Wi",
+      "review":"I use this for random things that are on display.",
+      "orig_date_added":"2014-08-24 09:57:56",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/08/35/52732077_457906_full.jpg"
+   },
+   {
+      "item_id":"mafipla1rare",
+      "stars":5,
+      "name":"djeclipse25",
+      "title":"Great filament",
+      "location":"WI",
+      "review":"I have about 30 hours or more into the makergeeks filaments without any issues. The parts I am printing are generally with a 0.6mm nozzle @ 0.2mm layers, and take 9hrs or more a piece.<br />Finally not throwing my money into he garbage.",
+      "orig_date_added":"2015-02-20 19:12:19",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/08/42/58309610_520950_full.jpg"
+   },
+   {
+      "item_id":"mafipla1rare",
+      "stars":4,
+      "name":"David",
+      "title":"Good Stuff",
+      "location":"Jacksonville, Fl",
+      "review":"This is good filament, especially for the price.  I like the color. The best compliment for filament is that it works without issue and this does that.",
+      "orig_date_added":"2015-02-18 06:10:28",
+      "images":""
+   },
+   {
+      "item_id":"pet3dprfi1",
+      "stars":5,
+      "name":"Fredjikrang",
+      "title":"Amazing!",
+      "location":"Utah",
+      "review":"I got some of this in the exotics pack, and it printed amazingly well on my Solidoodle Press! I didn't have any trouble with it at all at a temperature of 230&ordm;C, with the bed set to 50&ordm; C.<br /><br />This printed much, much better than T-glass! If only it wasn't so expensive!",
+      "orig_date_added":"2015-01-28 21:16:00",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/08/49/57466093_513126_full.jpg"
+   },
+   {
+      "item_id":"hiimpohfi1",
+      "stars":5,
+      "name":"rdrink",
+      "title":"Dissolvable!",
+      "location":"Chicago, IL",
+      "review":"This filament worked great the first time I tried it. Extruded fine, then dissolved quickly and easily (in limoneen).",
+      "orig_date_added":"2014-08-25 08:38:53",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1drwh",
+      "stars":4,
+      "name":"Triphi",
+      "title":"Nice for printing bones.......",
+      "location":"Ottawa, Ontario",
+      "review":"Good for general purpose printing.<br />Great for printing bones as it is closer to a bone white.<br />Tend to get brown spots if temperature is set too high.<br />I use it to print scans of people.<br />Have bought more and will buy more.<br />Use on Printrbot Metal, two Solidoodles, and three Flashforge Creators.",
+      "orig_date_added":"2015-04-10 09:30:29",
+      "images":""
+   },
+   {
+      "item_id":"mafiabs1drwh",
+      "stars":5,
+      "name":"adamwest",
+      "title":"models turn out great in white",
+      "location":"San Antonio TX",
+      "review":"Perfect for prints that should be looked at as being your prints and not for people worrying about that color or that shade. IT IS WHITE letting people see your print for what it is.",
+      "orig_date_added":"2015-03-23 19:32:01",
+      "images":""
+   },
+   {
+      "item_id":"befi1glclfi",
+      "stars":5,
+      "name":"IntrepidDismay",
+      "title":"Bendlay Extruder Mod",
+      "location":"Astorville, Ontario Canada",
+      "review":"I use it on my makerbot 1.<br />Heated to 234 degrees, heat bed at 45 degrees / 100% fill with a glass bed, blue painters tape and a small amount of mod podge for great adhesion. Nice flat prints and easy to pop off the heat bed, but the print job is hard to separate from the raft. but with patience and an exacto knife, it will come apart.",
+      "orig_date_added":"2014-09-07 19:40:00",
+      "images":""
+   },
+   {
+      "item_id":"allmejhed3me",
+      "stars":5,
+      "name":"Rachnid",
+      "title":"Definately Worth it!",
+      "location":"Billing MT",
+      "review":"I outsourced one of these from china a while back.<br />with that said, I have now replaced it with this one.  the differences? I did not have to wait a month and half, and this one is much better made.<br />no burrs, smooth printing, and cool looking to boot.<br />definately the best J-head I have come accrossed",
+      "orig_date_added":"2015-01-27 15:30:20",
+      "images":""
+   },
+   {
+      "item_id":"allmejhed3me",
+      "stars":5,
+      "name":"Bob",
+      "title":"The only way to get this ROBO3D to print",
+      "location":"Syracuse, NY",
+      "review":"Great Product!!  The only way to get this junk ROBO3D to print anything.  A++ great product.  Awesome machining!  Love the printed fan mount!!  <br /><br />Only wish you identified what wire does what?  Fix the description - Fiber insulated thermistor...  fiberglass wire not attached to thermistor....  I figured it out.",
+      "orig_date_added":"2014-09-18 15:26:14",
+      "images":""
+   },
+   {
+      "item_id":"allmejhed3me",
+      "stars":5,
+      "name":"JArslan",
+      "title":"Hard core quality",
+      "location":"Richland, WA",
+      "review":"Amazing quality, great design. When you put this guy on your printer it changes the dynamic to where you are looking at a solid piece of machinery. I was doubting my new found love of 3d printing before I had this guy in place, Now I have far less (or at all) messed up prints.",
+      "orig_date_added":"2014-08-26 11:03:08",
+      "images":""
+   },
+   {
+      "item_id":"allmejhed3me",
+      "stars":5,
+      "name":"Arzlanman",
+      "title":"Hard core quality",
+      "location":"Richland, WA",
+      "review":"Added this to my Mini Kossel, this was the third replacement to my Peek versions that kept dying on me, it has stayed up and running for much longer the the cheaper ones I had so worth the month. Also it was nice that it looked quite cool.",
+      "orig_date_added":"2014-08-25 16:51:15",
+      "images":""
+   },
+   {
+      "item_id":"allmejhed3me",
+      "stars":5,
+      "name":"Travis S",
+      "title":"Fantastic Hotend",
+      "location":"Neenah, Wi",
+      "review":"I bought this as a replacement/upgrade for my hacked up Printrbot Simple.<br /><br />It required some simple wiring and some adjustments on my printer to fit. I was very impressed by the quality of the wiring, and the fit an finish of the product. I had to modify my printer a bit to work around the largish (compared to the Ubis hot end) heat sink.<br /><br />I have been printing a good amount of PLA at 200 C, and I find the results to be much better then the Ubis hot end that I was using.",
+      "orig_date_added":"2014-08-18 09:32:38",
+      "images":""
+   },
+   {
+      "item_id":"allmejhed3me",
+      "stars":5,
+      "name":"Jordan the leperchuan",
+      "title":"The God of Hot Ends",
+      "location":"Southbury,CT",
+      "review":"I bought this product awhile ago and it is amazing; it prints like a dream. I have only had one problem with it which was my fault while printing I was determining temp and with this hotend can get really....well Hot!! lol; the filament got stuck in the hotend but it was so easy to remove from this one. I was back printing in no time",
+      "orig_date_added":"2014-08-16 13:33:15",
+      "images":""
+   },
+   {
+      "item_id":"allmejhed3me",
+      "stars":5,
+      "name":"Matt",
+      "title":"Why would anybody not buy this",
+      "location":"Kansas",
+      "review":"I like the design of this extruder. And I love how it looks on my printer. And if I ever wanted to use a different size filament I could just use the extra nozzle that comes with it.",
+      "orig_date_added":"2014-08-11 13:43:36",
+      "images":""
+   },
+   {
+      "item_id":"absfiglindap1",
+      "stars":5,
+      "name":"XxSaveryxX",
+      "title":"Beautiful! Glows great!!",
+      "location":"Ypsilanti Michigan",
+      "review":"I purchased this product for a project in my digital fabrication class. When it came in, I was excited to check out how bright the color was right away and put it under a black light. To my surprise, the filament glowed green, not purple. Although it didn't glow the color I wanted, I still used it in my project and got an A. Everyone in the classroom loved how it looked under a black light and even a few people asked to use it for their project. I highly recommend it, just remember that it glows green...not purple.",
+      "orig_date_added":"2014-08-11 08:35:05",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/08/97/52480273_454015_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/08/97/52480273_454016_full.jpg"
+   },
+   {
+      "item_id":"absbrwhco11s",
+      "stars":5,
+      "name":"MrBaz",
+      "title":"Really white",
+      "location":"Colorado Springs, CO",
+      "review":"I had absolutely no problems printing this filament. It took me a while of priming some of this filament in order to get all of the black color out of the hot end. After that, this filament was super white. Very shiny after treating it with some acetone.",
+      "orig_date_added":"2014-08-22 17:05:45",
+      "images":""
+   },
+   {
+      "item_id":"absbrwhco11s",
+      "stars":5,
+      "name":"Hamhog55",
+      "title":"outstanding stuff",
+      "location":"Arkansas",
+      "review":"We ran this white color and never had a problem with it not extruding.",
+      "orig_date_added":"2014-08-19 12:00:36",
+      "images":""
+   },
+   {
+      "item_id":"60vxbbe2pa",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Good bearings for small projects.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-These are great for small projects.<br />-Solid, smooth rolling bearings.<br />-They are the same ones on the Makergeeks spool holder. I doubled mine up since some of the spools vary in width. Even with adding 4 extra bearings, the Makergeeks spool holder is still a great price. The spool holder will also save stress on your extruder motor.",
+      "orig_date_added":"2014-08-18 18:46:03",
+      "images":""
+   },
+   {
+      "item_id":"tabrny3dfi",
+      "stars":5,
+      "name":"KD",
+      "title":"Good stuff for strong parts",
+      "location":"KC",
+      "review":"Prints up nicely.  Had to use raft for best adhesion.<br /><br />Very strong compared to ABS and PLA.  Printed at 245C for hot end and 70C for bed temp.",
+      "orig_date_added":"2015-02-15 18:53:37",
+      "images":""
+   },
+   {
+      "item_id":"tabrny3dfi",
+      "stars":5,
+      "name":"TheJubbez",
+      "title":"Amazing Filament and Cheap!!!",
+      "location":"Pueblo Colorado",
+      "review":"the first print i did was an note 2 case it printed amazing solid and i would trust my phone with it. after that made some miniatures and earnings for my lady, they will hold up for ever!!! no separation of layers like pla.",
+      "orig_date_added":"2014-08-19 13:03:58",
+      "images":""
+   },
+   {
+      "item_id":"tabrny3dfi",
+      "stars":3,
+      "name":"MrMaint (Mr. Maintenance)",
+      "title":"Bought for stronger prints",
+      "location":"Bonney Lake and Auburn,WA",
+      "review":"I am new to 3D printing. I have only owned my Printrbot Simple for about a month. I wanted to get stronger printed parts than what I was getting with PLA, but did not acheive that. I tried many different settings over a week of printing with this product. What worked the best for me was to set the temp +10 degrees higher, and to set my print speed to half of the speed that I was using to get good PLA prints with. Even at that, I was still having problems with layer delamination. I was printing on an aluminum print bed with blue (Harbor Freight) masking tape layer (rubbed down really well).",
+      "orig_date_added":"2014-08-11 09:43:50",
+      "images":""
+   },
+   {
+      "item_id":"du4sallmefr3",
+      "stars":5,
+      "name":"Eternal Armory",
+      "title":"A work horse!!!!",
+      "location":"Willard, MO",
+      "review":"I cannot say how much I love this printer.  I have another more expensive SLA printer, and right now we have shifted the bulk of our prints to this one.  Reason, it cost less to operate and runs without a flaw so far.  We still use the SLA printer for highly detailed lettering which we leave areas to glue those on.<br /><br />We are mainly custom Cosplay prop builders so we use this machine to make a master that we then mold up and resin cast parts from.",
+      "orig_date_added":"2015-04-06 09:26:20",
+      "images":""
+   },
+   {
+      "item_id":"du4sallmefr3",
+      "stars":4,
+      "name":"harlandmii",
+      "title":"Nice Printer",
+      "location":"odessa tx",
+      "review":"Super quiet. Nice construction. Had some problems with temperature fluctuation when I first received it, but with a little trouble shooting, got everything going. Wanhao tech support not very helpful.",
+      "orig_date_added":"2015-03-19 22:40:06",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/09/30/59565726_529676_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/09/30/59565726_529677_full.jpg"
+   },
+   {
+      "item_id":"du4sallmefr3",
+      "stars":5,
+      "name":"Wizechatmgr",
+      "title":"Loving it",
+      "location":"Albany, NY, USA Area",
+      "review":"Wing-nuts drop off bed leveling mechanism during shipping - search for them and you'll find them somewhere in the box or device.<br /><br />LCD sometimes goes wacky in middle of long prints - not a big deal since you get music when it completes... Usually resets shortly after - odds are LCD cable needs to be shielded. I just watch Simplify 3d's stats to make sure all is going well.<br /><br />Major plus - metal frame - provides for less need to re-level bed.<br /><br />Works with Windows 8.1 &amp; 7.",
+      "orig_date_added":"2015-01-15 13:25:58",
+      "images":""
+   },
+   {
+      "item_id":"suteplafunpa",
+      "stars":5,
+      "name":"Travis",
+      "title":"Excellent starter pack!",
+      "location":"Evansville, IN",
+      "review":"Bought this pack shortly after building my Printrbot Simple and I was not let down.  While the printer kit came with some sample filament, it was very difficult to use and get consistent prints.  This pack though was much easier to dial in a good heat and other settings, and I getting very good results with little setting adjustments.",
+      "orig_date_added":"2014-08-26 07:35:10",
+      "images":""
+   },
+   {
+      "item_id":"suteplafunpa",
+      "stars":4,
+      "name":"KMX",
+      "title":"Wonderful",
+      "location":"USA",
+      "review":"At first I was kind of disappointed about the amount, but I soon got over it and was very impressed at the quality of the filament and the vibrant colors.",
+      "orig_date_added":"2014-08-21 17:48:27",
+      "images":""
+   },
+   {
+      "item_id":"suteplafunpa",
+      "stars":4,
+      "name":"KMX",
+      "title":"Great Quality",
+      "location":"USA",
+      "review":"At first I was kind of disappointed about the amount of filament included for the price. But I soon got over it and once I used it, I was amazed at the quality and the vibrant color.",
+      "orig_date_added":"2014-08-20 19:45:00",
+      "images":""
+   },
+   {
+      "item_id":"suteplafunpa",
+      "stars":5,
+      "name":"Natasha R.",
+      "title":"Love it!",
+      "location":"Boston, MA",
+      "review":"I bought a PLA fun pak a few months ago, Joshua was able to get me the colors I was dying to try so now when I have the right hot-end for my printer, I'll be making a big ULTRA PLA purchase. The colors are fantastic. These paks are a great way to check out new filaments without regret.",
+      "orig_date_added":"2014-08-18 12:15:18",
+      "images":""
+   },
+   {
+      "item_id":"suteplafunpa",
+      "stars":5,
+      "name":"JSpinner 3D fun",
+      "title":"First 3D print using PLA PAK - AWESOME!",
+      "location":"Eagle, Idaho",
+      "review":"After building our 1st Prusa i3v printer from a kit, we chose to use PLA filament because it does not have an obnoxious toxic smell when printing indoors, like ABS. Since we had no idea of what to expect from our new printer, we loaded the PLA to try out. We printed a blue transparent cube for the first test run, and it was AWESOME! There was no smell. It printed PERFECTLY and easily. No clogging, no imperfections in the PLA, and the entire experience was amazing. We had researched issues others had experienced with materials that were not of quality supplies. With our PLA PAX from MakerGeeks, we will not use anything of less quality. We highly recommend getting quality supplies you can depend on, from MakerGeeks.com.",
+      "orig_date_added":"2014-08-15 12:49:15",
+      "images":""
+   },
+   {
+      "item_id":"suteplafunpa",
+      "stars":4,
+      "name":"Printed_Concepts",
+      "title":"Good Sampler",
+      "location":"Virginia",
+      "review":"Good for sampling of maker geeks PLA filament and how it works.  Also good for testing some colors and making a few small parts",
+      "orig_date_added":"2014-08-13 21:23:57",
+      "images":""
+   },
+   {
+      "item_id":"tpe3dprfigr",
+      "stars":5,
+      "name":"Super Stonegiant",
+      "title":"Love this stuff.",
+      "location":"Granite City,  ILLINIOS",
+      "review":"-240deg on duplicator4 217deg on Solidoodle2.<br />-Solidoodle2 has a limit of 220. Running this material on Solidoodle is not good on it, but can be<br />done.<br />-Spools unravel to easy. Almost spring loaded.<br />-Even with the cons I still give this a 5, because it is truely beautiful material.",
+      "orig_date_added":"2014-08-13 18:02:19",
+      "images":"http://powerreviews.s3.amazonaws.com/images_customers/10/02/52527113_454728_full.jpg,http://powerreviews.s3.amazonaws.com/images_customers/10/02/52527113_454729_full.jpg"
+   },
+   {
+      "item_id":"mafipla1sunp",
+      "stars":4,
+      "name":"Gatekeeper Calvin",
+      "title":"Fantastic filament!",
+      "location":"Pittsburgh, PA",
+      "review":"Bought this to make Christmas gifts for my friends and family. I'd had some... forgettable experiences with filament from Makergeeks in the past (though some quite memorably good ones as well!), and decided to give the new &quot;Maker filament&quot; a chance. Figured with the price, I didn't have much to loose. I can confidently say, I didn't loose a single thing!<br /><br />Don't question the quality of the filament from the price, it's as good as any $50 roll I've ever used! It prints like a dream, it flows through the hot end like oiled butter, and sticks to the bed without hassle. The parts I've made with it are structurally sound, both with the novelty items I've made (tons and tons of pikachu figures) and the structural components I've made (fan shroud for an overheating motor on my printer) have held strong and effective.<br /><br />The only disappointment I had with this filament was that from the picture, the plastic looked opaque. In person, the filament I got was quite obviously transparent. On prints with several perimeters and even moderate infill, prints will not be transparent, but on single-walled vases light will escape through.<br /><br />Save for the lack of opacity, I can confidently say that this is some of the best-valued filament available for purchase! Would and WILL buy again!",
+      "orig_date_added":"2014-12-29 22:20:17",
+      "images":""
+   }
+]

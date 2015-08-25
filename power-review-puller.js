@@ -19,8 +19,7 @@ function pad(v) {
 }
 
 function cleanIds(review_id) {
-    review_id = review_id.replace(/^[p]?/, '');
-    return review_id.replace(/__/g, '-');
+    return review_id.replace(/^[p]?/, '');
 }
 
 function trimLast(theString) {
@@ -55,7 +54,7 @@ function buildReviewList(review_data, group) {
 
 var main_group = 0; // test group
 var sec_group = 0;
-var maxMain_group = 10;
+var maxMain_group = 11;
 
 // max seen 10-13
 setInterval(function() {
